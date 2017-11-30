@@ -1,0 +1,53 @@
+---
+layout: post
+title: Barrier problem née archer problem
+date: 2014-12-16 15:33:07.000000000 -05:00
+type: post
+parent_id: '0'
+published: true
+password: ''
+status: publish
+categories:
+- Problems
+tags: []
+meta:
+  _edit_last: '4959'
+  sbe_sent: '1'
+  _encloseme: '1'
+author:
+  login: fowler.291
+  email: fowler.291@osu.edu
+  display_name: James Fowler
+  first_name: James
+  last_name: Fowler
+---
+<p style="margin-left: 2em;">Submitted by Matthew Stone (Ross counselor and Yale undergraduate)</p>
+<p dir="ltr">A collection of line segments contained in a unit square is said to be a <strong>barrier</strong> if every straight line that crosses the square cuts one of those line segments.  <em>Note:</em> A barrier is not required to be connected.</p>
+<p>[caption id="attachment_498" align="aligncenter" width="600"]<a href="https://u.osu.edu/rossmath/files/2014/12/barrier-1sofb7r.png"><img class="size-full wp-image-498" alt="Barrer" src="{{ site.baseurl }}/assets/barrier-1sofb7r.png" width="600" height="216" /></a> Examples (1) and (2) are barriers, while (3) is not.[/caption]</p>
+<p>The length of barrier (1) is 2√2 ≈ 2.828 units.  The length of barrier (2) is shorter (with length depending on the location of those interior intersection points).   Can you find a barrier of shorter length?  <b id="docs-internal-guid-74710224-4fde-f3cc-8814-f2820c173274">What is the smallest possible length for such a barrier? </b></p>
+<p><!--more--></p>
+<p dir="ltr">The <strong>barrier problem</strong> has many variations and generalizations, but the original problem is easily stated.  Suppose a convex set  <em>C</em>  in the plane is given.  A set <em>T</em> is called an <em>opaque set</em> or a <em>barrier</em> for  <em>C</em>  if every line that passes through <em>C</em> also meets  <em>T</em>.</p>
+<blockquote>
+<p dir="ltr"><strong>Problem.</strong> For a convex body  <em>C</em> in the plane, what is the smallest total length of a barrier  <em>T</em>?  Typically there are additional constraints:  <em>C</em>  is a polygon;  <em>T</em>  is a union of line segments;  the barrier  <em>T</em>  lies in the interior of  <em>C</em>,  or in the exterior.</p>
+</blockquote>
+<p>[caption id="attachment_500" align="alignright" width="188"]<a href="https://u.osu.edu/rossmath/files/2014/12/figure1-1waz440.png"><img class="size-full wp-image-500" alt="Figure 1.  The barrier" src="{{ site.baseurl }}/assets/figure1-1waz440.png" width="188" height="188" /></a> Figure 1. The given barrier has length 3.[/caption]</p>
+<p dir="ltr">This barrier problem was first introduced by <a href="http://en.wikipedia.org/wiki/Stefan_Mazurkiewicz">Mazurkiewicz</a> in 1916, but a solution has not been found even when  <em>C</em>  is a unit square. Some initial steps are mentioned below…but please stop reading right now, and try to find a few solutions for yourself before continuing!</p>
+<p>[caption id="attachment_501" align="alignleft" width="188"]<a href="https://u.osu.edu/rossmath/files/2014/12/figure2-2fcfmd8.png"><img class="size-full wp-image-501" alt="Figure 2." src="{{ site.baseurl }}/assets/figure2-2fcfmd8.png" width="188" height="188" /></a> Figure 2. The given barrier has length 1 + √3.[/caption]</p>
+<p dir="ltr">Let <em>MBL(C)</em> be the minimal barrier length for convex polygon <em>C</em>.  Let’s write  <em>p(C)</em>  for the perimeter of <em>C</em>.  A line that meets the interior of  <em>C</em>  must cross the boundary, and consequently:  <em>MBL(C) ≤ p(C)</em>.  In fact, any such line passes through two sides of <em>C</em>  so the set  <em>T</em>  of all but one side of <em>C</em> is opaque.  Therefore <em>MBL(C)  &lt;  p(C).</em></p>
+<p dir="ltr">Let’s restrict attention to the case  <em>C</em>  is the unit square  <em>S</em>.  Remarks above show that  <em>MBL(S) ≤ 3</em> (see Figure 1).</p>
+<p>[caption id="attachment_503" align="alignright" width="188"]<a href="https://u.osu.edu/rossmath/files/2014/12/figure3-2cbt9f0.png"><img class="size-full wp-image-503" alt="Figure 3." src="{{ site.baseurl }}/assets/figure3-2cbt9f0.png" width="188" height="188" /></a> Figure 3. This disconnected barrier has length 2 + √2/2.[/caption]</p>
+<p dir="ltr">If a set  <em>T</em>  inside  <em>S</em>  connects the four vertices, then  <em>T</em>  is a barrier.  The optimal such formation is a Euclidean <a href="http://en.wikipedia.org/wiki/Steiner_tree_problem">Steiner Tree</a> on 4 vertices, as pictured in Fig. 2.  Those interior angles each measure 120° and the length is  1 + √3 ≈ 2.732.</p>
+<p>[caption id="attachment_504" align="alignleft" width="188"]<a href="https://u.osu.edu/rossmath/files/2014/12/figure4-1gqdle3.png"><img class="size-full wp-image-504" alt="Figure 4." src="{{ site.baseurl }}/assets/figure4-1gqdle3.png" width="188" height="188" /></a> Figure 4. This barrier has length √2 + √6/2.[/caption]</p>
+<p dir="ltr">But a barrier need not be connected!  With some thought (and luck), a flash of insight yields a barrier built from two sides and a half-diagonal (see Figure 3).  This one has length  2 + √2/2 ~ 2.707,  shorter than the previous barrier.  With Steiner-type moves we can optimize this two-piece version to get the barrier in Figure 4, with length √2 + √6/2 ≈ 2.639.  This one is conjectured to be the shortest barrier for the square, but no one has ever found a proof (or a shorter barrier).</p>
+<h2 dir="ltr" style="clear: both;">Generalizations</h2>
+<p>[caption id="attachment_515" align="alignright" width="217"]<a href="https://u.osu.edu/rossmath/files/2014/12/figure5-1aswfle.png"><img class="size-full wp-image-515" alt="BARRIER" src="{{ site.baseurl }}/assets/figure5-1aswfle.png" width="217" height="217" /></a> Figure 5. This barrier has length approxmately 4.79989.[/caption]</p>
+<p>There are many ways to generalize the barrier problem, and many of them involve non-polygonal convex bodies.  For instance consider the problem for the unit disk  <em>D</em>.   In this case a barrier, or opaque set, is often known as a Beam Detector.  The shortest known barriers seem to be external to  <em>D</em>.  Figure 5 shows a two-piece barrier for the unit disk; this barrier is NOT optimal.  A shorter one is known.  <strong>Can you find a shorter barrier for the unit disk?</strong></p>
+<p dir="ltr">While exact solutions are not known for any of those barrier problems, some upper and lower bounds have been proved.  For example, if  <em>B</em>  is a barrier for convex body <em>C</em>,  then  length(<em>B </em>) ≥ 12p(C). A proof is given in <a href="#ref1">Reference [1]</a>.</p>
+<p dir="ltr">Most questions surrounding the Barrier Problem seem to be open.  In <a href="#ref2">Reference [2]</a>, the authors mention some interesting problems, many of which seem obviously true… but no proofs are known.  For example, two such PODASIPs are:</p>
+<ul>
+<li>An optimal barrier for a square is interior to the square.</li>
+<li>An optimal exterior barrier for the unit square has length 3.</li>
+</ul>
+<h2>References</h2>
+<p dir="ltr" id="ref1">[1] A. Dumitrescu, M. Jiang, and J. Pach, <a href="http://arxiv.org/pdf/1005.2218v5.pdf">Opaque Sets,</a> <a href="http://link.springer.com/journal/453">Algorithmica</a> 69 (2014) 315-334.</p>
+<p id="ref2">[2] A. Dumitrescu and M. Jiang , <a href="http://www.cs.uwm.edu/faculty/ad/column58.pdf">Computational Geometry Column 58</a>, Newsletter, ACM-SIGACT News 44 (2013) 73-78.</p>
