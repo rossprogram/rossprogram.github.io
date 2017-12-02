@@ -1,5 +1,5 @@
-# remote_theme: "mmistakes/minimal-mistakes"
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
+# theme: minimal-mistakes-jekyll
 
 # This config file is meant for settings that affect your entire site,
 # values which you are expected to set up once and rarely need to edit
