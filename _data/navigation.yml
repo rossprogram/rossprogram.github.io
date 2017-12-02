@@ -1,44 +1,35 @@
+main:
+  - title: "Students"
+    url: /first-years/
+  - title: "Counselors"
+    url: /counselors/
+  - title: "Alumni"
+    url: /alumni/
+    
 menu:
-  - title: Getting Started
+  - title: Students
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+      - title: "About"
+        url: /first-years/
+      - title: "Frequently Asked Questions"
+        url: /first-years/faq/
+      - title: "Course Topics"
+        url: /first-years/course-topics/	
+      - title: "Application"
+        url: /first-years/application/
 
-  - title: Customization
+  - title: Counselors
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+      - title: "About"
+        url: /counselors/
+      - title: "Application"	
+        url: /counselors/application/
 
-  - title: Content
+  - title: Alumni
     children:
-      - title: "Working with Posts"
+      - title: "Previous Summers"
         url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+      - title: "History"
+        url: /docs/posts/    	
+      - title: "Contribute"
+        url: /alumni/contribute/

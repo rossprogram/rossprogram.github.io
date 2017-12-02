@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Ross Mathematics Program
 date: 2014-08-18 20:34:36.000000000 -04:00
 type: page
@@ -9,15 +9,8 @@ password: ''
 status: publish
 categories: []
 tags: []
-meta:
-  _wp_page_template: default
-  _edit_last: '4951'
-author:
-  login: merry.10
-  email: merry.10@osu.edu
-  display_name: merry.10@osu.edu
-  first_name: Patricia
-  last_name: Merry
+sidebar:
+  nav: "menu"
 ---
   Tue June 12   to  Tue July 24, 2018
 (Tuesday  dates result from availability of dorm space at the OSU campus.)

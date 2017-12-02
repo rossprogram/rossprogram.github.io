@@ -13,11 +13,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en"
 title                    : "Ross Mathematics Program"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Ross Mathematics Program"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "http://rossprogram.com"
+baseurl                  : 
+repository               : "rossprogram/rossprogram.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -117,8 +117,9 @@ author:
 
 # Reading Files
 include:
-  - .htaccess
-  - _pages
+  - first-years
+  - counselors
+  - alumni
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -254,8 +255,7 @@ defaults:
       share: true
   - scope:
       path: ""
-      type: posts
+      type: pages
     values:
       sidebar:
         nav: "menu"
-	
