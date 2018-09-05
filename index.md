@@ -18,7 +18,7 @@ sidebar:
 
 The Ross Program at the <a href="http://www.osu.edu">Ohio State University</a> is an intensive summer experience designed to encourage motivated pre-college students to explore mathematics. During those six weeks, students are immersed in a world of mathematical discovery.
 
-[Dr. Arnold Ross](http://u.osu.edu/rossmath/alumni/biography/ "Ross Biography") founded this multi-level program at Notre Dame University in 1957\. Its growth was then spurred by the launch of the Sputnik satellite and the subsequent surge of interest in science education. Arnold Ross’s Program has run every summer since then, moving to Ohio State in 1964\. It is currently sponsored by the University.
+[Dr. Arnold Ross](/alumni/biography/ "Ross Biography") founded this multi-level program at Notre Dame University in 1957\. Its growth was then spurred by the launch of the Sputnik satellite and the subsequent surge of interest in science education. Arnold Ross’s Program has run every summer since then, moving to Ohio State in 1964\. It is currently sponsored by the University.
 
 The central goal of the Ross Program has always been to instruct bright young students in the art of mathematical thinking and to inspire them to discover for themselves that abstract ideas are valuable and important. First year participants take the basic course in number theory. For most students, this is the first time they are asked to consider entirely new questions, to develop methods that they have not seen before, and to justify every answer.
 
@@ -33,8 +33,8 @@ Ross/Asia will follow the same format and style as Ross/USA. All classes are hel
 
 ![University Hall, with Math Tower behind, at Ohio State University]({{ site.baseurl }}/assets/UHall-12ky344-300x217.gif){:style="float: right; margin-left: 12pt;"}
 
-Ambitious pre-college students with interests in mathematics and science are invited to [apply](http://u.osu.edu/rossmath/to-apply/). First-year students range in age from 15 to 18 years old. (In rare cases, younger or older students are accepted.)  Admission decisions are based on several criteria, including: school transcripts; teacher recommendations;  essays concerning the applicant’s interests and goals; and the applicant’s work on some challenging math problems.  
-Undergraduate math majors, and math graduate students, are invited to [apply to be a Ross Counselor](http://u.osu.edu/rossmath/counselors/).
+Ambitious pre-college students with interests in mathematics and science are invited to [apply](/first-years/to-apply/). First-year students range in age from 15 to 18 years old. (In rare cases, younger or older students are accepted.)  Admission decisions are based on several criteria, including: school transcripts; teacher recommendations;  essays concerning the applicant’s interests and goals; and the applicant’s work on some challenging math problems.  
+Undergraduate math majors, and math graduate students, are invited to [apply to be a Ross Counselor](/counselors/).
 
 NOTE. The Ross Program cannot accommodate students who must arrive in Columbus more than two days after the start of classes. Unfortunately, this policy eliminates applications from students whose high school schedules prevent them from arriving by Tuesday evening.
 
@@ -42,11 +42,11 @@ NOTE. The Ross Program cannot accommodate students who must arrive in Columbus m
 
 Fees for this program are determined the cost of six weeks of room and board and by various instructional costs. The Program fee for 2018 will be $4000.
 
-[Financial aid](http://u.osu.edu/rossmath/faq#program3 "Frequently Asked Questions") is available and we encourage qualified students to apply. We hope to be able to provide enough support to enable every accepted applicant to attend this great Program.
+[Financial aid](/first-years/faq "Frequently Asked Questions") is available and we encourage qualified students to apply. We hope to be able to provide enough support to enable every accepted applicant to attend this great Program.
 
 ## Brochure
 
-A copy of our 2016 program brochure may be downloaded at:  [Ross Brochure_2016](http://u.osu.edu/rossmath/files/2014/08/Ross-Brochure_2016-2ioc4zs.pdf) [pdf]
+A copy of our 2016 program brochure may be downloaded at:  [Ross Brochure_2016](/files/2014/08/Ross-Brochure_2016-2ioc4zs.pdf) [pdf]
 
 ## To Apply
 

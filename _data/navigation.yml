@@ -1,24 +1,28 @@
 main:
   - title: "Students"
-    url: /first-years/
+    url: /students/
   - title: "Counselors"
     url: /counselors/
   - title: "Alumni"
     url: /alumni/
     
 menu:
+  - title: Overview
+    url: /
   - title: Students
+    url: /students/
     children:
       - title: "About"
-        url: /first-years/
+        url: /students/
       - title: "FAQ"
-        url: /first-years/faq/
+        url: /students/faq/
       - title: "Course Topics"
-        url: /first-years/course-topics/	
+        url: /students/course-topics/	
       - title: "Application"
-        url: /first-years/to-apply/
+        url: /students/to-apply/
 
   - title: Counselors
+    url: /counselors/  
     children:
       - title: "About"
         url: /counselors/
@@ -26,6 +30,7 @@ menu:
         url: /counselors/to-apply/
 
   - title: Alumni
+    url: /alumni/      
     children:
       - title: "About"
         url: /alumni/    

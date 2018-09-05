@@ -1,6 +1,6 @@
 ---
 layout: single
-title: To Apply to the Ross Mathematics Program
+title: To Apply
 type: page
 parent_id: '0'
 published: true

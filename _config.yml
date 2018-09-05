@@ -14,7 +14,7 @@ locale                   : "en"
 title                    : "Ross Mathematics Program"
 title_separator          : "-"
 name                     : "Ross Mathematics Program"
-description              : "An amazing website."
+description              : "Think Deeply of Simple Things"
 url                      : "http://rossprogram.com"
 baseurl                  : 
 repository               : "rossprogram/rossprogram.github.io"
@@ -62,7 +62,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -85,16 +85,16 @@ analytics:
 # Site Author
 author:
   name             : "Ross Mathematics Program"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  avatar           : "/images/logo.png"
+  bio              : ""
+  location         : "Columbus, Ohio, USA"
   email            : "ross@math.ohio-state.edu"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : 
+  facebook         : rossmathematicsprogram
   foursquare       :
   github           : rossprogram
   gitlab           :

@@ -28,7 +28,7 @@ If you were once a Ross Program participant, we would love to hear from you, at�
 <p>See our <a title="News and Comments" href="/alumni/news-and-comments/">News and Comments</a> pages for a few alumni messages.  You are also welcome to contribute a <a href="/alumni/stories/">Ross anecdote</a>, and to visit the<a href="https://www.facebook.com/arnold.ross.372" target="_blank" rel="noopener"> Arnold Ross Facebook page</a>.</p>
 <p>Previous Ross Reunion-Conferences were held in <a title="1996 – 90th Birthday" href="/alumni/reunions/1996-90th-birthday/"> 1996</a> , <a title="2001 – 45th Year" href="/alumni/reunions/2001-45th-year/"> 2001</a> , and <a href="/alumni/reunions/2007-50th-year/" target="_blank" rel="noopener">2007</a>.</p>
 <hr />
-<p>Of course our Program needs <a href="/contribute/">financial support</a> to pay for scholarships and other expenses.</p>
+<p>Of course our Program needs <a href="/alumni/contribute/">financial support</a> to pay for scholarships and other expenses.</p>
 <hr />
 <p><strong>Further information of some interest to alumni: </strong></p>
 <ul>
