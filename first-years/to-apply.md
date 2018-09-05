@@ -1,7 +1,6 @@
 ---
 layout: single
 title: To Apply to the Ross Mathematics Program
-date: 2014-08-19 15:48:53.000000000 -04:00
 type: page
 parent_id: '0'
 published: true
@@ -11,12 +10,6 @@ categories: []
 tags: []
 meta:
   _edit_last: '4951'
-author:
-  login: merry.10
-  email: merry.10@osu.edu
-  display_name: merry.10@osu.edu
-  first_name: Patricia
-  last_name: Merry
 ---
 <hr />
 <h2 style="text-align: center;"><span style="color: #ff0000;">Application materials will be posted in January.</span></h2>

@@ -12,13 +12,9 @@ tags: []
 
 The Ross Program will hire several counselors to work from mid June to late July. For those six weeks, counselors live in a campus dormitory and supervise/assist the first-year students.  
 
-<em>Contact us in January to start the application process.</em>
-
 ## Application Requirements
 
 We are looking for students who are talented in mathematics and also have excellent social skills. We prefer applicants who are currently juniors or seniors in college, or who are graduate students working toward a degree involving math. Successful candidates should know basic abstract algebra and elementary number theory. Prior knowledge of all the [Course Topics](/first-years/course-topics/) is not required.
-
-If you are interested in becoming a Ross Counselor, please contact us at [ross@math.osu.edu](mailto:ross@math.osu.edu). The reply email will contain an application to complete and return.
 
 Each counselor must pass a background check prior to arrival on campus. If you are applying to Ross/USA and are not an American citizen or permanent resident, further steps might be needed for work authorization. Similarly, if you are applying to Ross/Asia and are not a Chinese citizen.  Let us know your citizenship when you apply and we will discuss possibilities.
 

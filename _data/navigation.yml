@@ -11,25 +11,27 @@ menu:
     children:
       - title: "About"
         url: /first-years/
-      - title: "Frequently Asked Questions"
+      - title: "FAQ"
         url: /first-years/faq/
       - title: "Course Topics"
         url: /first-years/course-topics/	
       - title: "Application"
-        url: /first-years/application/
+        url: /first-years/to-apply/
 
   - title: Counselors
     children:
       - title: "About"
         url: /counselors/
       - title: "Application"	
-        url: /counselors/application/
+        url: /counselors/to-apply/
 
   - title: Alumni
     children:
+      - title: "About"
+        url: /alumni/    
       - title: "Previous Summers"
         url: /docs/posts/
       - title: "History"
-        url: /docs/posts/    	
+        url: /alumni/history/
       - title: "Contribute"
         url: /alumni/contribute/

@@ -1,7 +1,6 @@
 ---
 layout: single
 title: Ross Mathematics Program
-date: 2014-08-18 20:34:36.000000000 -04:00
 type: page
 parent_id: '0'
 published: true
@@ -13,13 +12,12 @@ sidebar:
   nav: "menu"
 ---
   Tue June 12   to  Tue July 24, 2018
-(Tuesday  dates result from availability of dorm space at the OSU campus.)
+(Tuesday dates result from availability of dorm space at the OSU campus.)
 
 # Introduction
 
-[caption id="attachment_6" align="alignright" width="275"]<a href="http://u.osu.edu/rossmath/files/2014/08/numbers-1vebwcd.jpg"><img class="size-full wp-image-6 " src="{{ site.baseurl }}/assets/numbers-1vebwcd.jpg" alt="Garden of Constants at Ohio State University" width="275" height="197" /></a> Garden of Constants at Ohio State University[/caption]
-
 The Ross Program at the <a href="http://www.osu.edu">Ohio State University</a> is an intensive summer experience designed to encourage motivated pre-college students to explore mathematics. During those six weeks, students are immersed in a world of mathematical discovery.
+
 [Dr. Arnold Ross](http://u.osu.edu/rossmath/alumni/biography/ "Ross Biography") founded this multi-level program at Notre Dame University in 1957\. Its growth was then spurred by the launch of the Sputnik satellite and the subsequent surge of interest in science education. Arnold Ross’s Program has run every summer since then, moving to Ohio State in 1964\. It is currently sponsored by the University.
 
 The central goal of the Ross Program has always been to instruct bright young students in the art of mathematical thinking and to inspire them to discover for themselves that abstract ideas are valuable and important. First year participants take the basic course in number theory. For most students, this is the first time they are asked to consider entirely new questions, to develop methods that they have not seen before, and to justify every answer.
@@ -28,11 +26,12 @@ The value of a mathematics education lies not only in obtaining proficiency in c
 
 **Ross Program in China.**  
 _Ross/Asia_ will be held in China during July and August.  Dates will be announced later.  
+
 Ross/Asia will follow the same format and style as Ross/USA. All classes are held in English. This information is mentioned again on the Ross Program's _To Apply_ page, and will also be posted [HERE](http://www.rossmathasia.org/).  (You may select "English" in the navigation bar). We are grateful to the private company _Renascentia Hall International_ for their continuing support of Ross/Asia.
 
 ## Eligibility
 
-[caption id="attachment_7" align="alignright" width="300"][![University Hall, with Math Tower behind, at Ohio State University]({{ site.baseurl }}/assets/UHall-12ky344-300x217.gif)](http://u.osu.edu/rossmath/files/2014/08/UHall-12ky344.gif) University Hall, with Math Tower behind, at OSU[/caption]
+![University Hall, with Math Tower behind, at Ohio State University]({{ site.baseurl }}/assets/UHall-12ky344-300x217.gif){:style="float: right; margin-left: 12pt;"}
 
 Ambitious pre-college students with interests in mathematics and science are invited to [apply](http://u.osu.edu/rossmath/to-apply/). First-year students range in age from 15 to 18 years old. (In rare cases, younger or older students are accepted.)  Admission decisions are based on several criteria, including: school transcripts; teacher recommendations;  essays concerning the applicant’s interests and goals; and the applicant’s work on some challenging math problems.  
 Undergraduate math majors, and math graduate students, are invited to [apply to be a Ross Counselor](http://u.osu.edu/rossmath/counselors/).
@@ -57,25 +56,7 @@ _The Ross Program application is posted by mid-January._  The Admissions Committ
 
 The Ross Program is supported in several ways. Partners in this mathematical enterprise include:
 
-[![The Ohio State University]({{ site.baseurl }}/assets/osu_logo-11nnmao.png)](http://www.osu.edu)[  
-The Ohio State University](http://www.osu.edu/)
-
-* * *
-
-[![American Mathematical Society]({{ site.baseurl }}/assets/AMS_logo-14vyxtl.jpg)](http://www.ams.org/programs/edu-support/epsilon/emp-epsilon)  
-[The American Mathematics Society’s Epsilon Fund](http://www.ams.org/programs/edu-support/epsilon/emp-epsilon)
-
-* * *
-
-[![JaneStreetLogoS]({{ site.baseurl }}/assets/JaneStreetLogoS-204ezrg.gif)](https://www.janestreet.com/)  
-[Jane Street](https://www.janestreet.com/)
-
-* * *
-
-[![Elsevier]({{ site.baseurl }}/assets/Elsevierlogo150-20pw3bu.jpg)](http://www.elsevier.com/)  
-[Elsevier](http://www.elsevier.com/)
-
-and several private donors.
+[![The Ohio State University]({{ site.baseurl }}/assets/osu_logo-11nnmao.png)](http://www.osu.edu/) [![American Mathematical Society]({{ site.baseurl }}/assets/AMS_logo-14vyxtl.jpg)](http://www.ams.org/programs/edu-support/epsilon/emp-epsilon) [![Jane Street]({{ site.baseurl }}/assets/JaneStreetLogoS-204ezrg.gif)](https://www.janestreet.com/) [![Elsevier]({{ site.baseurl }}/assets/Elsevierlogo150-20pw3bu.jpg)](http://www.elsevier.com/) and several private donors.
 
 ## Related Programs
 
@@ -83,4 +64,4 @@ Several other excellent summer mathematics programs are listed on the AMS [mathc
 
 ## Questions?
 
-Please see our [Frequently Asked Questions](http://u.osu.edu/rossmath/faq/ "Frequently Asked Questions") page for more information. You can also email us at [ross@math.osu.edu](mailto:ross@math.osu.edu).
+Please see our [Frequently Asked Questions](/first-years/faq/) page for more information. You can also email us at [ross@math.osu.edu](mailto:ross@math.osu.edu).

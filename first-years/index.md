@@ -1,7 +1,6 @@
 ---
 layout: single
 title: 1st Year Students
-date: 2014-08-19 14:32:04.000000000 -04:00
 type: page
 parent_id: '0'
 published: true
@@ -12,7 +11,8 @@ tags: []
 meta:
   _edit_last: '444'
 ---
-[caption id="attachment_23" align="alignright" width="257"][![Solving Together]({{ site.baseurl }}/assets/solvingTogether-s18id5-257x300.jpg)](http://u.osu.edu/rossmath/files/2014/08/solvingTogether-s18id5.jpg) Solving Together[/caption]
+
+![students working together on problem solving]({{ site.baseurl }}/assets/solvingTogether-s18id5-257x300.jpg "Solving Together"){:style="float: right; margin-left: 12pt;"}
 
 The first year course in the Ross Program is organized around a series of daily problem sets in number theory. These sets invite the participants to contemplate a variety of seemingly simple questions about numbers and their relationships. As the summer progresses the students are encouraged to investigate these questions in increasing depth, and to return to them periodically as their skill at abstract reasoning and their collection of available tools become more powerful.
 
@@ -32,7 +32,7 @@ To provide an idea of the level of mathematics involved, here is a copy of one o
 
 # Advanced Students and Counselors
 
-[caption id="attachment_24" align="alignright" width="300"][![Ross counselor reunion]({{ site.baseurl }}/assets/Fcounselors-1xzk1m5-300x224.jpg)](http://u.osu.edu/rossmath/files/2014/08/Fcounselors-1xzk1m5.jpg) Ross counselor reunion[/caption]
+![students working together on problem solving]({{ site.baseurl }}/assets/Fcounselors-1xzk1m5-300x224.jpg "Ross Counselor Reunion"){:style="float: right; margin-left: 12pt;"}
 
 In order for such an intensely problem-based approach to succeed, students must get careful and personal feedback on their work. This job is done by the Ross counselors, who live in the dormitories along with the younger participants.
 

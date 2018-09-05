@@ -1,3 +1,6 @@
+for making image galleries try 
+https://stackoverflow.com/questions/17677094/jekyll-for-loop-over-all-images-in-a-folder
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/matheducationforum/matheducationforum.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
