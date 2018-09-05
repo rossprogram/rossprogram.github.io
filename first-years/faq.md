@@ -1,7 +1,6 @@
 ---
 layout: single
 title: Frequently Asked Questions
-date: 2014-08-19 14:36:22.000000000 -04:00
 type: page
 parent_id: '0'
 published: true

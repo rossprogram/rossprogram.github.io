@@ -1,7 +1,6 @@
 ---
 layout: single
 title: Ross Biography
-date: 2014-08-19 16:20:21.000000000 -04:00
 type: page
 parent_id: '69'
 published: true

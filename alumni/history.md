@@ -1,7 +1,6 @@
 ---
 layout: single
 title: History of Arnold Ross and his Program
-date: 2014-12-13 04:06:52.000000000 -05:00
 type: page
 parent_id: '69'
 published: true
