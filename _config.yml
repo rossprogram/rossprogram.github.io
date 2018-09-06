@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Ross Mathematics Program"
+title                    : "The Ross Mathematics Program"
 title_separator          : "-"
 name                     : "Ross Mathematics Program"
 description              : "Think Deeply of Simple Things"
