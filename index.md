@@ -33,7 +33,7 @@ Ross/Asia will follow the same format and style as Ross/USA. All classes are hel
 
 ![University Hall, with Math Tower behind, at Ohio State University]({{ site.baseurl }}/assets/UHall-12ky344-300x217.gif){:style="float: right; margin-left: 12pt;"}
 
-Ambitious pre-college students with interests in mathematics and science are invited to [apply](/first-years/to-apply/). First-year students range in age from 15 to 18 years old. (In rare cases, younger or older students are accepted.)  Admission decisions are based on several criteria, including: school transcripts; teacher recommendations;  essays concerning the applicant’s interests and goals; and the applicant’s work on some challenging math problems.  
+Ambitious pre-college students with interests in mathematics and science are invited to [apply](/students/to-apply/). First-year students range in age from 15 to 18 years old. (In rare cases, younger or older students are accepted.)  Admission decisions are based on several criteria, including: school transcripts; teacher recommendations;  essays concerning the applicant’s interests and goals; and the applicant’s work on some challenging math problems.  
 Undergraduate math majors, and math graduate students, are invited to [apply to be a Ross Counselor](/counselors/).
 
 NOTE. The Ross Program cannot accommodate students who must arrive in Columbus more than two days after the start of classes. Unfortunately, this policy eliminates applications from students whose high school schedules prevent them from arriving by Tuesday evening.
@@ -42,7 +42,7 @@ NOTE. The Ross Program cannot accommodate students who must arrive in Columbus m
 
 Fees for this program are determined the cost of six weeks of room and board and by various instructional costs. The Program fee for 2018 will be $4000.
 
-[Financial aid](/first-years/faq "Frequently Asked Questions") is available and we encourage qualified students to apply. We hope to be able to provide enough support to enable every accepted applicant to attend this great Program.
+[Financial aid](/students/faq "Frequently Asked Questions") is available and we encourage qualified students to apply. We hope to be able to provide enough support to enable every accepted applicant to attend this great Program.
 
 ## Brochure
 
@@ -64,4 +64,4 @@ Several other excellent summer mathematics programs are listed on the AMS [mathc
 
 ## Questions?
 
-Please see our [Frequently Asked Questions](/first-years/faq/) page for more information. You can also email us at [ross@math.osu.edu](mailto:ross@math.osu.edu).
+Please see our [Frequently Asked Questions](/students/faq/) page for more information. You can also email us at [ross@math.osu.edu](mailto:ross@math.osu.edu).
