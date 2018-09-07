@@ -240,7 +240,10 @@ compress_html:
   ignore:
     envs: development
 
-
+collections:
+  years:
+    output: true
+  
 # Defaults
 defaults:
   # _posts

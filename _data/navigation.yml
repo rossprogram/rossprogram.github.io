@@ -35,7 +35,9 @@ menu:
       - title: "About"
         url: /alumni/    
       - title: "Previous Summers"
-        url: /docs/posts/
+        url: /alumni/previous-summers/
+      - title: "Group Photos"
+        url: /alumni/group-photos/
       - title: "History"
         url: /alumni/history/
       - title: "Contribute"

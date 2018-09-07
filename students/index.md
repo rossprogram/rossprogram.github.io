@@ -8,8 +8,6 @@ password: ''
 status: publish
 categories: []
 tags: []
-meta:
-  _edit_last: '444'
 ---
 
 ![students working together on problem solving]({{ site.baseurl }}/assets/solvingTogether-s18id5-257x300.jpg "Solving Together"){:style="float: right; margin-left: 12pt;"}

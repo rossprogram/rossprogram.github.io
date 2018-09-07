@@ -9,15 +9,8 @@ password: ''
 status: publish
 categories: []
 tags: []
-meta:
-  _edit_last: '4951'
-author:
-  login: merry.10
-  email: merry.10@osu.edu
-  display_name: merry.10@osu.edu
-  first_name: Patricia
-  last_name: Merry
 ---
+
 <h2>List of the Courses and Instructors, during the past several summer sessions</h2>
 <p><span style="color: #cc0000; font-size: x-large;">2016</span> <img src="{{ site.baseurl }}/assets/redline-v72qr1.gif" alt="" width="580" height="2" /></p>
 <p><b>Number Theory</b><br />
