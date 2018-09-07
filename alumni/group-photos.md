@@ -1,11 +1,7 @@
 ---
 layout: single
-title: Group photos
+title: Group Photos
 type: page
-published: true
-password: ''
-categories: []
-tags: []
 ---
 
 <figure class="third {{ include.class }}">
