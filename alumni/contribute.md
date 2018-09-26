@@ -21,21 +21,16 @@ We ask you to follow Jacob Lurie’s lead by helping to build this Endowment Fun
 
 ### By check
 
-Please make out the check to “the Ohio State University Foundation”
+Please make out the check to “Ross Mathematics Foundation”
 with “Ross Endowment Fund” in the memo, and mail it to:
 
-> The Ohio State University Foundation  
-> 1480 West Lane Avenue  
-> Columbus, OH 43221
+> Ross Mathematics Foundation  
+> 1644 Andover Rd.  
+> Columbus, OH 43212
 
 ### Online
 
-Credit card contributions can be at [Ohio State
-Giving](https://www.giveto.osu.edu/makeagift/OnlineGivingDonation.aspx?fund=646206&gs=include).
-Check that “Ross Mathematics Program Endowment Fund” is the name of
-the fund you contribute to.
-
-For either method of contributing, please [send us a short
+If you do contribute, please [send us a short
 email](mailto:ross@math.osu.edu) to make sure that we know about your
 donation. You should receive a tax receipt from the OSU Foundation.
 
