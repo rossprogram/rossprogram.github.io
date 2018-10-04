@@ -39,3 +39,13 @@ Counselors are undergraduate math majors or graduate studnents who are studying 
 Beginning students who do well are invited to return as junior counselors or counselors in subsequent summers. Advanced first-year students, junior counselors, and counselors take advanced courses which vary from year to year.
 
 Many alumni of the Ross Program have kept in contact with us. Some of their enthusiasm for the Program is evident in their comments posted on the [alumni news and comments page](/alumni/news/).
+
+# Nondiscrimination Policy
+
+The Ross Mathematics Program admits students of any race, color,
+national origin, and ethnic origin to all the rights, privileges,
+programs, and activities generally accorded or made available to
+students at the Ross Program. It doesn't discriminate on the basis of
+race, color, national origin, and ethnic origin in administration of
+its educational policies, admission policies, scholarship and loan
+programs, and athletic and other Ross-administered programs.

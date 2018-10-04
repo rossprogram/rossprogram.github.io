@@ -63,4 +63,4 @@ Several other excellent summer mathematics programs are listed on the AMS [mathc
 
 ## Questions?
 
-Please see our [Frequently Asked Questions](/students/faq/) page for more information. You can also email us at [ross@math.osu.edu](mailto:ross@math.osu.edu).
+Please see our [Frequently Asked Questions](/students/faq/) page for more information. You can also email us at [ross@rossprogram.org](mailto:ross@rossprogram.org).

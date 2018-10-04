@@ -9,4 +9,4 @@ categories: []
 tags: []
 ---
 
-If you are interested in becoming a Ross Counselor, please contact us at [ross@math.osu.edu](mailto:ross@math.osu.edu). The reply email will contain an application to complete and return.
+If you are interested in becoming a Ross Counselor, please contact us at [ross@rossprogram.org](mailto:ross@rossprogram.org). The reply email will contain an application to complete and return.
