@@ -195,11 +195,11 @@ insurance.
 
 #### Is there a nurse on duty/doctors on call? Is there a campus clinic that they can attend for minor problems?
 
-There is no formal clinic available on campus, but University staff members with training 
+The ODU campus does not have a medical clinic, but University staff members with training 
 in first-aid are available to help 24 hours per day.
 
 If a student is sick or injured, a counselor or staff member
-will transport and accompany them to the hospital or clinic.
+will transport and accompany them to a nearby hospital or clinic.
 
 
 #### Is there a pharmacy on campus?
