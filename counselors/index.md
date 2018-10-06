@@ -26,4 +26,6 @@ Counselors are role models for the younger students. Counselors supervise dormit
 
 ## Compensation
 
-In exchange for six weeks of work, Ross/USA provides each counselor with room and board and a stipend of $3500\.  Counselors at Ross/Asia work for fie weeks. They earn a smaller salary, but are reimbursed for their travel expenses.  Details are not yet available.
+In exchange for six weeks of work, Ross/USA provides each counselor with room and board and a stipend of $3500\.  No travel expenses are provided.  
+
+Counselors at Ross/Asia work for five weeks with a smaller salary, but are reimbursed for travel expenses.  Further details are not yet available.
