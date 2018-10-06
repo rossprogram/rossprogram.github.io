@@ -26,8 +26,8 @@ deeply into the underpinnings of that subject. But more importantly,
 they learn to communicate mathematical ideas clearly and to write
 convincing proofs of all of their assertions. One goal of this program
 is to provide a first step toward independent mathematical
-research. It is not oriented toward math contests and direct
-competition between students is avoided.
+research. It is not oriented toward math contests. Direct
+competition between students is discouraged.
 
 #### Is admission automatic?
 
@@ -55,53 +55,50 @@ Kent Cooke Foundation ([www.jkcf.org](http://www.jkcf.org)).
 
 #### Where do the students live?
 
-Students live in one of the dormitories on the campus of the Ohio State University in Columbus. Students typically share a room with one roommate. We try to arrange for roommates to have about the same level of mathematical experience. These assignments usually match the ages of the students, but not always.
+Students live in one of the dormitories on the campus of Ohio Dominican University in Columbus. Most students will live with three roommates in small suites consisting of two bedrooms, a bathroom, and a common area. 
 
 #### What is the mailing address?
 
 The mailing address for Ross Program participants is:
 
-> (participant's name)  
-> Ross Math Program  
-> OSU Math Department  
-> 231 W. 18th Ave  
-> Columbus, OH 43210-1174
+  (participant's name)  
+  Ross Math Program  
+  Ohio Dominican University  
+  1216 Sunbury Road  
+  Columbus, OH 43219
 
-This Math Department address is more reliable than the dormitory address.
 
 #### How are the dorm rooms furnished?
 
 The building is air-conditioned. Each participant has a single bed,
 desk and chair, and some closet space, and is provided two sheets,
-pillow and pillowcase, blanket, towel, and washcloth. Students provide
-their own clothes hangers, shampoo, soap and other personal items such
-as an alarm clock.
+a pillowcase, and a blanket. Students provide
+their own towels and washcloths, clothes hangers, shampoo, soap and 
+other personal items.  The dorm does not provide pillows. 
+You may bring a pillow, or purchase one at a nearby store.
 
 #### Is there a curfew?
 
-All students must remain inside the dormitory after dark and should
-not leave the campus at any time unless absolutely necessary and in
-the company of a counselor.
+All students must remain inside the dormitory after dark and must
+not leave the campus at any time unless accompanied by a counselor.
 
-#### Are the students segregated from traditional Ohio State students?
+#### Are the students segregated from college students, and from other summer camps?
 
-The Ross Mathematics Program usually almost fills up one or two floors
-of the dormitory. But college students live nearby and some of them
-attend summer classes. Various other academic and athletic camps for a
-wide range of ages are held on campus. Their participants arrive and
-leave throughout the summer and some of them will occupy the same
-building.
+The Ross Mathematics Program usually fills up two floors
+of the dormitory. Other camps are held on campus. 
+Their participants arrive and leave throughout the summer 
+and some of them will occupy the same dormitory building.
 
 #### What are the security arrangements in the dorm?
 
-The dormitory is locked, accessible only by key card, and each bedroom
+The dormitory is locked, accessible only by key card, and each suite
 has its own lock and key. In spite of these arrangements there is
 always some potential for theft or other crime, so we advise students
 not to avoid bringing valuable items or large amounts of cash.
 
-#### Are there life counselors (as opposed to math counselors)? Someone to check that students are eating right, doing laundry, cleaning their room, etc.?**
+#### Will the Ross counselors check that students are eating right, doing laundry, cleaning their room, etc.?**
 
-Ross counselors and students live in the same dormitory. Counselors
+Ross counselors and students live in the same dormitory. Counselors certainly 
 provide supervision, but we expect students to be mature enough to
 choose what and when they eat, do their own laundry, keep themselves
 and their rooms clean, and get enough sleep. If someone is not mature
@@ -111,18 +108,15 @@ and return home.
 
 #### What do they eat? Where do they eat? How often do they eat? Are there any accommodations for my child's special dietary needs, such as diabetes, peanut allergy, gluten intolerance, vegetarianism, etc.?
 
-Each participant receives a meal card to purchase food. Close to the
-dorm there is a traditional, cafeteria-style dining hall, offering two
-entrees per meal with assorted side dishes, beverages, and a full
-salad bar. Several other places on campus also accept meal cards, such
-as the restaurants in the _Ohio Union_. Menus are posted on the
-[Dining Services](http://diningservices.osu.edu/) web site.
+Student fees include the cost of three meals a day at the campus cafeteria. Upon request, 
+the cafeteria can provide foods for students who are on restrictive diets.  
+Some foods (e.g. pizza) can be ordered from nearby restaurants and delivered to the dorm.
 
 ## Packing List
 
 #### What do students need to bring?
 
-Sheets, blanket, pillow, pillowcase, towel, and washcloth are
+Sheets, blanket, pillowcase, towel, and washcloth are
 provided. Students need to bring their own shampoo, soap, etc. They
 also need to bring clothes appropriate for a Columbus summer,
 including a jacket and rain gear. A certain amount of cash is needed
@@ -183,13 +177,14 @@ First-year students are not allowed to bring cars.
 
 #### Do students bring/use bicycles?
 
-First-year students are not allowed to bring bicycles or skateboards.
+Students are not allowed to bring bicycles, scooters, skateboards, or similar items.
 
 ## Health Concerns
 
 #### Is a physical required?
 
-No. But we need to know of any existing medical conditions, so a health history is required.
+No. But we need to know of any existing medical conditions 
+and current medications, so a health history is required.
 
 #### Do we need health insurance?
 
@@ -198,23 +193,20 @@ Columbus, Ohio. Proof of insurance is required. If you do not have
 adequate coverage, we can suggest places to purchase short-term health
 insurance.
 
-#### Is there a nurse on duty/doctors on call?
+#### Is there a nurse on duty/doctors on call? Is there a campus clinic that they can attend for minor problems?
 
-For any medical concerns, [Wilce Student Health
-Center](http://www.shc.osu.edu/) and [The Ohio State University
-Medical Center](http://medicalcenter.osu.edu/Pages/index.aspx) are on
-campus. If a student is sick or injured, a counselor or staff member
+There is no formal clinic available on campus, but University staff members with training 
+in first-aid are available to help 24 hours per day.
+
+If a student is sick or injured, a counselor or staff member
 will transport and accompany them to the hospital or clinic.
 
-#### Is there a campus clinic that they can attend for minor problems?
-
-Yes, the [Wilce Student Health Center](http://www.shc.osu.edu/) clinic
-is on the central campus, about six blocks from the dorm.
 
 #### Is there a pharmacy on campus?
 
-There is a CVS pharmacy on campus, within walking distance of the
-dorm.
+There are pharmacies a mile or so away from campus.  Ross staff
+members will organize a shopping mall trip for those
+students who need to purchase items at a pharmacy.
 
 ## Recreation
 
@@ -231,8 +223,8 @@ libraries and other open campus spaces.
 
 #### Do you conduct field trips to other locations?
 
-Yes.  There is an off-campus fireworks trip on Independence Day and
-the Annual Ross Picnic.
+Yes.  We are planning several off-campus trips.  However, students 
+need to pay a small fee to take the organized trips.
 
 #### Are parents allowed/ encouraged to make mid-session visits to campus?
 
@@ -251,7 +243,7 @@ all of their energy on solving interesting math problems.
 
 #### Do you accept international students?
 
-Every year, many students from outside the U.S. are accepted to the
+Every year, several students from outside the U.S. are accepted to the
 Ross Program. They are highly talented, eager to learn abstract
 mathematical ideas, and fluent in English. Some financial aid is
 available for excellent students, but we can rarely provide support
@@ -268,8 +260,8 @@ Program is a 'mathematical vacation' so you may use a tourist visa
 
 #### How many students are admitted to the Program?
 
-We admit approximately 64 first-year students, supported by about a
-dozen junior counselors and about 16 counselors.
+We admit approximately 75 first-year students, supported by 10 to 20 
+junior counselors, and about 20 counselors.
 
 #### What is the ratio of boys to girls?
 
@@ -278,7 +270,7 @@ In past years, about one-fourth of the participants have been female.
 #### What is the average age? What is the age spread? Is my child too young/old?
 
 Nearly all first-year students are 15 to 18 years old, and the average
-age is usually 16 or 17. We occasionally admit some exceptionally
+age is usually 16 or 17. In rare cases we admit some exceptionally
 mature 14 year olds, as well as some students who have already
 graduated from high school.
 
@@ -292,8 +284,7 @@ Serbia, Singapore, Spain, Taiwan, and Turkey.
 
 #### How does the Ross Program compare to other summer math programs like PROMYS, Canada/USA Mathcamp, HCSSiM, SUMaC, etc?
 
-Prominent summer math programs for high school students are listed on
-the
+Prominent summer math programs for high school students are listed on the
 [mathcamps](http://www.ams.org/programs/students/high-school/emp-mathcamps)
 page run by the American Mathematical Society.  A key feature of the
 Ross Program is that the students concentrate deeply on just one
