@@ -10,7 +10,7 @@ tags: []
 ---
 ## Working as a Ross Counselor
 
-The Ross Program will hire several counselors to work from mid June to late July. For those six weeks, counselors live in a campus dormitory and supervise/assist the first-year students.  
+The Ross Program will hire several counselors to work at Ross/USA from mid June to early August.  The Program will also hire several counselor to work at Ross/Aisa from early July to early August.  For those weeks, all Ross participants live in a campus dormitory.  Counselors oversee dormitory life, and supervise and advise the first-year students and junior counselors. 
 
 ## Application Requirements
 
@@ -22,8 +22,8 @@ All qualified applicants will receive consideration for employment without regar
 
 ## Counselor Responsibilities
 
-Counselors are role models for the younger students. Counselors supervise dormitory life, evaluate (grade) the mathematical work submitted by their group of four students, and provide gentle hints and advice to help inspire students to stay focused on the number theory problems. In addition, counselors participate in two math courses (topics vary from year to year) and are encouraged to organize their own lectures or short courses in the dorm.
+Counselors are role models for the younger students. Counselors supervise dormitory life, evaluate (grade) the mathematical work submitted by their group of four students, and provide gentle hints and advice to help inspire students to stay focused on the number theory problems. In addition, counselors participate in one or two math courses (topics vary from year to year) and are encouraged to organize their own lectures or short courses in the dorm.
 
 ## Compensation
 
-In exchange for six weeks of work, the Ross Program provides each counselor with room and board and a stipend of $3500\.  (Counselors at Ross/Asia have a different pay scale.)
+In exchange for six weeks of work, Ross/USA provides each counselor with room and board and a stipend of $3500\.  Counselors at Ross/Asia work for fie weeks. They earn a smaller salary, but are reimbursed for their travel expenses.  Details are not yet available.
