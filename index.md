@@ -34,7 +34,7 @@ Ross/Asia follows the same format and style as Ross/USA. All classes are held in
 ![University Hall, with Math Tower behind, at Ohio State University]({{ site.baseurl }}/assets/UHall-12ky344-300x217.gif){:style="float: right; margin-left: 12pt;"}
 
 Ambitious pre-college students with interests in mathematics and science are invited to [apply](/students/to-apply/). First-year students range in age from 15 to 18 years old. (In rare cases, younger or older students are accepted.)  Admission decisions are based on several criteria, including: school transcripts; teacher recommendations;  essays concerning the applicant’s interests and goals; and the applicant’s work on some challenging math problems.  
-Undergraduate math majors, and math graduate students, are invited to [apply to be a Ross Counselor](/counselors/).
+Undergraduate math majors and math graduate students are invited to [apply to be a Ross Counselor](/counselors/).
 
 NOTE. The Ross Program cannot accommodate students who must arrive in Columbus more than two days after the start of classes. Unfortunately, this policy eliminates applicants whose high schools have exams in late June.
 
@@ -63,4 +63,4 @@ Several other excellent summer mathematics programs are listed on the AMS [mathc
 
 ## Questions?
 
-Please see our [Frequently Asked Questions](/students/faq/) page for more information. You can also email us at [ross@rossprogram.org](mailto:ross@rossprogram.org).
+Please see our [Frequently Asked Questions](/students/faq/) page for more information. You are also welcome to email us at [ross@rossprogram.org](mailto:ross@rossprogram.org).
