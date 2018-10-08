@@ -73,9 +73,10 @@ The mailing address for Ross Program participants is:
 The building is air-conditioned. Each participant has a single bed,
 desk and chair, and some closet space, and is provided two sheets,
 a pillowcase, and a blanket. Students provide
-their own towels and washcloths, clothes hangers, shampoo, soap and 
-other personal items.  The dorm does not provide pillows. 
-You may bring a pillow, or purchase one at a nearby store.
+their own towels and washcloths, pillows, clothes hangers, shampoo, soap and 
+other personal items.  Since towels and pillows are bulky to carry, 
+staff members will take students to stores where those items can
+be purchased at fairly low costs.
 
 #### Is there a curfew?
 
@@ -108,7 +109,7 @@ and return home.
 
 #### What do they eat? Where do they eat? How often do they eat? Are there any accommodations for my child's special dietary needs, such as diabetes, peanut allergy, gluten intolerance, vegetarianism, etc.?
 
-Student fees include the cost of three meals a day at the campus cafeteria. Upon request, 
+Student fees include the cost of three meals per day at the campus cafeteria. Upon request, 
 the cafeteria can provide foods for students who are on restrictive diets.  
 Some foods (e.g. pizza) can be ordered from nearby restaurants and delivered to the dorm.
 
@@ -116,40 +117,41 @@ Some foods (e.g. pizza) can be ordered from nearby restaurants and delivered to 
 
 #### What do students need to bring?
 
-Sheets, pillowcase, blanket, and towels are
-provided. Students need to bring their own pillows, as well as shampoo, soap, etc. 
-(Staff members will take students to a nearby mall to purchase inexpensive pillows.)
-They also need to bring clothes appropriate for a Columbus summer,
-including a jacket and rain gear. A certain amount of cash is needed
-for items like snacks and souvenirs.
+Sheets, pillowcase, and blanket are
+provided. Students need to bring or purchase their own towels and pillows, 
+as well as shampoo, soap, etc. 
+(On the first day, staff members will organize a trip to a mall 
+where students can buy needed items.)
+Students should also bring clothes appropriate for a warm Columbus summer,
+in air-conditioned buildings.  It's a good idea to bring a jacket and rain gear. 
+A certain amount of cash is needed for items like snacks and souvenirs.
 
 #### How do most students handle money - cash, credit cards, ATMs?
 
-Students may use ATMs to withdraw cash from home accounts. If there is
-a problem, one of the staff members can take the student to a bank to
-help cash a personal check, traveler's check, or money
-order.
+Nearby stores accept all major American credit cards.  Students may use 
+ATMs to withdraw cash from home accounts. If there is
+a problem, one of the staff members can take students to a bank to
+help them get a cash advance, cash personal checks, etc.
 
 #### What expenses are not covered in the program fees? Do you have a suggested/recommended additional spending allowance?
 
+Off-campus trips will be organized by Ross staff members.  Students
+participating in those excursions may be asked to pay a small fee.
 Washers and dryers in the dorm are provied without additional charge
 but detergent is purchased separately. There is not much more that
-students are required to buy. Some students purchase some books, 
+students are expected to buy. Some students purchase books, 
 extra food, souvenirs, etc.
 
-Some off-campus trips will be organized by Ross staff members.  Students
-participating in those excursions may be asked to pay a small fee.
 
 #### Is there shopping within easy access?
 
 There are stores nearby, but students should not leave the
-campus unless accompanied by a counselor. If special items are needed
-from a grocery or drug store, a counselor accompanies the student to
-the store. 
+campus unless accompanied by a counselor. If special items are needed,
+a counselor will arrange to transport students to a store. 
 
 #### Are laptop computers encouraged? What about other electronic devices?
 
-All the mathematical ideas presented in the Ross Program are
+Mathematical ideas presented in the Ross Program are
 investigated with pencil and paper. Students are **NOT** allowed to
 bring computers, electronic tablets, TV sets, video game systems, DVD
 players, etc. We ask students to refrain from using smart phones, and
@@ -171,8 +173,8 @@ few blocks of the dormitory.
 #### Is there transportation to/from the airport if an attendee flies in or out unaccompanied?
 
 We meet students at the Columbus airport (CMH). They are driven 
-to the dorm in a multi-passenger van. At the end of the summer,
-we provide transportation back to the airport.
+to the dorm in a multi-passenger van. At the end of the session, on Friday afternoon,
+we provide transportation back to the airport, .
 
 #### Do some students bring cars? Are there restrictions on students riding with other students?
 
