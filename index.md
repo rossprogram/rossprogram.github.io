@@ -57,11 +57,15 @@ The Ross Program application will be posted in January, and students may submit 
 
 The Ross Program is supported in several ways. Partners in this mathematical enterprise include:
 
-[![American Mathematical Society]({{ site.baseurl }}/assets/AMS_logo-14vyxtl.jpg)](http://www.ams.org/programs/edu-support/epsilon/emp-epsilon) [![Jane Street]({{ site.baseurl }}/assets/JaneStreetLogoS-204ezrg.gif)](https://www.janestreet.com/) [![Elsevier]({{ site.baseurl }}/assets/Elsevierlogo150-20pw3bu.jpg)](http://www.elsevier.com/) and several private donors.
+[![American Mathematical Society]({{ site.baseurl }}/assets/AMS_logo-14vyxtl.jpg)](http://www.ams.org/programs/edu-support/epsilon/emp-epsilon)
+
+[![Jane Street]({{ site.baseurl }}/assets/JaneStreetLogoS-204ezrg.gif)](https://www.janestreet.com/) 
+
+[![Elsevier]({{ site.baseurl }}/assets/Elsevierlogo150-20pw3bu.jpg)](http://www.elsevier.com/) and several private donors.
 
 ## Related Programs
 
-Several other excellent summer mathematics programs are listed on the AMS [mathcamps](http://www.ams.org/programs/students/high-school/emp-mathcamps) webpage. Two of them, [PROMYS](http://www.promys.org) at Boston University, and the [Honors Summer Math Camp](http://www.txstate.edu/mathworks/camps/hsmc.html) at Texas State University, are very close in spirit to the Ross Program since they are run by Ross alumni.
+Several other excellent summer mathematics programs are listed on the AMS [mathcamps](http://www.ams.org/programs/students/high-school/emp-mathcamps) webpage. Two of them, [PROMYS](http://www.promys.org) at Boston University, and the [Honors Summer Math Camp](https://www.txstate.edu/mathworks/camps/Summer-Math-Camps-Information/hsmc.html) at Texas State University, are very close in spirit to the Ross Program since they are run by Ross alumni.
 
 ## Questions?
 
