@@ -45,10 +45,6 @@ Fees for this program are determined the cost of five or six weeks of room and b
 
 NOTE: [Financial aid](/students/faq "Frequently Asked Questions") is available and we encourage qualified students to apply. We hope to be able to provide enough support to enable every accepted applicant to attend this great Program.
 
-## Brochure
-
-A copy of our 2016 program brochure may be downloaded at:  [Ross Brochure_2016](/files/2014/08/Ross-Brochure_2016-2ioc4zs.pdf) [pdf]
-
 ## To Apply
 
 The Ross Program application will be posted in January, and students may submit their applications any time before April 1.  The Admissions Committee will start reading applications on March 1, starting a process of rolling admissions a week or two after that.  The final application deadline is April 1. HOWEVER: Spaces fill up quickly so it’s best to apply early.
