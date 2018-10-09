@@ -44,7 +44,7 @@ support should be made after a student has been accepted to the
 Program.  Various academic institutions in the applicant's home city
 or state might also have available scholarships. In addition, the
 national high school mathematical society, Mu Alpha Theta
-([www.mualphatheta.org/variousfile-ish/Grants.pdf](http://www.mualphatheta.org/variousfile-ish/Grants.pdf)),
+([www.mualphatheta.org/summer-grants](https://www.mualphatheta.org/summer-grants)),
 has some scholarship support for participation in math programs. Other
 scholarship opportunities include the Davidson Institute
 ([www.davidsongifted.org](http://www.davidsongifted.org)) and the Jack
