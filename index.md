@@ -53,6 +53,8 @@ A copy of our 2016 program brochure may be downloaded at:  [Ross Brochure_2016](
 
 The Ross Program application will be posted in January, and students may submit their applications any time before April 1.  The Admissions Committee will start reading applications on March 1, starting a process of rolling admissions a week or two after that.  The final application deadline is April 1. HOWEVER: Spaces fill up quickly so it’s best to apply early.
 
+The Ross Program admits students of any race, color, and national or ethnic origin.
+
 ## Ross Program Support
 
 The Ross Program is supported in several ways. Partners in this mathematical enterprise include:
