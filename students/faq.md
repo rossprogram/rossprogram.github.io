@@ -44,7 +44,7 @@ support should be made after a student has been accepted to the
 Program.  Various academic institutions in the applicant's home city
 or state might also have available scholarships. In addition, the
 national high school mathematical society, Mu Alpha Theta
-([www.mualphatheta.org/variousfile-ish/Grants.pdf](http://www.mualphatheta.org/variousfile-ish/Grants.pdf)),
+([www.mualphatheta.org/summer-grants](https://www.mualphatheta.org/summer-grants)),
 has some scholarship support for participation in math programs. Other
 scholarship opportunities include the Davidson Institute
 ([www.davidsongifted.org](http://www.davidsongifted.org)) and the Jack
@@ -73,9 +73,10 @@ The mailing address for Ross Program participants is:
 The building is air-conditioned. Each participant has a single bed,
 desk and chair, and some closet space, and is provided two sheets,
 a pillowcase, and a blanket. Students provide
-their own towels and washcloths, clothes hangers, shampoo, soap and 
-other personal items.  The dorm does not provide pillows. 
-You may bring a pillow, or purchase one at a nearby store.
+their own towels and washcloths, pillows, clothes hangers, shampoo, soap and 
+other personal items.  Since towels and pillows are bulky to carry, 
+staff members will take students to stores where those items can
+be purchased at fairly low costs.
 
 #### Is there a curfew?
 
@@ -96,7 +97,7 @@ has its own lock and key. In spite of these arrangements there is
 always some potential for theft or other crime, so we advise students
 not to avoid bringing valuable items or large amounts of cash.
 
-#### Will the Ross counselors check that students are eating right, doing laundry, cleaning their room, etc.?**
+#### Will the Ross counselors check that students are eating right, doing laundry, cleaning their room, etc.?
 
 Ross counselors and students live in the same dormitory. Counselors certainly 
 provide supervision, but we expect students to be mature enough to
@@ -108,7 +109,7 @@ and return home.
 
 #### What do they eat? Where do they eat? How often do they eat? Are there any accommodations for my child's special dietary needs, such as diabetes, peanut allergy, gluten intolerance, vegetarianism, etc.?
 
-Student fees include the cost of three meals a day at the campus cafeteria. Upon request, 
+Student fees include the cost of three meals per day at the campus cafeteria. Upon request, 
 the cafeteria can provide foods for students who are on restrictive diets.  
 Some foods (e.g. pizza) can be ordered from nearby restaurants and delivered to the dorm.
 
@@ -116,42 +117,46 @@ Some foods (e.g. pizza) can be ordered from nearby restaurants and delivered to 
 
 #### What do students need to bring?
 
-Sheets, blanket, pillowcase, towel, and washcloth are
-provided. Students need to bring their own shampoo, soap, etc. They
-also need to bring clothes appropriate for a Columbus summer,
-including a jacket and rain gear. A certain amount of cash is needed
-for laundry, snacks, and souvenirs.
+Sheets, pillowcase, and blanket are
+provided. Students need to bring or purchase their own towels and pillows, 
+as well as shampoo, soap, etc. 
+(On the first day, staff members will organize a trip to a mall 
+where students can buy needed items.)
+Students should also bring clothes appropriate for a warm Columbus summer,
+in air-conditioned buildings.  It's a good idea to bring a jacket and rain gear. 
+A certain amount of cash is needed for items like snacks and souvenirs.
 
 #### How do most students handle money - cash, credit cards, ATMs?
 
-Students may use ATMs to withdraw cash from home accounts. If there is
-a problem, one of the staff members can take the student to a bank to
-help him or her cash a personal check, traveler's check, or money
-order.
+Nearby stores accept all major American credit cards.  Students may use 
+ATMs to withdraw cash from home accounts. If there is
+a problem, one of the staff members can take students to a bank to
+help them get a cash advance, cash personal checks, etc.
 
 #### What expenses are not covered in the program fees? Do you have a suggested/recommended additional spending allowance?
 
-Washers and dryers in the dorm require cash (approximately $2.50 per
-load) and you need your own detergent. There is not much more that
-students are required to buy. Some students purchase extra food,
-souvenirs, books, etc.
+Off-campus trips will be organized by Ross staff members.  Students
+participating in those excursions may be asked to pay a small fee.
+Washers and dryers in the dorm are provied without additional charge
+but detergent is purchased separately. There is not much more that
+students are expected to buy. Some students purchase books, 
+extra food, souvenirs, etc.
+
 
 #### Is there shopping within easy access?
 
-There are stores nearby, but students are asked not to leave the
-campus unless accompanied by a counselor. If special items are needed
-from the grocery or elsewhere, a counselor accompanies the student to
-the store. There is a CVS pharmacy and a University Bookstore on
-campus.
+There are stores nearby, but students should not leave the
+campus unless accompanied by a counselor. If special items are needed,
+a counselor will arrange to transport students to a store. 
 
 #### Are laptop computers encouraged? What about other electronic devices?
 
-All the mathematical ideas presented in the Ross Program are
+Mathematical ideas presented in the Ross Program are
 investigated with pencil and paper. Students are **NOT** allowed to
 bring computers, electronic tablets, TV sets, video game systems, DVD
 players, etc. We ask students to refrain from using smart phones, and
-to avoid borrowing computers for searching websites, surfing,
-computing, or playing games. Some computers are available in the dorm
+to avoid borrowing computers for internet searches, surfing websites, checking social media,
+computing, or playing games. Some computers are available on campus
 for checking email.
 
 ## Transportation
@@ -167,9 +172,9 @@ few blocks of the dormitory.
 
 #### Is there transportation to/from the airport if an attendee flies in or out unaccompanied?
 
-We meet students at the Columbus airport (CMH) and they are driven
-back to the dorm in a multi-passenger bus. At the end of the summer,
-we provide transportation back to the airport.
+We meet students at the Columbus airport (CMH). They are driven 
+to the dorm in a multi-passenger van. At the end of the session, on Friday afternoon,
+we provide transportation back to the airport, .
 
 #### Do some students bring cars? Are there restrictions on students riding with other students?
 
@@ -195,8 +200,8 @@ insurance.
 
 #### Is there a nurse on duty/doctors on call? Is there a campus clinic that they can attend for minor problems?
 
-The ODU campus does not have a medical clinic, but University staff members with training 
-in first-aid are available to help 24 hours per day.
+The ODU campus does not offer a medical clinic, but University staff members with training 
+in first-aid are available 24 hours per day.
 
 If a student is sick or injured, a counselor or staff member
 will transport and accompany them to a nearby hospital or clinic.
@@ -217,14 +222,12 @@ Counselors organize some informal activities like Ultimate Frisbee
 games each Friday, and a Talent Show. However, students are expected
 to spend most of their waking hours working on the mathematical
 problem sets. Weekends are spent mostly catching up on problem sets
-that weren't completed during the week. When they are not
-concentrating on math, students are welcome to use the University
-libraries and other open campus spaces.
+that weren't completed during the week. 
 
 #### Do you conduct field trips to other locations?
 
 Yes.  We are planning several off-campus trips.  However, students 
-need to pay a small fee to take the organized trips.
+may be asked to pay a small fee in order to join the organized trips.
 
 #### Are parents allowed/ encouraged to make mid-session visits to campus?
 
@@ -252,15 +255,15 @@ for travel expenses.
 #### What sort of visa is needed?
 
 Students at the Ross Mathematics Program are not registered as college
-students, and do not receive official credit from the University. This
-Program is a 'mathematical vacation' so you may use a tourist visa
-(B-2).
+students, and do not receive official credit from the University. 
+Therefore this Program is classified as a 'mathematical vacation' 
+so you may use a tourist visa (B-2).
 
 ## Just Curious
 
 #### How many students are admitted to the Program?
 
-We admit approximately 75 first-year students, supported by 10 to 20 
+We plan to admit about 75 first-year students at Ross/USA, supported by 10 to 20 
 junior counselors, and about 20 counselors.
 
 #### What is the ratio of boys to girls?
@@ -276,11 +279,11 @@ graduated from high school.
 
 #### Where do the students come from?
 
-Ross participants come from all over the United States, and every year
-we have students from China, South Korea, and India. We've also had
-students from other countries, including Canada, Chile, France,
-Germany, Greece, Guatemala, Israel, Italy, Kyrgyzstan, Mexico, Russia,
-Serbia, Singapore, Spain, Taiwan, and Turkey.
+Ross participants come from all over the United States, and from several other countries.
+In addition to students from China, South Korea, and India, we have hosted
+students from other countries, including Botswana, Canada, Chile, France,
+Germany, Greece, Guatemala, Israel, Italy, Japan, Kyrgyzstan, Mexico, Russia,
+Serbia, Singapore, Spain, Taiwan, and Turkey. 
 
 #### How does the Ross Program compare to other summer math programs like PROMYS, Canada/USA Mathcamp, HCSSiM, SUMaC, etc?
 
@@ -292,5 +295,5 @@ subject for the entire session. We are convinced that this level of
 focus and depth is far more valuable than short overviews of many
 different topics.
 
-PROMYS at Boston University is the other program most similar to the
+PROMYS at Boston University is the summer program most similar to the
 Ross Program.
