@@ -24,5 +24,5 @@ We offer an optional cultural exchange program prior to the start of Ross/Asia.�
 <h2>Financial Information</h2>
 <p>The fee to attend the 2019 Ross Program in Ohio is $5000. (For <a href="http://www.rossmathasia.org/luosi2/index.php?lang=en" target="_blank" rel="noopener">Ross/Asia</a> the fee should be approximately 34,000 RMB.) The fees cover room, board, and instructional expenses.</p>
 <p>The Ross Program endeavors to provide enough financial support to enable every accepted student to join us. If you have been accepted to the Ross Program and need financial assistance in order to attend, please ask your parent or guardian to contact us at <span style="line-height: 1.5em;"><a href="mailto:ross@math.osu.edu">ross@math.osu.edu</a></span><span style="line-height: 1.5em;">. We will reply with details on how to apply for scholarship support.</span></p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<h2>Commitment to Nondiscrimination</h2>
+<p>The Ross Program does not discriminate on the basis of gender, gender identity, gender expression, sexual orientation, race, creed, color, national origin, ethnic origin, disability, or marital status in its admissions, educational programming, financial aid, employment practices, or other activities.</p>
