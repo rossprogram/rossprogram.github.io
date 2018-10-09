@@ -97,7 +97,7 @@ has its own lock and key. In spite of these arrangements there is
 always some potential for theft or other crime, so we advise students
 not to avoid bringing valuable items or large amounts of cash.
 
-#### Will the Ross counselors check that students are eating right, doing laundry, cleaning their room, etc.?**
+#### Will the Ross counselors check that students are eating right, doing laundry, cleaning their room, etc.?
 
 Ross counselors and students live in the same dormitory. Counselors certainly 
 provide supervision, but we expect students to be mature enough to
