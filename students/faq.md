@@ -2,16 +2,8 @@
 layout: single
 title: Frequently Asked Questions
 type: page
-parent_id: '0'
-published: true
-password: ''
-status: publish
-categories: []
-tags: []
-toc: true
-toc_label: "FAQ"
-toc_icon: "question"
 ---
+
 ## Program Questions
 
 #### What is the Ross Mathematics Program?
