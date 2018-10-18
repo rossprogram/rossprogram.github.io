@@ -140,7 +140,7 @@ There are stores nearby, but students should not leave the
 campus unless accompanied by a counselor. If special items are needed,
 a counselor will arrange to transport students to a store. 
 
-### Are laptop computers encouraged? What about other electronic devices?
+### Are laptop computers allowed? What about other electronic devices?
 
 Mathematical ideas presented in the Ross Program are
 investigated with pencil and paper. Students are **NOT** allowed to
