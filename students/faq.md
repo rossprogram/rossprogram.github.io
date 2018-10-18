@@ -158,7 +158,7 @@ All travel on campus is by walking.
 
 ### Where are the math lectures and seminars held?
 
-The lectures and seminars are usually held in campus building within a
+The lectures and seminars will be held in campus buildings within a
 few blocks of the dormitory.
 
 ### Is there transportation to/from the airport if an attendee flies in or out unaccompanied?
