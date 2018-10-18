@@ -36,10 +36,10 @@ support should be made after a student has been accepted to the
 Program.  Various academic institutions in the applicant's home city
 or state might also have available scholarships. In addition, some 
 scholarship support for participation in math programs is provided 
-by <a href="www.mualphatheta.org/summer-grants/">Mu Alpha Theta</a>, 
+by <a href="www.mualphatheta.org/summer-grants/" target="_blank">Mu Alpha Theta</a>, 
 the national high school mathematical society. Other scholarship opportunities 
-are offered by the <a href="http://www.davidsongifted.org">Davidson Institute</a> 
-and the <a href="http://www.jkcf.org">Jack Kent Cooke Foundation</a>.
+are offered by the <a href="http://www.davidsongifted.org" target="_blank">Davidson Institute</a> 
+and the <a href="http://www.jkcf.org" target="_blank">Jack Kent Cooke Foundation</a>.
 
 ## Living Arrangements
 
