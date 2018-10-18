@@ -35,7 +35,7 @@ qualified students who cannot otherwise afford to attend. Requests for
 support should be made after a student has been accepted to the
 Program.  Various academic institutions in the applicant's home city
 or state might also have available scholarships. In addition, the
-national high school mathematical society, <a href="www.mualphatheta.org/summer-grants/">Mu Alpha Theta</a> 
+national high school mathematical society <a href="www.mualphatheta.org/summer-grants/">Mu Alpha Theta</a> 
 has some scholarship support for participation in math programs. Other
 scholarship opportunities include the <a href="http://www.davidsongifted.org">Davidson Institute</a> 
 and the <a href="http://www.jkcf.org">Jack Kent Cooke Foundation</a>.
