@@ -11,7 +11,8 @@ tags: []
 ---
 Running the Ross Mathematics Program is expensive.
 
-For many years, major funding for the Ross Program was provided by the National Science Foundation and later the Clay Math Institute.  Since 2015 we have received no major funding from outside OSU. In 2018 the Program separated from Ohio State, with Ross funds now processed by the new <i>Ross Mathematics Foundation</i>. Most of the Program’s support now comes from increased student fees, gifts from generous donors, and income from the Program's Endowment Funds. Please consider joining our effort to build the _Ross Endowment Funds_. With your support the Program will continue to thrive.
+For many years, major funding for the Ross Program was provided by the National Science Foundation and later by the Clay Math Institute.  Since 2015 we received no major funding from outside OSU, and in 2018 the Ross Program separated from Ohio State University. Ross funds are now processed by the new <i>Ross Mathematics Foundation</i>. Most of the Program’s support will come from student fees, gifts from generous donors, and income from the Program's Endowment Funds. Please consider joining our effort to build the _Ross Endowment Funds_. <br>
+With your support the Program will continue to thrive.
 
 A wonderful start was made by the [Jacob Lurie](http://en.wikipedia.org/wiki/Jacob_Lurie)’s gift of $100,000\. Lurie was a student in the Ross Program in 1993, and is currently a Harvard math professor, recognized for his world-class mathematical research with both a [Breakthrough Prize](http://en.wikipedia.org/wiki/Breakthrough_Prize_in_Mathematics) and a [MacArthur Fellowship](http://www.macfound.org/fellows/class/class-2014/).
 
