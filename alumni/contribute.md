@@ -31,7 +31,7 @@ The Ohio State University Foundation<br>
 1480 West Lane Avenue<br>
 Columbus, OH 43221
 
-OSU Foundation's phone = 614-292-2141 and [email](mailto:gifts@osu.edu).
+OSU Foundation's [email](mailto:gifts@osu.edu) and phone number: 614-292-2141.
 
 ### Online
 
