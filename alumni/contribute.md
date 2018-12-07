@@ -27,9 +27,11 @@ In 2019 we will create a new endowment fund, administered by the Ross Mathematic
 Please make out the check to “the Ohio State University Foundation” with “Ross Endowment Fund” in the memo, and mail it to:
 
 Ross Mathematics Program<br>
-Department of Mathematics - OSU<br>
-231 West 18th Avenue<br>
-Columbus, OH 43210
+The Ohio State University Foundation<br>
+1480 West Lane Avenue<br>
+Columbus, OH 43221
+
+OSU Foundation's phone = 614-292-2141 and [email](mailto:gifts@osu.edu).
 
 ### Online
 
