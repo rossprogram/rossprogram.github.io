@@ -23,7 +23,7 @@ We will create a new endowment fund, administered by the Ross Mathematics Founda
 
 ### By check
 
-Please make out the check to “the Ohio State University Foundation” with “Ross Scholarship Fund” in the memo, and mail it to:
+Please make out the check to “the Ohio State University Foundation” with “Ross Endowment Fund” in the memo, and mail it to:
 
 Ross Mathematics Program
 Department of Mathematics - OSU
