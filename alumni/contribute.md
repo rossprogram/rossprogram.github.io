@@ -32,9 +32,9 @@ Columbus, OH 43210
 
 ### Online
 
-Credit card contributions can be made at Ohio State Giving at https://www.giveto.osu.edu/makeagift. Search for the “Ross Mathematics Program Endowment Fund” (fund number 646206) and follow the directions on how to make a gift.  
+Credit card contributions can be made via Ohio State Giving at https://www.giveto.osu.edu/makeagift. Search for the “Ross Mathematics Program Endowment Fund” (fund number 646206) and follow the directions on how to make a gift.  
 
-For either method of contributing, please [send us a short email](mailto:ross@math.osu.edu)  to make sure that we know about your donation. You should receive a emailed tax receipt from the OSU Foundation.
+For either method of contributing, please [send us a short email](mailto:ross@math.osu.edu) to make sure that we know about your donation. You should receive a emailed tax receipt from the OSU Foundation.
 
 ### Corporate matching gifts
 
