@@ -15,9 +15,9 @@ For many years, major funding for the Ross Program was provided by the National 
 
 A wonderful start was made by the [Jacob Lurie](http://en.wikipedia.org/wiki/Jacob_Lurie)’s gift of $100,000\. Lurie was a student in the Ross Program in 1993, and is currently a Harvard math professor, recognized for his world-class mathematical research with both a [Breakthrough Prize](http://en.wikipedia.org/wiki/Breakthrough_Prize_in_Mathematics) and a [MacArthur Fellowship](http://www.macfound.org/fellows/class/class-2014/).
 
-We ask you to follow Jacob Lurie’s lead by helping to build this Endowment Fund administered by the Ohio State University Foundation, having a 501(c)(3) non-profit tax-exempt status with federal tax ID number of 31-1145986. Your contribution is important, and will be greatly appreciated. 
+We ask you to follow Jacob Lurie’s lead by helping to build our Endowment Fund. It is administered by the Ohio State University Foundation, having a 501(c)(3) non-profit tax-exempt status with federal tax ID number of 31-1145986. Your contribution is important, and will be greatly appreciated. 
 
-We will create a new endowment fund, administered by the Ross Mathematics Foundation.  Since that Foundation does not yet have federal tax-exempt status as a 501(c)(3) corporation, the other OSU Endowment Fund may be more attractive for Ross donors.
+We will create a new endowment fund, administered by the Ross Mathematics Foundation.  Since that Foundation does not yet have federal tax-exempt status, the other OSU Endowment Fund might be more attractive for Ross donors. 
 
 ## How to Contribute
 
@@ -32,7 +32,7 @@ Columbus, OH 43210
 
 ### Online
 
-Credit card contributions can be made at Ohio State Giving. https://www.giveto.osu.edu/makeagift/?Source_Code=DEV_AG-0-GivingFooter-ON-S  Check that “Ross Mathematics Program Endowment Fund” (fund number 646206) is the name of the fund you contribute to.  
+Credit card contributions can be made at Ohio State Giving at https://www.giveto.osu.edu/makeagift/?Source_Code=DEV_AG-0-GivingFooter-ON-S  Check that “Ross Mathematics Program Endowment Fund” (fund number 646206) is the name of the fund you contribute to.  
 
 For either method of contributing, please [send us a short email](mailto:ross@math.osu.edu)  to make sure that we know about your donation. You should receive a emailed tax receipt from the OSU Foundation.
 
