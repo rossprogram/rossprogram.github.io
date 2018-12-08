@@ -167,9 +167,10 @@ few blocks of the dormitory.
 
 ### Is there transportation to/from the airport if an attendee flies in or out unaccompanied?
 
-We meet students at the Columbus airport (CMH). They are driven 
-to the dorm in a multi-passenger van. At the end of the session, on Friday afternoon,
-we provide transportation back to the airport, .
+Students who fly to Columbus will arrive at the John Glenn Columbus International Airport (CMH). 
+Ross staff members will meet them in the terminal, and drive them 
+to the dormitory in a multi-passenger van. At the end of the session, on Friday afternoon,
+we provide transportation back to the airport.
 
 ### Do some students bring cars? Are there restrictions on students riding with other students?
 
