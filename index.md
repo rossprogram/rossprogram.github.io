@@ -22,7 +22,7 @@ The value of a mathematics education lies not only in obtaining proficiency in c
 **Ross Program in China.**  
 The 2019 _Ross/Asia_ program will be a five-week session held on a college campus in Zhenjiang, Jiangsu, China.  
 
-Ross/Asia follows the same format and style as Ross/USA. All classes are held in English. Further information appears on the Ross Program's [To Apply](/students/to-apply/) page, and will also be posted at the [Ross/Asia website](http://www.rossmathasia.org/).  (You may select "English" in the navigation bar). We are grateful to the private company _Renascentia Hall International_ for their continuing support of Ross/Asia.
+Ross/Asia follows the same format and style as Ross/USA. All classes are held in English. Further information appears on the Ross Program's [Application](/students/to-apply/) page, and will also at the [Ross/Asia website](http://www.rossmathasia.org/).  (You may select "English" in the navigation bar). We are grateful to the private company _Renascentia Hall International_ for their continuing support of Ross/Asia.
 
 ## Eligibility
 
