@@ -59,7 +59,7 @@ The Ross Program is supported in several ways. Partners in this mathematical ent
 ## Related Programs
 
 Several other excellent summer mathematics programs are listed on the AMS 
-<a href="(http://www.ams.org/programs/students/high-school/emp-mathcamps" target="_blank">mathcamps</a> webpage. 
+<a href="http://www.ams.org/programs/students/high-school/emp-mathcamps" target="_blank">mathcamps</a> webpage. 
 Two of them, [PROMYS](http://www.promys.org) at Boston University, and the [Honors Summer Math Camp](https://www.txstate.edu/mathworks/camps/Summer-Math-Camps-Information/hsmc.html) at Texas State University, are very close in spirit to the Ross Program since they are run by Ross alumni.
 
 ## Questions?
