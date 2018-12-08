@@ -4,17 +4,16 @@ title: Frequently Asked Questions
 type: page
 ---
 
-## Program Questions
+## Ross/USA Questions
 
 ### What is the Ross Mathematics Program?
 
-This Program is a  residential summer session for high school
+ROss/USA is a six-week, residential, summer session for high school
 students who are talented in mathematics, well prepared in standard
 high school math topics, and eager to explore more advanced
 ideas. The Ross Program is held at two sites: <br>
 &nbsp; Ross/USA will run for six weeks in Columbus, Ohio, USA.  <br>
-&nbsp; Ross/Asia will run for five weeks in Zhenjiang, Jiangsu, China.  
-
+  
 Ross participants spend most of each day working on challenging sets
 of problems dealing with abstract mathematical concepts. By working
 for several weeks on one subject (number theory), participants delve
@@ -93,7 +92,7 @@ has its own lock and key. In spite of these arrangements there is
 always some potential for theft or other crime, so we advise students
 to not bring valuable items or large amounts of cash.
 
-### Will the Ross counselors check that students are eating right, doing laundry, cleaning their room, etc.?
+### Will the Ross counselors check that students eat good food, do laundry, clean their room, etc.?
 
 Ross counselors and students live in the same dormitory. Counselors certainly 
 provide supervision, but we expect students to be mature enough to
@@ -137,7 +136,6 @@ but detergent is purchased separately. There is not much more that
 students are expected to buy. Some students purchase books, 
 extra food, souvenirs, etc.
 
-
 ### Is there shopping within easy access?
 
 There are stores nearby, but students should not leave the
@@ -168,8 +166,8 @@ few blocks of the dormitory.
 ### Is there transportation to/from the airport if an attendee flies in or out unaccompanied?
 
 Students who fly to Columbus will arrive at the John Glenn Columbus International Airport (CMH). 
-Ross staff members will meet them in the terminal, and drive them 
-to the dormitory in a multi-passenger van. At the end of the session, on Friday afternoon,
+Ross staff members will meet them in the terminal, and drive them to the dormitory in a 
+multi-passenger van. At the end of the session, on Friday afternoon,
 we provide transportation back to the airport.
 
 ### Do some students bring cars? Are there restrictions on students riding with other students?
