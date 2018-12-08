@@ -35,13 +35,14 @@ NOTE. The Ross Program cannot accommodate students who must arrive more than two
 
 ## Costs and Financial Aid
 
-Fees for this program are determined the cost of five or six weeks of room and board and by various instructional costs. The Ross/USA fee for 2019 will be $5000. The fee for Ross/Asia is not yet decided, but will probably be about 34,000 RMB. 
+Fees for this program are determined by the cost of five or six weeks of room and board and by various instructional costs. The Ross/USA fee for 2019 will be $5000. The fee for Ross/Asia will be 35,000 RMB. 
 
-NOTE: [Financial aid](/students/faq "Frequently Asked Questions") is available and we encourage qualified students to apply. We hope to be able to provide enough support to enable every accepted applicant to attend this great Program.
+NOTE: [Financial aid](/students/faq "Frequently Asked Questions") is available. Accepted applicants are encouraged to apply if their families have financial need. We hope to be able to provide enough support to enable every accepted applicant to attend this great Program.
 
 ## To Apply
 
-The Ross Program application will be posted in January, and students may submit their applications any time before April 1.  The Admissions Committee will start reading applications on March 1, starting a process of rolling admissions a week or two after that.  The final application deadline is April 1. HOWEVER: Spaces fill up quickly so it’s best to apply early.
+The Ross Program application will be posted in January, and students may submit their applications any time before April 1.  The Admissions Committee will start reading applications on March 1, starting a process of rolling admissions a week or two after that.  The final application deadline is April 1. <br>
+&nbsp; HOWEVER: Spaces may fill up quickly so it’s best to apply early.
 
 The Ross Program admits students of any race, color, and national or ethnic origin.
 
