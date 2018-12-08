@@ -12,8 +12,8 @@ This Program is a  residential summer session for high school
 students who are talented in mathematics, well prepared in standard
 high school math topics, and eager to explore more advanced
 ideas. The Ross Program is held at two sites: <br>
-Ross/USA will run for six weeks in Columbus, Ohio.  <br>
-Ross/Asia will run for five weeks in Zhenjiang, Jiangsu, China.  
+&nbsp; Ross/USA will run for six weeks in Columbus, Ohio, USA.  <br>
+&nbsp; Ross/Asia will run for five weeks in Zhenjiang, Jiangsu, China.  
 
 Ross participants spend most of each day working on challenging sets
 of problems dealing with abstract mathematical concepts. By working
@@ -50,11 +50,12 @@ and the <a href="http://www.jkcf.org" target="_blank">Jack Kent Cooke Foundation
 
 ### Where do the students live?
 
-Students live in one of the dormitories on the campus of Ohio Dominican University in Columbus. Most students will live with three roommates in small suites consisting of two bedrooms, a bathroom, and a common area. 
+Students at Ross/USA will live in a dormitory on the campus of Ohio Dominican University in Columbus. Most students will live with three roommates in small suites consisting of two bedrooms, a bathroom, and a common area. <br>
+Students at Ross/Asia will live in a dormitory on the campus of Jiangsu Aviation Technical College.
 
 ### What is the mailing address?
 
-The mailing address for Ross Program participants is:
+The mailing address for Ross/USA Program participants is:
 
   (participant's name)  
   Ross Math Program  
@@ -63,10 +64,10 @@ The mailing address for Ross Program participants is:
   Columbus, OH 43219
 
 
-### How are the dorm rooms furnished?
+### How are the dorm rooms at Ross/USA furnished?
 
-The building is air-conditioned. Each participant has a single bed,
-desk and chair, and some closet space, and is provided two sheets,
+The dormitory and classroom buildings are air-conditioned. Each participant uses a single bed,
+a desk, a chair, and some closet space, and is provided two sheets,
 a pillowcase, and a blanket. Students provide
 their own towels and washcloths, pillows, clothes hangers, shampoo, soap and 
 other personal items.  Since towels and pillows are bulky to carry, 
@@ -83,7 +84,7 @@ not leave the campus at any time unless accompanied by a counselor.
 The Ross Mathematics Program usually fills up two floors
 of the dormitory. Other camps are held on campus. 
 Their participants arrive and leave throughout the summer 
-and some of them will occupy the same dormitory building.
+and some of them might occupy the same dormitory building.
 
 ### What are the security arrangements in the dorm?
 
@@ -112,9 +113,8 @@ Some foods (e.g. pizza) can be ordered from nearby restaurants and delivered to 
 
 ### What do students need to bring?
 
-Sheets, pillowcase, and blanket are
-provided. Students need to bring or purchase their own towels and pillows, 
-as well as shampoo, soap, etc. 
+Sheets, pillowcase, and blanket are provided. Students need to bring or purchase 
+their own towels and pillows, as well as shampoo, soap, etc. 
 (On the first day, staff members will organize a trip to a mall 
 where students can buy needed items.)
 Students should also bring clothes appropriate for a warm Columbus summer,
