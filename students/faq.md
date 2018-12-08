@@ -8,10 +8,14 @@ type: page
 
 ### What is the Ross Mathematics Program?
 
-This Program is a six-week residential session for high school
+This Program is a  residential summer session for high school
 students who are talented in mathematics, well prepared in standard
 high school math topics, and eager to explore more advanced
-ideas. Participants spend most of each day working on challenging sets
+ideas. The Ross Program is held at two sites: <br>
+Ross/USA will run for six weeks in Columbus, Ohio.  <br>
+Ross/Asia will run for five weeks in Zhenjiang, Jiangsu, China.  
+
+Ross participants spend most of each day working on challenging sets
 of problems dealing with abstract mathematical concepts. By working
 for several weeks on one subject (number theory), participants delve
 deeply into the underpinnings of that subject. But more importantly,
