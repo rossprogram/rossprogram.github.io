@@ -37,7 +37,7 @@ NOTE. The Ross Program cannot accommodate students who must arrive more than two
 
 Fees for this program are determined by the cost of five or six weeks of room and board and by various instructional costs. The Ross/USA fee for 2019 will be $5000. The fee for Ross/Asia will be 35,000 RMB. 
 
-NOTE: [Financial aid](*/students/faq "Frequently Asked Questions") is available. Accepted applicants are encouraged to apply if their families have financial need. We hope to be able to provide enough support to enable every accepted applicant to attend this great Program.
+NOTE: [Financial aid](https://rossprogram.org/students/faq/) is available. Accepted applicants are encouraged to apply if their families have financial need. We hope to be able to provide enough support to enable every accepted applicant to attend this great Program.   
 
 ## To Apply
 
