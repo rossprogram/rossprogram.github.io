@@ -33,7 +33,7 @@ problems that form part of the application.
 
 ### Are scholarships available?
 
-The Ross Program is able to provide some scholarship support to
+The Ross Program is able to provide scholarship support to
 qualified students who cannot otherwise afford to attend. Requests for
 support should be made after a student has been accepted to the
 Program.  Various academic institutions in the applicant's home city
