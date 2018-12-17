@@ -41,7 +41,7 @@ NOTE: [Financial aid](https://rossprogram.org/students/faq/) is available. Accep
 
 ## To Apply
 
-The Ross Program application will be posted in January, and students may submit their applications any time before April 1.  The Admissions Committee will start reading applications on March 1, starting a process of rolling admissions a week or two after that.  The final application deadline is April 1. <br>
+The Ross Program application will be posted in January, and students may submit their applications any time before April 1.  In March, tThe Admissions Committee will start the process of rolling admissions.  The final application deadline is April 1. <br>
 &nbsp; HOWEVER: Spaces may fill up quickly so it’s best to apply early.
 
 The Ross Program admits students of any race, color, and national or ethnic origin.
