@@ -22,7 +22,7 @@ Since 2000 the Ross Program has been led by Daniel Shapiro.
 
 A [Reunion-Conference](/alumni/reunions/2017/ "2017 – 60th Year") was held in Columbus on June 16 - 18, 2017\.  Alumni and friends joined together to renew ties, reminisce, and meet current Ross participants.  Previous Ross Reunion-Conferences were held in [1996](/alumni/reunions/1996/ "1996 – 90th Birthday") , [2001](/alumni/reunions/2001/ "2001 – 45th Year") , and [2007](/alumni/reunions/2007/).
 
-If you were once a Ross Program participant, we would love to hear from you, at [ross@math.osu.edu](mailto:ross@math.osu.edu).
+If you were once a Ross Program participant, we would love to hear from you, at [ross@rossprogram.org](mailto:ross@rossprogram.org).
 
 *   Did the Ross Program have some influence on your life or career?
 *   What have you been doing since your summer(s) here?
