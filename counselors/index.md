@@ -10,7 +10,7 @@ tags: []
 ---
 ## Working as a Ross Counselor
 
-The Ross Program will hire several counselors to work at Ross/USA from mid June to early August.  The Program will also hire several counselor to work at Ross/Aisa from early July to early August.  For those weeks, all Ross participants live in a campus dormitory.  Counselors oversee dormitory life, and supervise and advise the first-year students and junior counselors. 
+The Ross Program will hire several counselors to work at Ross/USA from mid June to early August.  The Program will also hire several counselor to work at Ross/Aisa from early July to early August.  For those weeks, all Ross participants live in a college dormitory.  Counselors oversee dormitory life, and supervise and advise the first-year students and junior counselors. 
 
 ## Application Requirements
 
@@ -26,6 +26,6 @@ Counselors are role models for the younger students. Counselors supervise dormit
 
 ## Compensation
 
-In exchange for six weeks of work, Ross/USA provides each counselor with room and board and a stipend of $3500\.  No travel expenses are provided.  
+In exchange for six weeks of work, Ross/USA provides each counselor with room and board, and a salary.  No travel expenses are provided.  
 
-Counselors at Ross/Asia work for five weeks with a smaller salary, but are reimbursed for travel expenses.  The salary amounts will be provided early in 2019.
+Counselors at Ross/Asia work for five weeks with a smaller salary, but are reimbursed for travel expenses. 
