@@ -12,6 +12,8 @@ tags: []
 
 The Ross Program will hire counselors to work at Ross/USA and at Ross/Asia. Counselors are expected to arrive some days earlier than the official starting date and to continue working for the duration of the summer session.  Counselors supervise and advise the first-year students and junior counselors, and oversee dormitory life. 
 
+If interested, [please apply](to-apply/).
+
 ## Application Requirements
 
 A Ross Counselor will need a strong background in mathematics, and good social skills. We prefer applicants who are either math graduate students or undergraduate math majors who have completed at least two years of college. Applicants should have some experience with elementary number theory and abstract algebra, but prior knowledge of all the [Course Topics](/first-years/course-topics/) is not required.
