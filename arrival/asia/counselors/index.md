@@ -24,6 +24,6 @@ from their home country, and a Chinese visa. Here are 3 documents
 providing instructions and advice on how to apply for an appropriate visa:
 
 - [Visa application process](https://rossprogram.org/arrival/asia/visa-application-process.pdf)
-- [Instructions for visa application form](instructions-for-visa-application-form.pdf)
-- [Visa application form](visa-application-form.pdf)
+- [Instructions for visa application form](https://rossprogram.org/arrival/asia/instructions-for-visa-application-form.pdf)
+- [Visa application form](https://rossprogram.org/arrival/asia/visa-application-form.pdf)
 
