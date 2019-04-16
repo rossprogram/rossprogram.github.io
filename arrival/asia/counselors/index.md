@@ -23,7 +23,7 @@ Participants who are not Chinese citizens will need a valid passport
 from their home country, and a Chinese visa. Here are 3 documents 
 providing instructions and advice on how to apply for an appropriate visa:
 
-- [Visa application process](visa-application-process.pdf)
+- [Visa application process](https://rossprogram.org/arrival/asia/visa-application-process.pdf)
 - [Instructions for visa application form](instructions-for-visa-application-form.pdf)
 - [Visa application form](visa-application-form.pdf)
 
