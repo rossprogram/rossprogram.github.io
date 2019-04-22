@@ -27,3 +27,7 @@ providing instructions and advice on how to apply for an appropriate visa:
 - [Instructions for visa application form](instructions-for-visa-application-form.pdf)
 - [Visa application form](visa-application-form.pdf)
 
+The visa application form sect
+ion 2.6 asks for your "Itinerary in China." It's best to leave that blank and email 
+your partially completed PDF form to Jerry Xiao [jxiao@renashall.com]. 
+He will proofread your entries, insert the appropriate itinerary, and mail it back to you.
