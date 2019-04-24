@@ -31,3 +31,5 @@ The visa application form section 2.6 asks for your "Itinerary in China."
 It's best to leave that blank and email 
 your partially completed PDF form to Jerry Xiao [jxiao@renashall.com]. 
 He will proofread your entries, insert the appropriate itinerary, and mail it back to you.
+
+- [RossAsia Payment-Instructions-2019](RossAsia-Payment-Instructions-2019.pdf)
