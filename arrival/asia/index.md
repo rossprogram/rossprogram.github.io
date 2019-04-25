@@ -34,9 +34,10 @@ He will proofread your entries, insert the appropriate itinerary, and mail it ba
 
 # Payment Options
 
-Fees from participants pay for room (in a college dormitory), 
-board (meals in a cafeteria), and all instructional costs. Options for payment are
-described in the following documents.
+Each participant's fee pays for room and board (college dorm room and cafeteria meals), 
+and all instructional costs. Payment options are described in the Payment Instructions 
+document below. The first page is for participants outside China, and the second
+page is for those in China. The first installment is due by May 15.
 
-- [RossAsia Payment Instructions](RossAsia Payment-Instructions-2019.pdf)
+- [Payment Instructions](RossAsia Payment-Instructions-2019.pdf)
 - [Credit Card Form](RossAsia credit card form.pdf)
