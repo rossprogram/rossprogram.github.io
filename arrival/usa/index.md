@@ -24,7 +24,7 @@ recover from the trip before starting mathematical work on Sunday evening.
 
 - DRIVING:  We will post driving directions on this website.
 
- -NOTE TO PARENTS.  You are welcome to travel with your son or daughter 
+- NOTE TO PARENTS.  You are welcome to travel with your son or daughter 
 to the Ross Program, and to attend the Orientation Meeting at 7 PM on Sunday.
 However, it is OK for your child to travel alone.  Ross staff members will
 take over care and custody of your child when s/he arrives at the Columbus airport.
