@@ -39,8 +39,8 @@ and will be ready on Friday evening.  <br>
 - DRIVING:  We will post driving directions on this website.
 
 - COUNSELOR TRAINING SESSIONS: <br>
-All counselors will meet on Saturday afternoon
-and evening, and on Sunday morning. 
+All counselors will meet on June 22 starting at noon.  Please arrange
+your travels so that you can join us there. 
 
 - DEPARTURE: The final lecture, awards presentations, and goodbyes will be
 completed by 11:00 on Friday morning August 2.  Please plan your departing flights are 
