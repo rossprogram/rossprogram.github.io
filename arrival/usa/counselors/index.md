@@ -15,8 +15,7 @@ sidebar:
   nav: "menu"
 ---
 
-Welcome to all counselors who will join the 
-2019 <b> Ross/USA Mathematics Program. </b>
+Welcome to counselors at the 2019 <b> Ross/USA Mathematics Program. </b>
 
 # Travel
 
