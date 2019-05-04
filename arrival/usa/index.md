@@ -12,7 +12,8 @@ Welcome to all participants who will join the
 # Travel
 
 Participants are expected to arrive at our dormitory in Columbus
-<p style="color:#FF0000";>before 5:00 PM on Sunday, June 23</p>.  
+<font color="#ff0000">before 5:00 PM on Sunday, June 23</font>
+
 
 - FLYING to the Columbus Airport (CMH):  Ross staff members will 
 be in the baggage claim area to meet participants as they arrive.  <br>
