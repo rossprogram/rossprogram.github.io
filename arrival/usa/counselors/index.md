@@ -21,19 +21,21 @@ Welcome to all counselors who will join the
 # Travel
 
 Counselors are expected to arrive at our dormitory in Columbus
-<font color="#ff0000">before noon on Saturday, June 22</font>.
+<b}before noon on Saturday, June 22</b>.
 
 - FLYING to the Columbus Airport (CMH):  Ross staff members will 
-be in the baggage claim area to meet participants as they arrive.  <br>
-If you are flying  from overseas or from the Pacific coast, please plan
-to arrive in Columbus on Friday, June 21. <br>
+eet Ross participants as they arrive.  Please plan to arrive Saturday morning,
+or Friday evening.  <br>
+&nbsp; &nbsp: &nbsp; First counselor meeting at NOON on SATURDAY. <br>
+If you have a long flight, please plan to arrive in Columbus on Friday, June 21. 
+
 Another group will be living in our dormitory before we arrive, 
 and they are scheduled to move out on Friday.  
 After the rooms are cleaned they will be ready for Ross
 people to move in on Saturday.  We were told that several rooms can be cleaned early,
 and will be ready on Friday evening.  <br>
 Shuttles from the airport to the dorm will run as needed 
-on Friday evening, Saturday, and Sunday. 
+on Friday, Saturday, and Sunday. 
 
 - DRIVING:  We will post driving directions on this website.
 
