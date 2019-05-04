@@ -56,8 +56,8 @@ a statement of Ross Program Policies and standard Rules of Behavior;
 a Contract to print, sign and return; 
 instructions on getting a background check; 
 information about having custody and control of minors; 
-a request for your health history and your health insurance details; and
-the "Ross Counselor Manual".
+a request for your health history and your health insurance details; 
+the "Ross Counselor Manual"; etc.
 
 
 
