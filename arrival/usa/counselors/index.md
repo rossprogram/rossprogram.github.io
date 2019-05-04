@@ -19,7 +19,7 @@ Welcome to counselors at the 2019 <b> Ross/USA Mathematics Program. </b>
 
 # Travel
 
-Counselors are expected to arrive at our dormitory in Columbus 
+Counselors need to arrive at our dormitory in Columbus 
 <b>before noon on Saturday, June 22</b>.
 
 - FLYING to the Columbus Airport (CMH):  Ross staff members will 
@@ -31,9 +31,9 @@ Shuttles from the airport to the dorm will run as needed
 on Friday, Saturday, and Sunday. 
 
 Others in our dormitory are scheduled to move out on Friday.  
-After the rooms are cleaned they will be ready for Ross
+After the rooms are cleaned, they will be ready for Ross
 people to move in on Saturday.  We were told that several rooms can be cleaned early,
-and will be ready on Friday evening.  <br>
+and will be available on Friday evening.  <br>
 
 - DRIVING:  We will post driving directions on this website.
 
