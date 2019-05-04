@@ -28,14 +28,14 @@ eet Ross participants as they arrive.  Please plan to arrive Saturday morning,
 or Friday evening.  <br>
 &nbsp; &nbsp; &nbsp; First counselor meeting is at NOON on SATURDAY. <br>
 If you have a long flight, please plan to arrive in Columbus on Friday, June 21. 
+Shuttles from the airport to the dorm will run as needed 
+on Friday, Saturday, and Sunday. 
 
-Another group will be living in our dormitory before we arrive, 
-and they are scheduled to move out on Friday.  
+Others in our dormitory are scheduled to move out on Friday.  
 After the rooms are cleaned they will be ready for Ross
 people to move in on Saturday.  We were told that several rooms can be cleaned early,
 and will be ready on Friday evening.  <br>
-Shuttles from the airport to the dorm will run as needed 
-on Friday, Saturday, and Sunday. 
+
 
 - DRIVING:  We will post driving directions on this website.
 
