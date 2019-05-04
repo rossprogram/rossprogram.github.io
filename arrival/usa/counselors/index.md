@@ -43,10 +43,9 @@ All counselors will meet on Saturday afternoon
 and evening, and on Sunday morning. 
 
 - DEPARTURE: The final lecture, awards presentations, and goodbyes will be
-completed by 11:00 on Friday morning August 2. Shuttles 
-will be scheduled so that participants gets to the airport more
-than an hour before their flights.  Please plan your departing flights are 
-for that Friday after 2 PM.  
+completed by 11:00 on Friday morning August 2.  Please plan your departing flights are 
+for that Friday after 2 PM.  Shuttles will get participants the airport more
+than an hour before their flights. <br>
 It might be possible to stay overnight in the dorm on Friday night,
 but everyone needs to be away by early Saturday morning, August 3. 
 
