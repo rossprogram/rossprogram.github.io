@@ -36,10 +36,10 @@ After the rooms are cleaned they will be ready for Ross
 people to move in on Saturday.  We were told that several rooms can be cleaned early,
 and will be ready on Friday evening.  <br>
 
-
 - DRIVING:  We will post driving directions on this website.
 
-- COUNSELOR TRAINING SESSIONS: We will run sessions for counselors on Saturday afternoon
+- COUNSELOR TRAINING SESSIONS: <br>
+All counselors will meet on Saturday afternoon
 and evening, and on Sunday morning. 
 
 - DEPARTURE: The final lecture, awards presentations, and goodbyes will be
