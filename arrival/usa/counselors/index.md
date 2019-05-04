@@ -26,7 +26,7 @@ Counselors are expected to arrive at our dormitory in Columbus
 - FLYING to the Columbus Airport (CMH):  Ross staff members will 
 eet Ross participants as they arrive.  Please plan to arrive Saturday morning,
 or Friday evening.  <br>
-&nbsp; &nbsp; &nbsp; First counselor meeting at NOON on SATURDAY. <br>
+&nbsp; &nbsp; &nbsp; First counselor meeting is at NOON on SATURDAY. <br>
 If you have a long flight, please plan to arrive in Columbus on Friday, June 21. 
 
 Another group will be living in our dormitory before we arrive, 
