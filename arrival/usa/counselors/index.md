@@ -6,7 +6,57 @@ sidebar:
   nav: "menu"
 ---
 
-Welcome to all counselors who will join the 2019 Ross/USA
-Mathematics Program.
+Welcome to counselors at the 2019 Ross/USA Mathematics Program.
+---
+layout: single
+title: Arrival Information for Ross/USA
+type: page
+sidebar:
+  nav: "menu"
+---
+
+Welcome to all counselors who will join the 
+2019 <b> Ross/USA Mathematics Program. </b>
+
+# Travel
+
+Counselors are expected to arrive at our dormitory in Columbus
+<font color="#ff0000">before noon on Saturday, June 22</font>.
+
+- FLYING to the Columbus Airport (CMH):  Ross staff members will 
+be in the baggage claim area to meet participants as they arrive.  <br>
+If you are flying  from overseas or from the Pacific coast, please plan
+to arrive in Columbus on Friday, June 21. <br>
+Another group will be living in our dormitory before we arrive, 
+and they are scheduled to move out on Friday.  
+After the rooms are cleaned they will be ready for Ross
+people to move in on Saturday.  We were told that several rooms can be cleaned early,
+and will be ready on Friday evening.  <br>
+Shuttles from the airport to the dorm will run as needed 
+on Friday evening, Saturday, and Sunday. 
+
+- DRIVING:  We will post driving directions on this website.
+
+- COUNSELOR TRAINING SESSIONS: We will run sessions for counselors on Saturday afternoon
+and evening, and on Sunday morning. 
+
+- DEPARTURE: The final lecture, awards presentations, and goodbyes will be
+completed by 11:00 on Friday morning August 2. Shuttles 
+will be scheduled so that participants gets to the airport more
+than an hour before their flights.  Please plan your departing flights are 
+for that Friday after 2 PM.  
+It might be possible to stay overnight in the dorm on Friday night,
+but everyone needs to be away by early Saturday morning, August 3. 
+
+# Ross Documents
+Several documents for counselors will soon be posted here.  These will include a request 
+for your itinerary (full arrival and departure plans); 
+a statement of Ross Program Policies and standard Rules of Behavior; 
+a Contract to print, sign and return; 
+instructions on getting a background check; 
+information about having custody and control of minors; 
+a request for your health history and your health insurance details; and
+the "Ross Counselor Manual".
+
 
 
