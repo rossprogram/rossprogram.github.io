@@ -39,5 +39,5 @@ and all instructional costs. Payment options are described in the Payment Instru
 document below. The first page is for participants outside China, and the second
 page is for those in China. The first installment is due by May 15.
 
-- [Payment Instructions](RossAsia_Payment_Instruction_2019.pdf)
+- [Payment Instructions](https://github.com/rossprogram/rossprogram.github.io/blob/master/RossAsia_Payment_Instruction_2019.pdf)
 - [Credit Card Form](RossAsia credit card form.pdf)
