@@ -43,7 +43,7 @@ but everyone needs to be away by early Saturday morning, August 3.
 
 # Ross Documents
 Several documents will be posted here by early May.  These will include a request 
-for your itinerary (full arrival and departure plans); general statements 
+for your itinerary (full arrival and departure plans); information on fee payment options; general statements 
 of Ross Program Policies and standard Rules of Behavior; a Participation Agreement to print, sign and return; 
 a request for your health history and your health insurance details; etc.
 
