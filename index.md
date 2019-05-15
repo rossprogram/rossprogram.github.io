@@ -54,8 +54,6 @@ The Ross Program is supported in several ways. Partners in this mathematical ent
 
 [![Jane Street]({{ site.baseurl }}/assets/JaneStreetLogoS-204ezrg.gif)](https://www.janestreet.com/) 
 
-[![Elsevier]({{ site.baseurl }}/assets/Elsevierlogo150-20pw3bu.jpg)](http://www.elsevier.com/) and several private donors.
-
 ## Related Programs
 
 Several other excellent summer mathematics programs are listed on the AMS 
