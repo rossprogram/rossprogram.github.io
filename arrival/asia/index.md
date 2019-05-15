@@ -32,4 +32,12 @@ It's best to leave that blank and email
 your partially completed PDF form to Jerry Xiao [jxiao@renashall.com]. 
 He will proofread your entries, insert the appropriate itinerary, and mail it back to you.
 
-- [RossAsia Payment-Instructions-2019](RossAsia-Payment-Instructions-2019.pdf)
+# Payment Options
+
+Each participant's fee pays for room and board (college dorm room and cafeteria meals), 
+and all instructional costs. Payment options are described in the Payment Instructions 
+document below. The first page is for participants outside China, and the second
+page is for those in China. The first installment is due by May 15.
+
+- [Payment Instructions](https://github.com/rossprogram/rossprogram.github.io/blob/master/RossAsia_Payment_Instruction_2019.pdf)
+- [Credit Card Form](https://github.com/rossprogram/rossprogram.github.io/blob/master/arrival/asia/RossAsia%20credit%20card%20form.pdf)
