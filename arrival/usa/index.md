@@ -24,9 +24,9 @@ your itinerary and provide emergency contact information.
 
 ________________________________________
 - PARTICIPATION AGREEMENT. <br>
-Please read the documents [Program Rules](materials/program-rules.pdf) 
-and [Standards of Behavior](materials/standards-of-behavior.pdf).   <br>
-Download the [Participation Agreement](participation-agreement/pdf) 
+Please read the documents [Program Rules](/materials/program-rules.pdf) 
+and [Standards of Behavior](/materials/standards-of-behavior.pdf).   <br>
+Download the [Participation Agreement](/materials/participation-agreement.pdf) 
 and type in the requested information. 
 Print the document on paper, sign that paper copy, 
 and have your parent sign it. Then scan the signed document, 
@@ -36,13 +36,13 @@ and give it to a Ross staff member when you arrive.
 
 ________________________________________
 - FEE PAYMENT OPTIONS.
-The [Program Fees](materials/program-fees.pdf) document outlines payment methods.<br>
+The [Program Fees](/materials/program-fees.pdf) document outlines payment methods.<br>
   &nbsp;    &nbsp;    <b> Be sure to pay those fees before June 10, 2019. </b>
      
 ________________________________________
 - WHAT TO BRING to the Ross Program? <br>
 Suggestions on what things to pack (and what to leave at home) 
-appear in [Bring](materials/Bring).
+appear in [Bring](/materials/bring.pdf).
 
 ________________________________________
 - Mailing address. <br>
