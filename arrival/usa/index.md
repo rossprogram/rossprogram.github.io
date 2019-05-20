@@ -79,13 +79,13 @@ of dollars of fees for hospitals and doctors.
 The Ross Program's insurance requirement is fulfilled if 
 your current insurance policy covers "emergency medical care" 
 in Ohio, even if it does not cover routine care. Of course you 
-are welcome    to purchase additional insurance if desired.
+are welcome to purchase additional insurance if desired.
 
 
 <b>Do not already have insurance? </b> <br>
 Many companies offer short term insurance policies that cover 
 major medical expenses.  Costs vary depending on the deductible, 
-maximum coverage, and extras (like coverage during your travel).   
+maximum coverage, and extras (like coverage during your travel).
 For example, see the various companies and policies listed at: 
 &nbsp;   [Visitors Coverage](https://www.visitorscoverage.com/) .
 
