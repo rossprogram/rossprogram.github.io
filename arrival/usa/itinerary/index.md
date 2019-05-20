@@ -10,10 +10,16 @@ sidebar:
 Welcome to all participants who will join the 
 2019 <b> Ross/USA Mathematics Program. </b>
 
-# Travel
+# Travel to Columbus
 
 Participants are expected to arrive at our dormitory in Columbus
 <font color="#ff0000">before 5:00 PM on Sunday, June 23</font>
+
+When your travel plans have been made, complete the 
+[Registration Form](https://forms.gle/Soia2isSWKmU9pVj9).  <br>
+That online form asks for information about your arrival plans, 
+as well as for contact information for you and your parents, 
+in case of difficulties during travel.
 
 - FLYING to the Columbus Airport (CMH):  Ross staff members will 
 be in the baggage claim area to meet participants as they arrive.  <br>
@@ -22,7 +28,7 @@ to arrive in Columbus on Saturday, June 22.  Then you will have time to
 recover from the trip before starting mathematical work on Sunday evening. <br>
 Shuttles from the airport to the dorm will run as needed on that Saturday and Sunday. 
 
-- DRIVING: Visit [Driving Directions](materials/driving-directions.pdf)
+- DRIVING: Here are [Driving Directions](materials/driving-directions.pdf)
 
 - NOTE TO PARENTS.  You are welcome to travel with your son or daughter 
 to the Ross Program, and to attend the Orientation Meeting at 7 PM on Sunday.
