@@ -12,7 +12,7 @@ To help things run smoothly, please complete the following steps.  <br>
 ( They do not need to be done in the order given here! )
 
 ________________________________________
-## TRAVEL to Columbus Ohio.  <br>
+### TRAVEL to Columbus Ohio.  <br>
 Everyone must arrive before 5 PM on Sunday June 23 
 (unless you made other arrangements with Ross administrators).  
 If you are traveling from the West Coast or from overseas, 
@@ -30,7 +30,7 @@ Download the [Participation Agreement](/materials/participation-agreement.pdf)
 and type in the requested information. 
 Print the document on paper, sign that paper copy, 
 and have your parent sign it. Then scan the signed document, 
-and email the resulting PDF to  ross@rossprogram.org. <br>
+and email the resulting PDF to  agreement@rossprogram.org. <br>
 Please bring the signed paper copy of that Participation Agreement 
 and give it to a Ross staff member when you arrive.
 
@@ -55,7 +55,7 @@ those six weeks, use the following address: <br>
  &nbsp;    &nbsp;         Columbus, OH 43219
 
 ________________________________________
-## MEDICAL INFORMATION.  
+### MEDICAL INFORMATION.  
 There are two items to complete and return in two separate email messages:
 
    -  Download the [Medical Authorization](materials/medical-authorization.pdf) 
