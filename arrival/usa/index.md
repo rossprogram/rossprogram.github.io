@@ -12,7 +12,7 @@ To help things run smoothly, please complete the following steps.  <br>
 ( They do not need to be done in the order given here! )
 
 ________________________________________
-- <u>TRAVEL to Columbus Ohio. </u> <br>
+## TRAVEL to Columbus Ohio.  <br>
 Everyone must arrive before 5 PM on Sunday June 23 
 (unless you made other arrangements with Ross administrators).  
 If you are traveling from the West Coast or from overseas, 
@@ -45,7 +45,7 @@ Suggestions on what things to pack (and what to leave at home)
 appear in [Bring](/materials/bring.pdf).
 
 ________________________________________
-- Mailing address. <br>
+- MAILING ADDRESS. <br>
 To send a package or letter to a Ross participant during 
 those six weeks, use the following address: <br>
  &nbsp;    &nbsp;        ( Student’s Name )  <br>
@@ -55,7 +55,7 @@ those six weeks, use the following address: <br>
  &nbsp;    &nbsp;         Columbus, OH 43219
 
 ________________________________________
-# MEDICAL INFORMATION.  
+## MEDICAL INFORMATION.  
 There are two items to complete and return in two separate email messages:
 
    -  Download the [Medical Authorization](materials/medical-authorization.pdf) 
