@@ -30,7 +30,7 @@ Download the [Participation Agreement](/materials/participation-agreement.pdf)
 and type in the requested information. 
 Print the document on paper, sign that paper copy, 
 and have your parent sign it. Then scan the signed document, 
-and email the resulting PDF to [agreement@rossprogram.org](mailto:agreement@rossprogram.org). <br>
+and email the resulting PDF to  ross@rossprogram.org. <br>
 Please bring the signed paper copy of that Participation Agreement 
 and give it to a Ross staff member when you arrive.
 
@@ -58,34 +58,33 @@ ________________________________________
 # MEDICAL INFORMATION.  
 There are two items to complete and return in two separate email messages:
 
-   -  Download the [Medical Authorization](/materials/medical-authorization.pdf) 
+   -  Download the [Medical Authorization](materials/medical-authorization.pdf) 
    form, fill in the requested information, print the form on paper, have it 
-   signed by your parent or guardian, and email it to us at [medical@rossprogram.org](mailto:medical@rossprogram.org) .<br>
+   signed by your parent or guardian, and email it to us at  medical@rossprogram.org .<br>
 That form asks for some of your health history, current 
 medications, emergency contact information (parents phone numbers), 
 and provides permission for doctors to treat you in case of injuries 
 or illnesses during your time here.
 
    - Scan the front and back of your medical insurance card, 
-   and email the resulting PDF file to  [medical@rossprogram.org](mailto:medical@rossprogram.org) ,
+   and email the resulting PDF file to  medical@rossprogram.org ,
    with the subject line "insurance card"  followed by the name of the student.
    
-   Ross participants must have health insurance that protects 
-   them from major expenses due to medical emergencies.  
-   Such events are very rare, but can happen.  Someone might 
-   have an accident or illness that results in tens of thousands 
-   of dollars of fees for hospitals and doctors. 
+Ross participants must have health insurance that protects 
+them from major expenses due to medical emergencies.  
+Such events are very rare, but can happen.  Someone might 
+have an accident or illness that results in tens of thousands 
+of dollars of fees for hospitals and doctors. 
 
-   The Ross Program's insurance requirement is fulfilled if 
-   your current insurance policy covers "emergency medical care" 
-   in Ohio, even if it does not cover routine care. Of course you 
-   are welcome    to purchase additional insurance if desired.
+The Ross Program's insurance requirement is fulfilled if 
+your current insurance policy covers "emergency medical care" 
+in Ohio, even if it does not cover routine care. Of course you 
+are welcome    to purchase additional insurance if desired.
 
 
 <b>Do not already have insurance? </b> <br>
 Many companies offer short term insurance policies that cover 
-major medical expenses.  
-Costs vary depending on the deductible, 
+major medical expenses.  Costs vary depending on the deductible, 
 maximum coverage, and extras (like coverage during your travel).   
 For example, see the various companies and policies listed at: 
 &nbsp;   [Visitors Coverage](https://www.visitorscoverage.com/) .
