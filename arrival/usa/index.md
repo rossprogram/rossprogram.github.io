@@ -15,7 +15,7 @@ ________________________________________
 ### TRAVEL to Columbus Ohio.  <br>
 Everyone must arrive before 5 PM on Sunday June 23 
 (unless you made other arrangements with Ross administrators).  
-If you are traveling from the West Coast or from overseas, 
+If you are traveling from the USA's West Coast or from overseas, 
 please plan to arrive on Saturday June 22.
 
 Visit the Ross [Itinerary Page](https://rossprogram.org/arrival/usa/itinerary/)  for
