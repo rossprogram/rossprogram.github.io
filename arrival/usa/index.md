@@ -6,7 +6,7 @@ sidebar:
   nav: "menu"
 ---
 
-<font size="5" color="red"> <b>Welcome</b> </font>  to all 
+<span style="color: red"><b>Welcome</b></span> to all 
 participants who will join the 2019 <b>Ross/USA Mathematics Program</b>. <br>
 To help things run smoothly, please complete the following steps.  <br>
 ( They do not need to be done in the order given here! )
