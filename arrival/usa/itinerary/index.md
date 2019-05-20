@@ -22,7 +22,7 @@ to arrive in Columbus on Saturday, June 22.  Then you will have time to
 recover from the trip before starting mathematical work on Sunday evening. <br>
 Shuttles from the airport to the dorm will run as needed on that Saturday and Sunday. 
 
-- DRIVING:  We will post driving directions on this website.
+- DRIVING: Visit [Driving Directions](materials/driving-directions.pdf)
 
 - NOTE TO PARENTS.  You are welcome to travel with your son or daughter 
 to the Ross Program, and to attend the Orientation Meeting at 7 PM on Sunday.
