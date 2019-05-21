@@ -58,7 +58,7 @@ ________________________________________
 ### MEDICAL INFORMATION.  
 There are two items to complete and return in two separate email messages:
 
-   -  Download the [Medical Authorization](materials/medical-authorization.pdf) 
+   -  Download the [Medical Authorization](/materials/medical-authorization.pdf) 
    form, fill in the requested information, print the form on paper, have it 
    signed by your parent or guardian, and email it to us at  medical@rossprogram.org .<br>
 That form asks for some of your health history, current 
