@@ -48,12 +48,26 @@ than an hour before their flights. <br>
 It might be possible to stay overnight in the dorm on Friday night,
 but everyone needs to be away by early Saturday morning, August 3. 
 
+instructions on getting a background check; 
+
+## Employment Contract
+
+Please download [the employment
+contract](/materials/employment-contract.pdf), fill in the dates that
+you will be arriving and departing, sign it, scan it, and upload it to
+[our Dropbox](https://www.dropbox.com/request/F6TS8M14PkSG3MVUkKT1).
+
+## Background check
+
+Please download and complete [the background check authorization
+document](/materials/background-check-authorization.pdf)
+and then upload it to [our
+Dropbox](https://www.dropbox.com/request/F6TS8M14PkSG3MVUkKT1).
+
 # Ross Documents
 Several documents for counselors will soon be posted here.  These will include a request 
 for your itinerary (full arrival and departure plans); 
 a statement of Ross Program Policies and standard Rules of Behavior; 
-a Contract to print, sign and return; 
-instructions on getting a background check; 
 information about having custody and control of minors; 
 a request for your health history and your health insurance details; 
 the "Ross Counselor Manual"; etc.
