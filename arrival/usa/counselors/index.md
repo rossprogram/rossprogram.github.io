@@ -104,6 +104,7 @@ For example, see the various companies and policies listed at:
 
 Let us know if you are having difficulty arranging for such medical insurance.
 
+<p><br><hrule>
 Do you have suggestions for improving this web page?  
 Let us know by email to ross@rossprogram.org .
 
