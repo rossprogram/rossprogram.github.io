@@ -12,7 +12,7 @@ Welcome to all participants who will join the
 
 # Travel to Columbus
 
-Participants are expected to arrive at our dormitory in Columbus
+Participants are expected to arrive at our dormitory in Columbus<br>
 <span style="color: red"><b>before 5:00 PM on Sunday, June 23</b></span>
 
 When your travel plans have been made, complete the 
