@@ -7,23 +7,23 @@ sidebar:
 ---
 Welcome to counselors at the 2019 <b> Ross/USA Mathematics Program. </b>
 
-# Travel
+## Travel
 
-Counselors need to arrive at our dormitory in Columbus 
-<b>before noon on Saturday, June 22</b>.
+Counselors need to arrive at our dormitory in Columbus <br>
+&nbsp; &nbsp;  <b>before noon on Saturday, June 22.</b>
 
 - FLYING to the Columbus Airport (CMH):  Staff members will 
-meet Ross participants as they arrive.  Please plan to arrive Saturday morning,
-or Friday evening.  <br>
-&nbsp; &nbsp; &nbsp; First counselor meeting is at NOON on SATURDAY June 22. <br>
-If you have a long flight, plan to arrive in Columbus on Friday, June 21. 
+meet Ross participants as they arrive.  Please plan to arrive 
+or Friday evening June 21, or on Saturday morning.  <br>
+&nbsp; &nbsp; &nbsp; Counselor meeting will begin with lunch on SATURDAY June 22. <br>
+If you have a long flight, please plan to arrive on Friday. 
 Shuttles from the airport to the dorm will run as needed 
 on Friday, Saturday, and Sunday. 
 
-Others in our dormitory are scheduled to move out on Friday.  
-After the rooms are cleaned, they will be ready for Ross
-people to move in on Saturday.  We were told that several rooms can be cleaned early,
-and will be available on Friday evening.  <br>
+The people using Lynam Hall (our dorm) before us are scheduled to move
+out on Friday.  Ross people can move in after their rooms are cleaned.
+Several rooms will be cleaned quickly, and counselors so that counselors 
+can move in on Friday evening.  <br>
 
 - DRIVING: Here are [Driving Directions](/materials/driving-directions.pdf) to 
 Ohio Dominican University.
@@ -33,11 +33,11 @@ All counselors will meet on June 22 starting at noon.  Please arrange
 your travels so that you can join us there. 
 
 - DEPARTURE: The final lecture, awards presentations, and goodbyes will be
-completed by 11:00 on Friday morning August 2.  Please plan your departing flights are 
-for that Friday after 2 PM.  Shuttles will get participants the airport more
+completed by 11:00 on Friday morning August 2.  Please plan your departing flights 
+to leave that Friday after 2 PM.  Shuttles will get participants the airport more
 than an hour before their flights. <br>
-It might be possible to stay overnight in the dorm on Friday night,
-but everyone needs to be away by early Saturday morning, August 3. 
+You may stay in the dorm on Friday night,
+but everyone needs to be away on Saturday morning, August 3. 
 
 
 ## Employment Contract
@@ -67,7 +67,9 @@ Ross campers and junior counselors are asked to read
 the documents [Program Rules](/materials/program-rules.pdf) 
 and [Standards of Behavior](/materials/standards-of-behavior.pdf), and then
 to sign the [Participation Agreement](/materials/participation-agreement.pdf). 
-Counselors play a large role in ensuring that those Rules and Stndards are followed.
+Counselors have do not sign that Agreement, but should be familiar with 
+the content of those documents.  Counselors play a large role in ensuring 
+that those Rules and Stndards are followed.
 These issues will be discussed further during our initial counselor meeting.
 
 ### MEDICAL INFORMATION.  
