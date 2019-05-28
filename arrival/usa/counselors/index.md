@@ -37,14 +37,14 @@ but everyone needs to be away on Saturday morning, August 3.
 
 ## Employment Contract
 
-Please download [the employment contract](/materials/employment-contract.pdf), 
+Please download the [employment contract](/materials/employment-contract.pdf), 
 fill in the dates that you will be arriving and departing, sign it, scan it, 
 and upload it to
 [our Dropbox](https://www.dropbox.com/request/F6TS8M14PkSG3MVUkKT1).
 
 ## Background check
 
-Please download and complete [the background check authorization
+Please download and complete the [background check authorization
 document](/materials/background-check-authorization.pdf)
 and then upload it to 
 [our Dropbox](https://www.dropbox.com/request/F6TS8M14PkSG3MVUkKT1).
@@ -68,7 +68,8 @@ that those Rules and Stndards are followed.
 These issues will be discussed further during counselor meetings.
 
 ## Medical Information.  
-There are two items to complete and return.
+Two items are needed: the Medical Authorization form and a copy of your
+medical insurance card.
 
    -  Download the [Medical Authorization](/materials/medical-authorization.pdf) 
    form, fill in the requested information, print the form on paper, and sign where
@@ -101,9 +102,10 @@ maximum coverage, and extras (like coverage during your travel).
 For example, see the various companies and policies listed at: 
 &nbsp;   [Visitors Coverage](https://www.visitorscoverage.com/) .
 
-Please let us know if you are having difficulty arranging for such medical insurance.
+Let us know if you are having difficulty arranging for such medical insurance.
 
-
+Do you have suggestions for improving this web page?  
+Let us know by email to ross@rossprogram.org .
 
 
 
