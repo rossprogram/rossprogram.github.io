@@ -27,10 +27,6 @@ can move in on Friday evening.  <br>
 - DRIVING: Here are [Driving Directions](/materials/driving-directions.pdf) to 
 Ohio Dominican University.
 
-- COUNSELOR TRAINING SESSIONS: <br>
-All counselors will meet on June 22 starting at noon.  Please arrange
-your travels so that you can join us there. 
-
 - DEPARTURE: The final lecture, awards presentations, and goodbyes will be
 completed by 11:00 on Friday morning August 2.  Please plan your departing flights 
 to leave that Friday after 2 PM.  Shuttles will get participants the airport more
