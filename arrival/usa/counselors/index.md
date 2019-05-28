@@ -59,7 +59,7 @@ as well as for contact information for you and your parent
 
 ## Agreements for Campers
 Ross campers and junior counselors are asked to read
-the documents [Program Rules](/materials/program-rules.pdf) 
+[Program Rules](/materials/program-rules.pdf) 
 and [Standards of Behavior](/materials/standards-of-behavior.pdf), and then
 to sign the [Participation Agreement](/materials/participation-agreement.pdf). 
 Counselors have do not sign that Agreement, but should be familiar with 
