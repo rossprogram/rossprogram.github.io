@@ -58,7 +58,7 @@ as well as for contact information for you and your parent
 (or other emergency contact person), in case of difficulties during travel.
 
 ## Agreements for Campers
-Ross campers and junior counselors are asked to read
+Ross campers and JCs are asked to read
 [Program Rules](/materials/program-rules.pdf) 
 and [Standards of Behavior](/materials/standards-of-behavior.pdf), and then
 to sign the [Participation Agreement](/materials/participation-agreement.pdf). 
@@ -67,7 +67,7 @@ the content of those three documents because you will play a large role in ensur
 that those Rules and Stndards are followed.
 These issues will be discussed further during counselor meetings.
 
-### MEDICAL INFORMATION.  
+## Medical Information.  
 There are two items to complete and return.
 
    -  Download the [Medical Authorization](/materials/medical-authorization.pdf) 
