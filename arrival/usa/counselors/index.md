@@ -21,8 +21,7 @@ Shuttles from the airport to the dorm will run as needed
 on Friday, Saturday, and Sunday. 
 
 The people using Lynam Hall (our dorm) before us are scheduled to move
-out on Friday.  Ross people can move in after their rooms are cleaned.
-Several rooms will be cleaned quickly, and counselors so that counselors 
+out on Friday.  Several rooms will be cleaned quickly so that counselors 
 can move in on Friday evening.  <br>
 
 - DRIVING: Here are [Driving Directions](/materials/driving-directions.pdf) to 
