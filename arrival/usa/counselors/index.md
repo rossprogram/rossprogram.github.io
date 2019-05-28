@@ -42,6 +42,9 @@ fill in the dates that you will be arriving and departing, sign it, scan it,
 and upload it to
 [our Dropbox](https://www.dropbox.com/request/F6TS8M14PkSG3MVUkKT1).
 
+REMINDER:  Please bring your passport or equivalent identification documents.
+Those are needed to complete the required tax documents.
+
 ## Background check
 
 Please download and complete the [background check authorization
