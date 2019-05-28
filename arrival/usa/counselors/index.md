@@ -62,10 +62,10 @@ Ross campers and junior counselors are asked to read
 [Program Rules](/materials/program-rules.pdf) 
 and [Standards of Behavior](/materials/standards-of-behavior.pdf), and then
 to sign the [Participation Agreement](/materials/participation-agreement.pdf). 
-Counselors have do not sign that Agreement, but should be familiar with 
-the content of those documents.  Counselors play a large role in ensuring 
+As a counselor, you do not need to sign that Agreement. But you should be familiar with 
+the content of those three documents because you will play a large role in ensuring 
 that those Rules and Stndards are followed.
-These issues will be discussed further during our initial counselor meeting.
+These issues will be discussed further during counselor meetings.
 
 ### MEDICAL INFORMATION.  
 There are two items to complete and return.
