@@ -86,7 +86,7 @@ or illnesses during your time here.
 
    - Scan the front and back of your medical insurance card, 
    and email the resulting PDF file to  <medical@rossprogram.org> ,
-   with the subject line "insurance card" followed by the name of the student.
+   with the subject line "insurance card" followed by your name.
    
 Ross participants must have health insurance that protects 
 them from major expenses due to medical emergencies.  
