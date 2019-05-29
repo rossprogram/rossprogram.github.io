@@ -34,8 +34,15 @@ than an hour before their flights. <br>
 You may stay in the dorm on Friday night,
 but everyone needs to be away on Saturday morning, August 3. 
 
-## What to Bring
+## Registration and Itinerary
+When your travel plans have been made, complete the 
+[Registration Form](https://forms.gle/Soia2isSWKmU9pVj9).  <br>
+That online form is designed for campers rather than counselors, 
+but please use it anyway.  It asks for information about your arrival plans, 
+as well as for contact information for you and your parent 
+(or other emergency contact person), in case of difficulties during travel.
 
+## What to Bring
 Please read the [What to Bring](/materials/bring.pdf) document 
 that is written for campers and their parents.  Counselors may ignore
 the restriction on computers:  Please bring a laptop.
@@ -47,7 +54,6 @@ after you arrive. If you need more than one towel per week, you may
 bring your own or purchase new ones, washing and drying your towels as needed.
 
 ## Employment Contract
-
 Please download the [employment contract](/materials/employment-contract.pdf), 
 fill in the dates that you will be arriving and departing, sign it, scan it, 
 and upload it to
@@ -57,19 +63,11 @@ REMINDER:  Bring your passport or equivalent identification documents.
 That ID are required to complete the tax documents.
 
 ## Background check
-
 Please download and complete the [background check authorization
 document](/materials/background-check-authorization.pdf)
 and then upload it to 
 [our Dropbox](https://www.dropbox.com/request/F6TS8M14PkSG3MVUkKT1).
 
-## Registration and Itinerary
-When your travel plans have been made, complete the 
-[Registration Form](https://forms.gle/Soia2isSWKmU9pVj9).  <br>
-That online form is designed for campers rather than counselors, 
-but please use it anyway.  It asks for information about your arrival plans, 
-as well as for contact information for you and your parent 
-(or other emergency contact person), in case of difficulties during travel.
 
 ## Agreements for Campers
 Ross campers and JCs are asked to read
