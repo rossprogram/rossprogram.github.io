@@ -34,6 +34,17 @@ than an hour before their flights. <br>
 You may stay in the dorm on Friday night,
 but everyone needs to be away on Saturday morning, August 3. 
 
+## What to Bring
+
+Please read the [What to Bring](/materials/bring.pdf) document 
+that is written for campers and their parents.  Counselors may ignore
+the restriction on computers:  Please bring a laptop.
+
+Note that Ross participants are enrolled in the University's linen service,
+providing a clean towel, pillowcase, and sheets each week. Since they
+do not provide pillows, you may either bring a pillow or purchase one
+after you arrive. If you need more than one towel per week, you may
+bring your own or purchase new ones, washing and drying your towels as needed.
 
 ## Employment Contract
 
