@@ -75,14 +75,17 @@ Suggestions on what things campers should pack (and what to leave at home) appea
 <u>Bring</u> (to be posted). Most of that advice also applies to counselors.
 
 ### Medical Information.  
-Download the [Medical Authorization](/materials/medical-authorization-asia.pdf) 
-form, fill in the requested information, print the form on paper, and sign where
-indicated.  If you are under 21 please have your parent (or guardian) 
-sign it as well. Then scan the signed document and email the resulting PDF to us at 
-<info@rossmathasia.org> . <br>
+Download the 
+[Medical Authorization](/materials/medical-authorization-asia.pdf) 
+form, type your information into the text boxes, 
+print the form on paper, and fill in the medical information 
+(using black ink), and sign where indicated.  
+If you are under 21 please have your parent (or guardian) 
+sign it instead. Then scan the signed document, 
+and email the resulting PDF to us at <info@rossmathasia.org> . <br>
 That form asks for some of your health history, current medications, 
-food restrictions and
-emergency contacts (typically, parents' phone numbers).  
+food restrictions, and emergency contacts (typically, 
+parents' phone numbers).  
 One purpose for this document is to provide information to doctors 
 who might treat you for injuries or illnesses during your time here.
 
