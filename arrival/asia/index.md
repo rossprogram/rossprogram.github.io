@@ -81,11 +81,7 @@ those five weeks, use the following address: <br>
 
 ________________________________________
 - MEDICAL INFORMATION.  
-There are two items to complete and return in two separate email messages:
-
-   -  Download the [Medical Authorization](/materials/medical-authorization-asia.pdf) 
-   form, fill in the requested information, print the form on paper, have it 
-   signed by your parent or guardian, and email it to us at  <info@rossmathasia.org> .<br>
+Download the [Medical Authorization](/materials/medical-authorization-asia.pdf) form, fill in the requested information, print the form on paper, have it signed by your parent or guardian, and email it to us at <info@rossmathasia.org> .<br>
 That form asks for some of your health history, current 
 medications, emergency contact information (parents' phone numbers), 
 and provides permission for doctors to treat you in case of injuries 
