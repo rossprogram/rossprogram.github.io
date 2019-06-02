@@ -8,15 +8,14 @@ sidebar:
 
 Welcome to all Counselors who will join the 2019 Ross/Asia Mathematics
 Program.<br>
-((NOTE. Some links mentioned below are not yet active))
 
 ### Travel to Zhenjiang.
 The  [Counselor Travel Plan](counselor-travel-plan.pdf) 
 contains advice on traveling to our dormitory at the 
 Jiangsu Aviation Technical College in Zhenjiang, Jiangsu, China.
 
-Counselors need to arrive at our dorm before noon on Saturday July
-6.    Those flying to China from other countries are advised to arrive
+Counselors need to arrive at our dorm before noon on Saturday July 6. 
+Those flying to China from other countries are advised to arrive
 in Shanghai on Friday July 5, stay overnight in the airport hotel, and
 take our chartered bus at 8 AM on Saturday morning.
 
@@ -30,49 +29,56 @@ providing instructions and advice on how to apply for an appropriate visa:
 - [Instructions for visa application form](https://rossprogram.org/arrival/asia/instructions-for-visa-application-form.pdf)
 - [Visa application form](https://rossprogram.org/arrival/asia/visa-application-form.pdf)
 
-The visa application form section 2.6 asks for your "Itinerary in China." It's best to leave that blank and email your partially completed PDF form to Jerry Xiao  [jxiao@renashall.com].  He will proofread your entries, insert the appropriate itinerary, and mail it back to you.
+The visa application form section 2.6 asks for your "Itinerary in China." 
+It's best to leave that blank and email your partially completed PDF form 
+to Jerry Xiao  <jxiao@renashall.com>.  He will proofread your entries, 
+insert the appropriate itinerary, and mail it back to you.
 
 ### Registration and Itinerary
-When your travel plans have been made, complete the <u>Registration Form</u> 
-(link to be posted here). 
-That online form asks about your arrival plans and 
+When your travel plans have been made, complete the 
+<u>Registration Form</u> (to be posted) . 
+That form asks about your arrival plans and 
 emergency contacts, in case of difficulties during travel. 
 
 ### Employment Contract
-Print the <u>employment contract</u> (to be posted here), fill in the
-parts indicated, scan the signed document 
-to make a PDF file, and email that file to <info@rossmathasia.org>.
+Print the [Employment contract](/materials/employment-contract-asia.pdf), fill in the
+parts indicated, scan the signed document to make a PDF file, 
+and email that file to <info@rossmathasia.org>.
   
 At the first meeting (at noon on Saturday July 6), counselors will
 complete some other empolyment documents.
 
 ### Background check
-Please download the [background check authorization
-document](/materials/background-check-authorization.pdf), fill it in, 
-print it, sign it, scan the signed document, and upload the resulting
-PDF to our secure 
+Please download the 
+[background check authorization](/materials/background-check-authorization.pdf), 
+fill it in, print it, sign it, scan the signed document, 
+and upload the resulting PDF to our secure 
 [Dropbox](https://www.dropbox.com/request/F6TS8M14PkSG3MVUkKT1).
 We will run a USA background check based on your name and SSN.  
-If you do not have a US Social Security Number, enter zero in that box.
+If you do not have a US Social Security Number, enter zero in the SSN box.
 
 ### Agreements for Campers
 Ross campers and JCs are asked to read
-<u>Program Rules</u>(/materials/program-rules-asia.pdf) 
-and <u>Standards of Behavior</u>(/materials/standards-of-behavior-asia.pdf), 
-and then to sign the <u>Participation Agreement 
-</u>(/materials/participation-agreement.pdf). 
+[Program Rules](/materials/program-rules-asia.pdf) and
+[Standards of Behavior](/materials/standards-of-behavior-asia.pdf), 
+and then to sign the 
+[Participation Agreement](/materials/participation-agreement-asia.pdf). 
 As a counselor, you do not need to sign that Agreement, 
 and you may bring a laptop computer. 
-But you should be familiar with the content of those three documents 
-because counselors play a large role in ensuring that those Rules and Stndards 
+But please read through those three documents because counselors 
+play a large role in ensuring that those Rules and Stndards 
 are followed.<br>
 These issues will be discussed further during counselor meetings.
 
+### WHAT TO BRING to Ross/Asia? 
+Suggestions on what things campers should pack (and what to leave at home) appear in 
+<u>Bring</u> (to be posted). Most of that advice also applied to counselors.
+
 ### Medical Information.  
-Download the <u>Medical Authorization 
-</u>(/materials/medical-authorization-asia.pdf) 
+Download the [Medical Authorization](/materials/medical-authorization-asia.pdf) 
 form, fill in the requested information, print the form on paper, and sign where
-indicated.  If you are under 21 please have your parent (or guardian) sign it as well. Then scan the signed document and email the resulting PDF to us at 
+indicated.  If you are under 21 please have your parent (or guardian) 
+sign it as well. Then scan the signed document and email the resulting PDF to us at 
 <info@rossmathasia.org> . <br>
 That form asks for some of your health history, current medications, and
 emergency contact information (typically, parents' phone numbers).  
