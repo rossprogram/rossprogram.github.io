@@ -72,7 +72,7 @@ These issues will be discussed further during counselor meetings.
 
 ### What to bring to Ross/Asia? 
 Suggestions on what things campers should pack (and what to leave at home) appear in 
-<u>Bring</u> (to be posted). Most of that advice also applied to counselors.
+<u>Bring</u> (to be posted). Most of that advice also applies to counselors.
 
 ### Medical Information.  
 Download the [Medical Authorization](/materials/medical-authorization-asia.pdf) 
@@ -80,7 +80,8 @@ form, fill in the requested information, print the form on paper, and sign where
 indicated.  If you are under 21 please have your parent (or guardian) 
 sign it as well. Then scan the signed document and email the resulting PDF to us at 
 <info@rossmathasia.org> . <br>
-That form asks for some of your health history, current medications, and
+That form asks for some of your health history, current medications, 
+food restrictions and
 emergency contact information (typically, parents' phone numbers).  
 The goal is to provide permission for doctors to treat you in case of injuries 
 or illnesses during your time here.
