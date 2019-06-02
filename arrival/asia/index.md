@@ -47,6 +47,7 @@ page is for those in China. The first installment is due by May 15.
 -- [Credit Card Form](https://github.com/rossprogram/rossprogram.github.io/blob/master/arrival/asia/RossAsia%20credit%20card%20form.pdf)
 
 ### DOCUMENTS required for Ross/Asia.
+
 ________________________________________
 - REGISTRATION FORM. 
 This asks for current contact information (phone number and email) 
@@ -54,6 +55,7 @@ for yourself and for your emergency contact person (typically a parent).
 It also requires your full arrival itinerary:  How you plan to get
 to Zhenjiang and all arrival details (flights, trains, etc.) <br>
 That form will be posted here as soon as it has been prepared.
+
 ________________________________________
 - PARTICIPATION AGREEMENT. 
 Please read the documents [Program Rules](/materials/program-rules-asia.pdf) 
