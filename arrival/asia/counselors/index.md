@@ -79,7 +79,7 @@ emergency contact information (typically, parents' phone numbers).
 The goal is to provide permission for doctors to treat you in case of injuries 
 or illnesses during your time here.
 
-<br><hr>
+<br><hr><br>
 Do you have suggestions for improving this web page?  
 Let us know by email to <ross@rossprogram.org> .
 
