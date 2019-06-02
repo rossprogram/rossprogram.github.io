@@ -82,17 +82,17 @@ those five weeks, use the following address: <br>
 ________________________________________
 - MEDICAL INFORMATION.  
 Download the 
-[Medical Authorization](/materials/medical-authorization-asia.pdf) form, 
-insert your information into the text boxes, 
+[Medical Authorization](/materials/medical-authorization-asia.pdf) 
+form, type your information into the text boxes, 
 print the form on paper, fill in the medical information 
 (using black ink), have it signed by your parent or guardian, 
-and email it to us at <info@rossmathasia.org> .<br>
-That form asks for some of your health history, current 
-medications, food restrictions, emergency contact 
-information (parents' phone numbers), and provides 
-permission for doctors to treat you in case of injuries 
-or illnesses during your time here.
-
+scan the signed document, and email the resulting PDF to us at 
+<info@rossmathasia.org> . <br>
+That form asks for some of your health history, current medications, 
+food restrictions, and emergency contacts (typically, 
+parents' phone numbers).  
+One purpose for this document is to provide information to doctors 
+who might treat you for injuries or illnesses during your time here.
 
 <hr><br>
 Do you have suggestions for improving this web page?<br>
