@@ -70,7 +70,7 @@ play a large role in ensuring that those Rules and Stndards
 are followed.<br>
 These issues will be discussed further during counselor meetings.
 
-### WHAT TO BRING to Ross/Asia? 
+### What to bring to Ross/Asia? 
 Suggestions on what things campers should pack (and what to leave at home) appear in 
 <u>Bring</u> (to be posted). Most of that advice also applied to counselors.
 
