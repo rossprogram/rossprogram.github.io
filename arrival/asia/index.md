@@ -33,7 +33,7 @@ providing instructions and advice on how to apply for an appropriate visa:
 
 The visa application form section 2.6 asks for your "Itinerary in China." 
 It's best to leave that blank and email your partially completed 
-PDF form to Jerry Xiao [jxiao@renashall.com]. 
+PDF form to Jerry Xiao <jxiao@renashall.com>. 
 He will proofread your entries, insert the appropriate itinerary, and mail it back to you.
 
 - Payment Options
@@ -43,7 +43,7 @@ and all instructional costs. Payment options are described in the Payment Instru
 document below. The first page is for participants outside China, and the second
 page is for those in China. The first installment is due by May 15.
 
--- [Payment Instructions](https://github.com/rossprogram/rossprogram.github.io/blob/master/RossAsia_Payment_Instruction_2019.pdf)
+-- [Payment Instructions](https://github.com/rossprogram/rossprogram.github.io/blob/master/RossAsia_Payment_Instruction_2019.pdf)<br>
 -- [Credit Card Form](https://github.com/rossprogram/rossprogram.github.io/blob/master/arrival/asia/RossAsia%20credit%20card%20form.pdf)
 
 ### DOCUMENTS required for Ross/Asia.
