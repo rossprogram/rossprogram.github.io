@@ -82,9 +82,9 @@ sign it as well. Then scan the signed document and email the resulting PDF to us
 <info@rossmathasia.org> . <br>
 That form asks for some of your health history, current medications, 
 food restrictions and
-emergency contact information (typically, parents' phone numbers).  
-The goal is to provide permission for doctors to treat you in case of injuries 
-or illnesses during your time here.
+emergency contacts (typically, parents' phone numbers).  
+One purpose for this document is to provide information to doctors 
+who might treat you for injuries or illnesses during your time here.
 
 <br><hr><br>
 Do you have suggestions for improving this web page?  
