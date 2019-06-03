@@ -88,11 +88,9 @@ print the form on paper, fill in the medical information
 (using black ink), have it signed by your parent or guardian, 
 scan the signed document, and email 
 the resulting PDF to us at <info@rossmathasia.org> . 
-That form asks for some of your health history, current medications, 
+That form asks about your health history, current medications, 
 food restrictions, and emergency contacts (typically, 
 parents' phone numbers).  
-One purpose for this document is to provide information to doctors 
-who might treat you for injuries or illnesses during your time here.
 
 <hr><br>
 Do you have suggestions for improving this web page?<br>
