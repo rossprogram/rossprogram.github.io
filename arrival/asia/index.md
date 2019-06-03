@@ -86,8 +86,8 @@ Download the
 form, type your information into the text boxes, 
 print the form on paper, fill in the medical information 
 (using black ink), have it signed by your parent or guardian, 
-scan the signed document, and email the resulting PDF to us at 
-<info@rossmathasia.org> . <br>
+scan the signed document, and email 
+the resulting PDF to us at <info@rossmathasia.org> . 
 That form asks for some of your health history, current medications, 
 food restrictions, and emergency contacts (typically, 
 parents' phone numbers).  
