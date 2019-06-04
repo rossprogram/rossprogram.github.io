@@ -90,6 +90,7 @@ One purpose for this document is to provide information to doctors
 who might treat you for injuries or illnesses during your time here.
 
 <br><hr><br>
+
 Do you have suggestions for improving this web page?  
 Let us know by email to <ross@rossprogram.org> .
 
