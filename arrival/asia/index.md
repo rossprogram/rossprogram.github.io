@@ -70,7 +70,7 @@ and give it to a Ross staff member when you arrive.
 ________________________________________
 - WHAT TO BRING to the Ross Program? 
 Suggestions on what things to pack (and what to leave at home) 
-appear in <u>Bring</u>(/materials/Bring-asia.pdf).
+appear in [Bring](/materials/bring-asia.pdf).
 
 ________________________________________
 - MAILING ADDRESS. 
