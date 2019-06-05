@@ -51,7 +51,7 @@ page is for those in China. The first installment is due by May 15.
 ________________________________________
 - REGISTRATION FORM. 
 When your travel plans have been made, complete the 
-[Registration Form](/materials/registration-asia.pdf) . 
+[Registration Form](/materials/registration-form-asia.pdf) . 
 That form asks about your emergency contacts and for
 details of your arrival plans.
 
