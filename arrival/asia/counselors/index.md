@@ -72,7 +72,7 @@ These issues will be discussed further during counselor meetings.
 
 ### What to bring to Ross/Asia? 
 Suggestions on what things campers should pack (and what to leave at home) appear in 
-<u>Bring</u> (to be posted). Most of that advice also applies to counselors.
+[Bring](/materials/bring-asia.pdf)). Most of that advice also applies to counselors.
 
 ### Medical Information.  
 Download the 
