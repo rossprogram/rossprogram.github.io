@@ -36,9 +36,10 @@ insert the appropriate itinerary, and mail it back to you.
 
 ### Registration and Itinerary
 When your travel plans have been made, complete the 
-<u>Registration Form</u> (to be posted) . 
-That form asks about your arrival plans and 
-emergency contacts, in case of difficulties during travel. 
+[Registration Form]/materials/registration-asia.pdf) . 
+That form asks about your emergency contacts and for
+details of your arrival plans.
+. 
 
 ### Employment Contract
 Print the [Employment contract](/materials/employment-contract-asia.pdf), fill in the
