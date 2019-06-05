@@ -36,7 +36,7 @@ insert the appropriate itinerary, and mail it back to you.
 
 ### Registration and Itinerary
 When your travel plans have been made, complete the 
-[Registration Form]/materials/registration-asia.pdf) . 
+[Registration Form](/materials/registration-asia.pdf) . 
 That form asks about your emergency contacts and for
 details of your arrival plans.
 . 
