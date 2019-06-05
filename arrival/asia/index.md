@@ -50,11 +50,10 @@ page is for those in China. The first installment is due by May 15.
 
 ________________________________________
 - REGISTRATION FORM. 
-This asks for current contact information (phone number and email) 
-for yourself and for your emergency contact person (typically a parent).
-It also requires your full arrival itinerary:  How you plan to get
-to Zhenjiang and all arrival details (flights, trains, etc.) <br>
-That form will be posted here as soon as it has been prepared.
+When your travel plans have been made, complete the 
+[Registration Form](/materials/registration-asia.pdf) . 
+That form asks about your emergency contacts and for
+details of your arrival plans.
 
 ________________________________________
 - PARTICIPATION AGREEMENT. 
