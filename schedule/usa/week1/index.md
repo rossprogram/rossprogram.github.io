@@ -6,8 +6,6 @@ sidebar:
   nav: "menu"
 ---
 
-# Week 1
-
 ## Meals
 
 8:30am -- 9:30am Breakfast
