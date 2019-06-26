@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Reflect Wdnesdays
+title: Reflect Wednesdays
 type: page
 sidebar:
   nav: "menu"
