@@ -6,7 +6,5 @@ sidebar:
   nav: "menu"
 ---
 
-To help you reflect on your own learning, please complete the following reflection:
-
-https://forms.gle/iL7iKGwwTssbjPNU8
+To help you reflect on your own learning, please complete <a href="https://forms.gle/iL7iKGwwTssbjPNU8">the weekly reflection</a>.
 
