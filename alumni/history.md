@@ -236,7 +236,7 @@ In 2016 we established [Ross/Asia](http://www.rossmathasia.org/luosi2/index.php?
 
 20\. Nature or Nurture; December 1973\. A report on the student science-training summer program sponsored by the National Science Foundation and by the Ohio State University.
 
-21\. Fostering Scientific Talent, Chapter V of:  _Science and Technology Policies,_ Ballinger Publ. Co, Cambridge, MA (1973) 71-77.
+21\. Fostering Scientific Talent, Chapter V of: _Science and Technology Policies,_ Ballinger Publ. Co, Cambridge, MA (1973) 71-77.
 
 22\. Chairman's Report, The National Research Council, Committee on Undergraduate Education (1974).
 
@@ -246,7 +246,7 @@ In 2016 we established [Ross/Asia](http://www.rossmathasia.org/luosi2/index.php?
 
 25\. [What Mathematics for Gifted Young People](http://u.osu.edu/rossmath/files/2015/01/Math-for-Gifted-Young-People-1jhjc7w.pdf): the Problems of Selection of Content and of Bringing about Deep Student Involvement, _Proceedings of the International Congress on Mathematical Education_ **4** (1980) 696-699.
 
-26\. [New-math note](http://www.jstor.org/stable/27964594), _The Math. Teache_r **78** (1985) 496, 498.
+26\. [New-math note](http://www.jstor.org/stable/27964594), _The Math. Teacher_ **78** (1985) 496, 498.
 
 27\. [The Teacher's Role in Fostering Creativity](http://u.osu.edu/rossmath/files/2015/01/The-Teachers-Role-r85133.pdf), manuscript 1989.
 
@@ -262,11 +262,15 @@ In 2016 we established [Ross/Asia](http://www.rossmathasia.org/luosi2/index.php?
 
 33\. Creativity in the Mathematical Sciences, _AAAS Symposium_, San Francisco (January 18, 1989).
 
-34\. Windmills or Stepping Stones?, in: [_A Century of Mathematical Meetings_](http://bookstore.ams.org/mtgm/), Bettye Anne Case (ed.), Amer. Math. Soc., 1996.
+34\. Talent search and development: A clinical approach. In: _Talent development: Proceedings from 
+the 1991 Henry B. and Jocelyn Wallace National Research Symposium 
+on Talent Development,_ N. Colangelo, S. G. Assouline, & D. L. Ambroson (eds.) 348-352. Unionville, NY, Trillium Press. 
 
-35\. [Unfulfilled tomorrows](http://www.ams.org/notices/199610/comm-ross.pdf), _Notices of the Amer. Math. Soc._ **43** (1996) 1147-1150.
+35\. Windmills or Stepping Stones?, in: [_A Century of Mathematical Meetings_](http://bookstore.ams.org/mtgm/), Bettye Anne Case (ed.), Amer. Math. Soc., 1996.
 
-36\. Response to:  [1998 Citations for Public Service](http://www.ams.org/notices/199804/comm-cit-pubserv.pdf), _Notices of the Amer. Math. Soc._ **45** (1998) 513-516.
+36\. [Unfulfilled tomorrows](http://www.ams.org/notices/199610/comm-ross.pdf), _Notices of the Amer. Math. Soc._ **43** (1996) 1147-1150.
+
+37\. Response to:  [1998 Citations for Public Service](http://www.ams.org/notices/199804/comm-cit-pubserv.pdf), _Notices of the Amer. Math. Soc._ **45** (1998) 513-516.
 
 37\. Preachment versus Apprenticeship, unpublished manuscript.
 
@@ -274,7 +278,8 @@ In 2016 we established [Ross/Asia](http://www.rossmathasia.org/luosi2/index.php?
 
 ### **Articles about Arnold Ross or his summer program:**
 
-Browder, Felix; article about the 1975 Chicago program.
+Browder, Felix; Youthful enjoyment of rigorous thinking, _University of Chicago Magazine_, (Winter 1975). <br>
+Describes the 1975 Ross Program held at the University of Chicago.  
 
 Zassenhaus, Hans; Arnold E. Ross, pp. xxvi–xxxiii in: _[Number theory and algebra](https://archive.org/stream/NumberTheoryAndAlgebra/Zassenhaus-NumberTheoryAndAlgebra#page/n25/mode/2up)._ Collected papers dedicated to Henry B. Mann, Arnold E. Ross, and Olga Taussky-Todd. Edited by Hans Zassenhaus. _Academic Press,_ 1977.
 
