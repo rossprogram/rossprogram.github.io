@@ -149,7 +149,7 @@ I was a first-year student in the Ross SSTP in 1966 and a counselor in 1967, 196
 
 ### Ross/Asia
 
-In 2016 we established [Ross/Asia](http://www.rossmathasia.org/luosi2/index.php?lang=en), a version of the Ross Program that has run in China every summer since then. That five-week session follows the Ross model, with a number theory course, daily problem sets, and counselors each with a "family" of four or five students. Most of the campers at Ross/Asia are from China while most counselors and instructors are American.  All classes and most discussions are held in English. In 2016 the camp was held at a hotel near Nanjing; in 2017 and 2018 at the Chenshan School in Huangshan City; and in 2019 at the Jiangsu Aviation Technical College in Zhenjiang. 
+In 2016 we established [Ross/Asia](http://www.rossmathasia.org/luosi2/index.php?lang=en), a version of the Ross Program that has run in China every summer since then. This was done in cooperation with Jerry Xiao and his company [Renascentia Hall](https://www.renashall.com/). That five-week session follows the Ross model, with a number theory course, daily problem sets, and counselors each with a "family" of four or five students. Most campers at Ross/Asia are from China while most counselors and instructors are American.  All classes and most discussions are held in English. In 2016 the camp was held at a hotel near Nanjing; in 2017 and 2018 at the Chenshan School in Huangshan City; and in 2019 at the Jiangsu Aviation Technical College in Zhenjiang. Instructors at Ross/Asia have been: Daniel Shapiro and Jared Weinstein; Daniel Shapiro and Hesam Oveys; Paul Pollack and Enrico Trevino; and Timothy All and Paul Pollack.
 
 ### Ending connections with OSU
 
