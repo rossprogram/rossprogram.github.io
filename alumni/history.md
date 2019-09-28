@@ -167,12 +167,11 @@ After working so many years at the Ross Program, I was awarded the Ohio State Un
 
 ### Ross problem sets.
 
-In the 1960s the problem sets were handwritten and duplicated from ditto masters. In the early years Dr. Ross made changes in the sets every year, sometimes just tweaking a few problems but other times substituting new topics for old. In the 1990s Daniel Bernstein (one of the counselors) typed up the problem sets in TeX. After that the sets seemed to have stayed nearly unchanged until 2001\. Students and counselors across several years often referred to particular problems by their location rather than content. (“I struggled with  
-P7 set 10, … ”)
+In the 1960s the problem sets were handwritten and duplicated from ditto masters. In the early years Dr. Ross made changes in the sets every year, sometimes just tweaking a few problems but other times substituting new topics for old. In the 1990s Daniel Bernstein (one of the counselors) typed up the problem sets in TeX. After that the sets seemed to have stayed nearly unchanged until 2001\. Students and counselors across several years often referred to particular problems by their location rather than content. (“I struggled with  P7 set 10, … ”)
 
 The problems in each set are grouped into categories like Terminology, Numerical, Exploration, and “podasip”: Prove or Disprove and Salvage if Possible. (I think the acronym PODASIP was first used in the 1990s.) Every summer, students require some practice before understanding the idea of podasips, but they soon begin to enjoy struggling with those somewhat open-ended problems.
 
-After becoming Director, I asked some former counselors to help rework the sets for the 2001 session. Anna Medvedovsky and Noah Snyder worked many hours to reorganize the problem sets and type them in LaTeX. They traced all the threads of ideas in the original sets and rewove them to slow down the pace in the early weeks and speed it up later on. Over the next few years several small changes in the sets were made by Shapiro and Warren Sinnott, who led the Ross Number Theory class during 2006 – 2008.
+After becoming Director, I asked some former counselors to help rework the sets for the 2001 session. Anna Medvedovsky and Noah Snyder worked many hours to reorganize the problem sets and type them in LaTeX. They traced all the threads of ideas in the original sets and rewove them to slow down the pace in the early weeks and speed it up later on. Over the next few years several small changes in the sets were made by Shapiro and Warren Sinnott, who led the Ross Number Theory class during 2006 – 2008. The Ross problem sets were reworked again by Jim Fowler around 2015.
 
 ### Switch to a six-week format.
 
