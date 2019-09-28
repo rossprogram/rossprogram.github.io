@@ -111,9 +111,9 @@ Ross had close connections with [Paul Erdös](http://en.wikipedia.org/wiki/Paul_
 
 ### Move to Ohio State.
 
-In Autumn 1963 Arnold Ross was appointed chair of the Department of Mathematics at Ohio State. He did not tell stories about the reasons for this move, but other people who were at Notre Dame at that time told me that a new dean was appointed at Notre Dame in the early 1960s. That dean resisted Ross’s practice of avoiding proper channels and doing things without working through the dean’s office. In addition, several math faculty members at Notre Dame were disgruntled by Ross’s authoritative style and complained about their lack of input. Those pressures induced Ross to look for employment elsewhere.
+In Autumn 1963 Arnold Ross was appointed chair of the Department of Mathematics at Ohio State. Ross did not tell stories about the reasons for this move, but other people who were at Notre Dame at that time told me that a new dean was appointed in the early 1960s. That dean resisted Ross’s practice of avoiding proper channels, pursuing new projects without working through the dean’s office. In addition, several math faculty members at Notre Dame were disgruntled by Ross’s authoritative style and complained about their lack of input. Those pressures induced Ross to look for employment elsewhere.
 
-Many American universities began major expansions in the mid 1960s. In that climate Ross built a strong department at Ohio State, attracting several promising young mathematicians while jobs were plentiful.
+Many American universities began major expansions in the early 1960s. In that climate Ross built a strong department at Ohio State, attracting several promising young mathematicians while jobs were plentiful.
 
 Ross moved his summer program to OSU as well. In 1964 and 1965 students lived in South Campus dorms (with no air conditioning). In 1966 they moved to the newly built North Campus area, staying in air-conditioned dorms like Nosker, Norton, Blackburn, Scott, Drackett, Halloran, and Houck.
 
@@ -141,18 +141,29 @@ Things changed dramatically in 1990: Early in the summer Dr. Ross surprised the 
 
 Ross continued giving daily lectures in Number Theory every summer. During the 1990s his lectures gradually became more disjointed and rambling, but that style fit well with the Ross Program's teaching methods! Gaps and errors were viewed as “podasips,” routinely salvaged by the students.
 
-Three Problem Seminars supported the Number Theory lecture every year. From 1986 to 2000, almost all of those seminars were taught by Professors Bogdan Baishanski, Ranko Bojanic, and me (Daniel Shapiro). During those years several other OSU faculty members led advanced courses for the more experienced students and counselors.  That list includes Professors Dijen Ray Chaudhuri, Gerald Edgar, Dan Burghelea, and Ken Supowit.
+Three Problem Seminars supported the Number Theory lecture every year. From 1986 to 2000, almost all of those seminars were taught by Professors Bogdan Baishanski, Ranko Bojanic, and me (Daniel Shapiro). During those years several other OSU faculty members led advanced courses for the more experienced students and counselors.  That list includes Professors [Dijen Ray Chaudhuri](https://en.wikipedia.org/wiki/Dijen_K._Ray-Chaudhuri), [Gerald Edgar](https://people.math.osu.edu/edgar.2/Site/G_A_Edgar.html), [Dan Burghelea](https://people.math.osu.edu/burghelea.1/), and [Ken Supowit](https://cse.osu.edu/people/supowit.1).
 
-In the last week of the Program in August 2000, Arnold Ross had a stroke. He was hospitalized and later moved to a nursing home on the north side of Columbus, a few miles from his home in Worthington. Madeleine took good care of him, but he never returned home, and died in that nursing home in 2002.
+In the final week of the Program in August 2000, Arnold Ross had a stroke. He was hospitalized and later moved to a nursing home on the north side of Columbus, a few miles from his home in Worthington. Madeleine took good care of him, but he never returned home, and died in that nursing home in 2002.
 
-I was a first-year student in the Ross SSTP in 1966 and a counselor in 1967, 1968, and 1970.  
-I was hired as an assistant professor at Ohio State in 1974, and have taught in the Ross program every summer since 1985\.  I became Ross Program Director in 2000 and have tried to continue promoting the teaching style that Arnold Ross established.  During the past 16 years the Ross number theory course has been led by three of us:  Jim Fowler, Warren Sinnott, and me.  Some details about Ross Program personnel since 2000 are posted [here](http://u.osu.edu/rossmath/previous-summers/).
+I was a first-year student in the Ross SSTP in 1966 and a counselor in 1967, 1968, and 1970.  I was hired as an assistant professor at Ohio State in 1974, and have taught in the Ross program every summer since 1985\.  I became Ross Program Director in 2000 and have tried to continue promoting the teaching style that Arnold Ross established.  During the past 19 years the Ross number theory course has been led by three of us:  [Jim Fowler](https://kisonecat.com/), [Warren Sinnott](https://math.osu.edu/people/sinnott.1), and me. I retired from OSU at the end of 2012 but have remained active in supervising the Ross Program. Some details about Ross Program personnel since 2000 are posted [here](https://rossprogram.org/alumni/previous-summers/).
+
+### Ross/Asia
+
+In 2016 we established [Ross/Asia](http://www.rossmathasia.org/luosi2/index.php?lang=en), a version of the Ross Program that has run in China every summer since then. That five-week session follows the Ross model, with a number theory course, daily problem sets, and counselors each with a "family" of four or five students. Most of the campers at Ross/Asia are from China while most counselors and instructors are American.  All classes and most discussions are held in English. In 2016 the camp was held at a hotel near Nanjing; in 2017 and 2018 at the Chenshan School in Huangshan City; and in 2019 at the Jiangsu Aviation Technical College in Zhenjiang. 
+
+### Ending connections with OSU
+
+In 2018 we realized that the Ross Program could not continue its close connection to Ohio State University.  For several reasons, that University's rules for supervising minor children became stricter each summer. Ross counselors could not supervise and oversee student behaviors to the required extend. In the Autumn of 2018 we created the _Ross Mathematics Foundation_, the non-profit 501(c)(3) corporation that will manage all financial aspects of the Ross Program. Jim Fowler set up a new Ross website and new email address.  Now Jim Fowler is the Director and I am the Director Emeritus.
+
+The 2019 session of the Ross/USA program was held at the Ohio Dominican University on the east side of Columbus, Ohio. We expect the 2020 session to be located there again.
 
 ### Awards and honors.
 
 Professor Ross earned many honors for teaching and service, both from OSU and from national organizations like the MAA ([Award for Distinguished Service](http://maa.org/awards/gunghu.html "Gung and Hu Award page on Mathematical Association of America website"), 1986) and the AMS ([1998 Citation for Public Service](http://www.ams.org/notices/199804/comm-cit-pubserv.pdf "www.ams.org/notices/199804/comm-cit-pubserv.pdf")).  Ross also received the Ohio State University’s 1981 [Distinguished Service Award](https://www.osu.edu/universityawards/), and an honorary degree from Denison University. The [Arnold Ross Lecture Series](http://www.ams.org/meetings/ross-lect.html "Arnold Ross Lectures page on American Mathematical Society website"), run by the American Mathematical Society, is a wonderful program in which outstanding mathematicians present lectures to audiences of high school students. The series was initiated by Paul Sally and named after Ross in 1993, in honor of his many contributions to the development of mathematical talent.  The lectures are presented every year or so in different cities across the United States.
 
 In addition to his accomplishments and awards, Dr. Ross is remembered for his deep insights into current trends in education, for nurturing the talents of his students and colleagues, for inspiring others by his words and example, and for his strength of personality.
+
+After working so many years at the Ross Program, after retirement I was awarded the Ohio State University's 2014 [Distinguished Service Award](https://www.osu.edu/universityawards/2014/dsa.html).  
 
 ### Ross problem sets.
 
@@ -194,7 +205,6 @@ In the late 1980s a few alumni realized that they could continue the Ross tradit
 
 Dr. Ross was deeply gratified to see the success of those two programs founded by alumni of his program.  In recent years, some other Ross alumni have mentioned that they would like to create their own summer math programs, following the inspiration of Arnold Ross.
 
-In 2016 we established [Ross/Asia](http://www.rossmathasia.org/luosi2/index.php?lang=en) , a version of the Ross Program held near Nanjing, China.  That five-week session was based on a number theory course with daily problem sets, closely following the Ross model. Students there were mostly from China but almost all the junior counselors, counselors, and instructors were American, and all classes were held in English.  We will run a similar session in 2017 in Huangshan City.
 
 # Bibliography of Arnold Ross.
 
