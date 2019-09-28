@@ -81,13 +81,13 @@ Ross found a salaried position at Saint Louis University, a catholic, Jesuit col
 
 ### War Work.
 
-During the war years, Ross took leaves from Saint Louis University and worked for the U.S. Navy doing applied mathematical work associated with proximity fuzes.  Ross met many other mathematicians doing war work during those years, and built an extensive network of mathematical friends and acquaintances.
+During the war years, Ross took leaves from Saint Louis University and worked for the U.S. Navy doing applied mathematical work associated with proximity fuzes.  Ross met many other mathematicians and scientists doing war work during those years, and built an extensive network of mathematical friends and acquaintances.
 
 ### Notre Dame.
 
 The story is that Ross was a close friend of Notre Dame physicist [Eugene Guth](https://en.wikipedia.org/wiki/Eugene_Guth), who urged university president John J. Cavanaugh to hire Ross to succeed Karl Menger as Head of the Math Department.  In 1946 Ross went to Notre Dame as department head and within a year he started a summer program for in-service high school math teachers.  Creating this program took some effort because most high school math teachers were women, and no females were allowed on the Notre Dame campus in those days.  Ross was able to arrange a special dispensation to allow women to attend classes during those summer weeks. The teacher program grew larger with support from the National Science Foundation, peaking at more than 200 participants for the seven-week session.  Ross prepared some reports on the success of this program for teachers.  Here are samples from [**1959**](https://u.osu.edu/rossmath/files/2014/12/1959-Training-Program-2k6l8yy.pdf) and [**1963**](http://u.osu.edu/rossmath/files/2014/12/1963-Training-Program-to7j1c.pdf). That 1959 report mentions his experiments in using closed-circuit television as a teaching tool.
 
-As department head, Ross ruled with a sure hand and had strong opinions about what issues were important.  Sometimes he made decisions without following the preferences of the faculty.  When one of his projects didn’t get approval from the dean, Ross would do everything he could to get around the dean’s decision, occasionally going directly to [Father Hesburgh](https://en.wikipedia.org/wiki/Theodore_Hesburgh), the university president.
+As department head, Ross ruled with a sure hand and had strong opinions about what issues were important.  Sometimes he made decisions without following the preferences of the faculty.  When one of his projects didn’t get approval from the dean, Ross would do everything he could to get around the dean’s decision, occasionally going directly to [Theodore Hesburgh](https://en.wikipedia.org/wiki/Theodore_Hesburgh), the university president who succeeded .
 
 Ross directed one Ph.D. student at Notre Dame: Paul J. McCarthy earned his doctorate in 1955 with a thesis about integral quadratic forms of class number one.
 
@@ -95,7 +95,7 @@ Ross was an advisor and mentor to several bright young math students at Notre Da
 
 *   [Charles Misner](http://en.wikipedia.org/wiki/Charles_W._Misner) (physics professor at Maryland working in general relativity). In fact Ross is listed as a co-advisor for Misner’s PhD thesis at Princeton (1957).
 *   [Thomas Banchoff](http://en.wikipedia.org/wiki/Thomas_Banchoff) (math professor emeritus at Brown, served as MAA president),
-*   John Riedl (OSU math professor, dean and director of OSU’s Mansfield Campus).
+*   [John Riedl](https://www.osu.edu/universityawards/2010/dsa.html) (OSU math professor, dean and director of OSU’s Mansfield Campus).
 *   [John Polking](http://math.rice.edu/~polking/) (Rice University math professor).
 *   [Manuel Berriozábal](http://www.maa.org/programs/underrepresented-groups/summa/summa-archival-record/manuel-p-berriozabal) (University of Texas at San Antonio math professor and founder of [TexPREP](https://www.givepulse.com/group/138735-San-Antonio-Texas-Prefreshman-Engineering-Program-PREP).
 
@@ -153,7 +153,7 @@ In 2016 we established [Ross/Asia](http://www.rossmathasia.org/luosi2/index.php?
 
 ### Ending connections with OSU
 
-In 2018 we realized that the Ross Program could not continue its close connection to Ohio State University.  For several reasons, that University's rules for supervising minor children became stricter each summer. Ross counselors could not supervise and oversee student behaviors to the required extend. In the Autumn of 2018 we created the _Ross Mathematics Foundation_, the non-profit 501(c)(3) corporation that will manage all financial aspects of the Ross Program. Jim Fowler set up a new Ross website and new email address.  Now Jim Fowler is the Director and I am the Director Emeritus.
+In 2018 we realized that the Ross Program could not continue its close connection to Ohio State University.  For several reasons, that University's rules for supervising minor children became stricter each summer. Ross counselors could not supervise and oversee student behaviors to the required extend. In the Autumn of 2018 we created the _Ross Mathematics Foundation_, the non-profit 501(c)(3) corporation that will manage all financial aspects of the Ross Program. Prof. Jim Fowler set up a new Ross website and new email address.  Now Jim Fowler is the Ross Program Director, and I am Director Emeritus.
 
 The 2019 session of the Ross/USA program was held at the Ohio Dominican University on the east side of Columbus, Ohio. We expect the 2020 session to be located there again.
 
@@ -163,7 +163,7 @@ Professor Ross earned many honors for teaching and service, both from OSU and fr
 
 In addition to his accomplishments and awards, Dr. Ross is remembered for his deep insights into current trends in education, for nurturing the talents of his students and colleagues, for inspiring others by his words and example, and for his strength of personality.
 
-After working so many years at the Ross Program, after retirement I was awarded the Ohio State University's 2014 [Distinguished Service Award](https://www.osu.edu/universityawards/2014/dsa.html).  
+After working so many years at the Ross Program, I was awarded the Ohio State University's 2014 [Distinguished Service Award](https://www.osu.edu/universityawards/2014/dsa.html).  
 
 ### Ross problem sets.
 
@@ -179,10 +179,6 @@ After becoming Director, I asked some former counselors to help rework the sets 
 The Ross Program ran for eight weeks every summer from 1957 to 2011\. For various political reasons, the Ohio State University changed from the quarter-system to the semester-system in 2012\. Instead of having Autumn Quarter classes start in mid September, they decided to begin Autumn Semester classes in mid August. This calendar change forced the Ross Program to end before August 1, and it suddenly became a six-week program.
 
 Since 2012, we have edited the sets to fit all those great topics more neatly into the shorter time frame. (Some students suggested that we simply distribute problem sets on Saturdays and Sundays to accommodate the two missing weeks’ worth of problems. That didn’t seem feasible.)
-
-### Ross Program genealogy project.
-
-Many years ago some Ross counselors began tracing their “descendants.” If first-year students in a counselor’s family later became counselors themselves, their students would be the grand-students of the original counselor. Some charts have been made of those lines of descent, but information before 2000 is relatively scarce. If there is interest we might post the descent lines that are recorded.
 
 ### Sister Programs.
 
