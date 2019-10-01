@@ -171,7 +171,7 @@ In the 1960s the problem sets were handwritten and duplicated from ditto masters
 
 The problems in each set are grouped into categories like Terminology, Numerical, Exploration, and “podasip”: Prove or Disprove and Salvage if Possible. (I think the acronym PODASIP was first used in the 1990s.) Every summer, students require some practice before understanding the idea of podasips, but they soon begin to enjoy struggling with those somewhat open-ended problems.
 
-After becoming Director, I asked some former counselors to help rework the sets for the 2001 session. Anna Medvedovsky and Noah Snyder worked many hours to reorganize the problem sets and type them in LaTeX. They traced all the threads of ideas in the original sets and rewove them to slow down the pace in the early weeks and speed it up later on. Over the next few years several small changes in the sets were made by Shapiro and Warren Sinnott, who led the Ross Number Theory class during 2006 – 2008. The Ross problem sets were reworked again by Jim Fowler around 2015.
+After becoming Director, I asked some former counselors to help rework the sets for the 2001 session. Anna Medvedovsky and Noah Snyder worked many hours to reorganize the problem sets and type them in LaTeX. They traced all the threads of ideas in the original sets and rewove them to slow down the pace in the early weeks and speed it up later on. During the following years I made several small changes in the sets, and and so did Warren Sinnott, who led the Ross Number Theory class during 2006 – 2008. The Ross problem sets were reworked again by Jim Fowler around 2015, and more extensive changes were made during 2016 - 2019 when Fowler took over the Number Theory lectures.
 
 ### Switch to a six-week format.
 
