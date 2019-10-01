@@ -185,8 +185,7 @@ After his retirement in the 1970s, Arnold Ross established some related programs
 
 At the University of Heidelberg (Germany) he founded a program with help from Professor [Peter Roquette](https://en.wikipedia.org/wiki/Peter_Roquette).
 
-At Bangalore University (India) he created a program, with input and help from Professor  
-[R. P. Bambah](https://en.wikipedia.org/wiki/Ram_Prakash_Bambah).
+At Bangalore University (India) he created a program, with input and help from Professor [R. P. Bambah](https://en.wikipedia.org/wiki/Ram_Prakash_Bambah).
 
 Starting in January 1975, Ross contributed his ideas and methods to an already existing high school talent search program in Australia: the [National Mathematics Summer School](http://nmss.edu.au/ "nmss.edu.au/index.html.php") at the Australian National University in Canberra, a two-week program that still runs every January. Ross worked closely with its founder, Professor Larry Blakers.
 
