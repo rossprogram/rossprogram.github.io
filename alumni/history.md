@@ -260,7 +260,7 @@ Dr. Ross was deeply gratified to see the success of those two programs founded b
 
 29\. [Remembering Paul](http://u.osu.edu/rossmath/files/2015/01/Remembering-Paul-2fmif9i.pdf), in: _Paul Erdős and his mathematics, I (Budapest, 1999), _35–37,  Bolyai Soc. Math. Stud., **11**, János Bolyai Math. Soc., Budapest, 2002.
 
-30\. [On the logistics of talent](http://u.osu.edu/rossmath/files/2015/01/Logistics-of-Talent-280dx2g.pdf), _Proceedings of the Ramanujan Centennial International Conference (Annamalainagar, 1987), _161–167, RMS Publ. **1** Ramanujan Math. Soc., Annamalainagar, 1988.
+30\. [On the logistics of talent](http://u.osu.edu/rossmath/files/2015/01/Logistics-of-Talent-280dx2g.pdf), _Proceedings of the Ramanujan Centennial International Conference (Annamalainagar, 1987),_ 161–167, RMS Publ. **1** Ramanujan Math. Soc., Annamalainagar, 1988.
 
 31\. Creativity:  Nature or Nurture, [_CBMS Issues in Mathematics Education_](http://www.ams.org/books/cbmath/002/), v. 2, (1989-90) 39-56.
 
