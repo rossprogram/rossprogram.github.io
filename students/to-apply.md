@@ -13,11 +13,11 @@ meta:
 ---
 <hr />
 <h2>Application Instructions</h2>
-<p>The Ross Program relies on mathprograms.org to manage applications.</p>
-<p>Please visit <a href="https://www.mathprograms.org/db/programs/776">https://www.mathprograms.org/db/programs/776</a> to complete the application process.</p>
+<p>Application materials for the 2020 sessions will be posted in January. </p>
+<p>The Ross Program relies on mathprograms.org to manage applications. Instructions on how to initiate and complete the application process will be posted at <a href="https://www.mathprograms.org/db/programs/776">https://www.mathprograms.org/db/programs/776</a>.</p>
 <hr />
 <h2>Application Deadline</h2>
-<p>Starting March 1, the Ross Admission Committee will begin accepting students until all spaces have been filled.  The final deadline for Ross applications is <strong>April 1</strong>. However, spaces may  be filled early, so it is best to complete your application well before the end of March for adequate consideration.</p>
+<p>Starting March 1, the Ross Admission Committee will begin accepting students until all spaces have been filled.  The final deadline for Ross applications is <strong>April 1</strong>. However, spaces might be filled early, so it is best to complete your application well before the end of March for adequate consideration.</p>
 <h2>Applying to Ross/Asia</h2>
 <p>Applications for Ross/USA and Ross/Asia are handled together: the same application may be used for either or both programs.</p>
 <p><strong>Home-Stay Opportunity</strong><br />
