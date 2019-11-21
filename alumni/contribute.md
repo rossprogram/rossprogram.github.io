@@ -14,7 +14,8 @@ Running the Ross Mathematics Program is expensive.
 For many years, major funding for the Ross Program was provided by the National Science Foundation, 
 and later by Ohio State University and the Clay Math Institute.  In 2015 the CMI moved its funding elsewhere, 
 and in 2018 the Ross Program separated from OSU.  Some scholarship funding is currently provided by the 
-American Mathematical Society's [Epsilon Fund], and from the [Jane Street](https://www.janestreet.com/).  
+American Mathematical Society's [Epsilon Fund](http://www.ams.org/programs/edu-support/epsilon/emp-epsilon), 
+and from the [Jane Street](https://www.janestreet.com/).  
 But most Ross support now comes from student fees, enhanced by gifts from generous donors, 
 and income from the Program's Endowment Funds. Please consider joining our effort to build 
 those _Endowment Funds_. <br>
