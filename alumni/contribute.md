@@ -18,9 +18,7 @@ American Mathematical Society's [Epsilon Fund](http://www.ams.org/programs/edu-s
 and from [Jane Street](https://www.janestreet.com).  But most Ross support now comes from student fees, enhanced by gifts from generous donors and by income from the Program's Endowment Funds. Please consider joining our effort to build those _Endowment Funds_. <br>
 &nbsp; With your support the Ross Program will continue to thrive.
 
-A wonderful start was made by the [Jacob Lurie](http://en.wikipedia.org/wiki/Jacob_Lurie)’s gift of $100,000\
-to the Ross Endowment Fund. Lurie was a student in the Ross Program in 1993, 
-has been a professor at Harvard, and is now at the [Institute for Advanced Study](https://www.ias.edu/scholars/lurie).  He was recognized for his world-class mathematical research with both 
+A wonderful start was made by the [Jacob Lurie](http://en.wikipedia.org/wiki/Jacob_Lurie)’s gift of $100,000 to the Ross Endowment Fund. Lurie was a student and counselor in the Ross Program in the 1990s, has been a professor at Harvard, and is now at the [Institute for Advanced Study](https://www.ias.edu/scholars/lurie).  He was recognized for his world-class mathematical research with both 
 a [Breakthrough Prize](http://en.wikipedia.org/wiki/Breakthrough_Prize_in_Mathematics) and 
 a [MacArthur Fellowship](http://www.macfound.org/fellows/class/class-2014/).
 
