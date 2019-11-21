@@ -42,7 +42,7 @@ Please make out the check to the _Ross Mathematics Foundation_ with “Ross Endo
 
 Credit card contributions to the OSU fund may be made via [Ohio State Giving](https://www.giveto.osu.edu/makeagift). Search for the “Ross Mathematics Program Endowment Fund” (fund number 646206) and follow the directions on how to make a gift.  
 
-For either method of contributing, please [send us a short email](mailto:ross@math.osu.edu) 
+For either method of contributing, please [send us a short email](mailto:ross@rossprogram.org) 
 to make sure that we know about your donation. We will reply with a tax receipt. 
 
 ### Corporate matching gifts
@@ -57,12 +57,12 @@ including stocks, bonds, mutual funds, or publicly traded securities.
 Many donors prefer to contribute appreciated securities in order to 
 take advantage of federal income tax deductions. A tax accountant or 
 financial planner can provide advice on which options are best for you. 
-Please contact us at [ross@math.osu.edu](mailto:ross@math.osu.edu) to discuss possibilities.
+Please contact us at [ross@rossprogram.org](mailto:ross@rossprogram.org) to discuss possibilities.
 
 ### Private and corporate donors
 
 Do you know of a foundation or corporation that might support the educational mission 
-of the Ross Program? If so, please [send us](mailto:ross@math.osu.edu) your suggestions.
+of the Ross Program? If so, please [send us](mailto:ross@rossprogram.org) your suggestions.
 
 ## Thank you
 
