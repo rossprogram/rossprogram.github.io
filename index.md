@@ -28,7 +28,7 @@ Ross/Asia follows the same format and style as Ross/USA. All classes are held in
 
 ![Erskine Hall at Ohio Dominican](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ohio_Dominican_University_%28Columbus%2C_Ohio%29_-_Erskine_Hall.jpg/1920px-Ohio_Dominican_University_%28Columbus%2C_Ohio%29_-_Erskine_Hall.jpg){:style="float: right; margin-left: 12pt; width: 50%;"}
 
-Ambitious pre-college students with interests in mathematics and science are invited to [apply](/students/to-apply/). First-year students range in age from 15 to 18 years old. (In rare cases, younger or older students are accepted.)  Admission decisions are based on several criteria, including: school transcripts; teacher recommendations;  essays concerning the applicant’s interests and goals; and the applicant’s work on some challenging math problems.  
+Ambitious pre-college students with interests in mathematics and science are invited to [apply](/students/to-apply.md/). First-year students range in age from 15 to 18 years old. (In rare cases, younger or older students are accepted.)  Admission decisions are based on several criteria, including: school transcripts; teacher recommendations;  essays concerning the applicant’s interests and goals; and the applicant’s work on some challenging math problems. 
 Undergraduate math majors and math graduate students are invited to [apply to be a Ross Counselor](/counselors/).
 
 NOTE. The Ross Program cannot accommodate students who must arrive more than two days after the start of classes.
