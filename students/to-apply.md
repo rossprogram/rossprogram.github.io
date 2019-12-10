@@ -13,17 +13,19 @@ meta:
 ---
 <hr />
 <h2>Application Instructions</h2>
-_Application materials for the 2020 sessions will be posted in January._ 
+<i>Application materials for the 2020 sessions will be posted in January.</i> 
 Instructions on how to initiate and complete the application process will be posted here.
 
 <h2>Application Deadline</h2>
-Starting March 1, the Ross Admission Committee will begin accepting students until all spaces have been filled.  The final deadline for Ross applications is #April 1#. However, spaces might be filled early, so it is best to complete your application well before the end of March for adequate consideration.
+Starting March 1, the Ross Admission Committee will begin accepting students until all spaces have been filled.  The final deadline for Ross applications is <b>April 1</b>. However, spaces might be filled early, so it is best to complete your application well before the end of March for adequate consideration.
   
 <h2>Applying to Ross/Asia</h2>
 <p>Applications for Ross/USA and Ross/Asia are handled together: the same application may be used for either or both programs.
   
-#Home-Stay Opportunity#
-We offer an optional cultural exchange program prior to the start of Ross/Asia.  Participants from outside China live with host families for a week in Nanjing, to learn more about modern Chinese culture. (This involves no additional cost to the student.)
+<b>Home-Stay Opportunity</b>
+We offer an optional cultural exchange program prior to the start of Ross/Asia.  
+Participants from outside China live with host families for a week in Nanjing, 
+to learn more about modern Chinese culture. (This involves no additional cost to the student.)
 All arrangements are handled directly by the company _Renascentia Hall International_.
 
 <h2>Financial Information</h2>
