@@ -17,14 +17,16 @@ meta:
 Instructions on how to initiate and complete the application process will be posted here.
 
 <h2>Application Deadline</h2>
-Starting March 1, the Ross Admission Committee will begin accepting students until all spaces have been filled.  The final deadline for Ross applications is <b>April 1</b>. However, spaces might be filled early, so it is best to complete your application well before the end of March for adequate consideration.
+Starting March 1, the Ross Admission Committee will begin accepting students until all spaces have been filled.  
+The final deadline for Ross applications is <b>April 1</b>. However, spaces might be filled early, 
+so it is best to complete your application well before the end of March for adequate consideration.
   
 <h2>Applying to Ross/Asia</h2>
 <p>Applications for Ross/USA and Ross/Asia are handled together: the same application may be used for either or both programs.
   
-<b>Home-Stay Opportunity</b>
+<b>Home-Stay Opportunity</b> <br>
 We offer an optional cultural exchange program prior to the start of Ross/Asia.  
-Participants from outside China live with host families for a week in Nanjing, 
+Participants from outside China live with host families in China for a week, 
 to learn more about modern Chinese culture. (This involves no additional cost to the student.)
 All arrangements are handled directly by the company _Renascentia Hall International_.
 
@@ -40,4 +42,6 @@ please ask your parent or guardian to contact us at
 ross@rossprogram.org. We will reply with details on how to apply for scholarship support.
 
 <h2>Commitment to Nondiscrimination</h2>
-<p>The Ross Program does not discriminate on the basis of gender, gender identity, gender expression, sexual orientation, race, creed, color, ethnic origin, disability, or marital status in its admissions, educational programming, financial aid, employment practices, or other activities.</p>
+The Ross Program does not discriminate on the basis of gender, gender identity, 
+gender expression, sexual orientation, race, creed, color, ethnic origin, disability, 
+or marital status in its admissions, educational programming, financial aid, employment practices, or other activities.
