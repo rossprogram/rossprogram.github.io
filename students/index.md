@@ -26,7 +26,7 @@ After examining concrete numerical examples, students identify patterns and then
 
 Students should expect to get deeply involved in intensive, mathematical work. Although formal classes take up only eight hours per week, Ross participants work hard during the many hours of unstructured time. They think about the many mathematical problems, and struggle with the difficulties. After a lot of effort they finally develop methods of thought that will prove useful in many aspects of their scientific lives.
 
-To provide an idea of the level of mathematics involved, here is a copy of one of the Ross Program [problem sets](http://u.osu.edu/rossmath/files/2014/08/set02.web-19zutzo.pdf). The [range of topics](/students/course-topics/) discussed in the Ross Number Theory course also indicates the depth and scope of this fast-paced but rigorous course.
+To provide an idea of the level of mathematics involved, here is a copy of one of the Ross Program [problem sets](http://u.osu.edu/rossmath/files/2014/08/set02.web-19zutzo.pdf). The [range of topics](https://rossprogram.org/students/course-topics/) discussed in the Ross Number Theory course also indicates the depth and scope of this fast-paced but rigorous course.
 
 # Advanced Students and Counselors
 
