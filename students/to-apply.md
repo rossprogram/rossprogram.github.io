@@ -12,28 +12,28 @@ meta:
   _edit_last: '4951'
 ---
 <hr />
-<h2>Application Instructions</h2>
+<h2>Application Instructions.</h2>
 <i>Application materials for the 2020 sessions will be posted in January.</i> 
 Instructions on how to initiate and complete the application process will be posted here.
 
-<h2>Application Deadline</h2>
+<h2>Application Deadline.</h2>
 Starting March 1, the Ross Admission Committee will begin accepting students until all spaces have been filled.  
 The final deadline for Ross applications is <b>April 1</b>. However, spaces might be filled early, 
 so it is best to complete your application well before the end of March for adequate consideration.
   
-<h2>Applying to Ross/Asia</h2>
+<h2>Applying to Ross/Asia.</h2>
 <p>Applications for Ross/USA and Ross/Asia are handled together: the same application may be used for either or both programs.
   
-<b>Home-Stay Opportunity</b> <br>
+<b>Home-Stay Opportunity.</b> <br>
 We offer an optional cultural exchange program prior to the start of Ross/Asia.  
 Participants from outside China live with host families in China for a week, 
 to learn more about modern Chinese culture. (This involves no additional cost to the student.)
 All arrangements are handled directly by the company _Renascentia Hall International_.
 
-<h2>Financial Information</h2>
+<h2>Financial Information.</h2>
 <p>The fee to attend the 2019 Ross Program in Ohio is $5000, while the fee for 
-[Ross/Asia](http://www.rossmathasia.org/index_english.jsp) is 35,000 RMB. 
-Those fees cover room, board, and all instructional expenses.
+Ross/Asia (http://www.rossmathasia.org/index_english.jsp) is 35,000 RMB. 
+Those fees cover room, board, and all instructional expenses.<br>
 
 <b>Scholarships.</b> The Ross Program endeavors to provide enough financial support 
 to enable every accepted student to attend. If you have been accepted 
