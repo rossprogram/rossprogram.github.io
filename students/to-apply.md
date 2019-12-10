@@ -13,18 +13,29 @@ meta:
 ---
 <hr />
 <h2>Application Instructions</h2>
-<p>Application materials for the 2020 sessions will be posted in January. </p>
-<p>The Ross Program relies on mathprograms.org to manage applications. Instructions on how to initiate and complete the application process will be posted at <a href="https://www.mathprograms.org/db/programs/776">https://www.mathprograms.org/db/programs/776</a>.</p>
-<hr />
+_Application materials for the 2020 sessions will be posted in January._ 
+Instructions on how to initiate and complete the application process will be posted here.
+
 <h2>Application Deadline</h2>
-<p>Starting March 1, the Ross Admission Committee will begin accepting students until all spaces have been filled.  The final deadline for Ross applications is <strong>April 1</strong>. However, spaces might be filled early, so it is best to complete your application well before the end of March for adequate consideration.</p>
+Starting March 1, the Ross Admission Committee will begin accepting students until all spaces have been filled.  The final deadline for Ross applications is #April 1#. However, spaces might be filled early, so it is best to complete your application well before the end of March for adequate consideration.
+  
 <h2>Applying to Ross/Asia</h2>
-<p>Applications for Ross/USA and Ross/Asia are handled together: the same application may be used for either or both programs.</p>
-<p><strong>Home-Stay Opportunity</strong><br />
-We offer an optional cultural exchange program prior to the start of Ross/Asia.  Participants from outside China live with host families for a week in Nanjing, to learn more about modern Chinese culture. (This involves no additional cost to the student.)</p>
-<p>All arrangements are handled directly by the company <em>Renascentia Hall International</em>.</p>
+<p>Applications for Ross/USA and Ross/Asia are handled together: the same application may be used for either or both programs.
+  
+#Home-Stay Opportunity#
+We offer an optional cultural exchange program prior to the start of Ross/Asia.  Participants from outside China live with host families for a week in Nanjing, to learn more about modern Chinese culture. (This involves no additional cost to the student.)
+All arrangements are handled directly by the company _Renascentia Hall International_.
+
 <h2>Financial Information</h2>
-<p>The fee to attend the 2019 Ross Program in Ohio is $5000, while the fee for <a href="http://www.rossmathasia.org/luosi2/index.php?lang=en" target="_blank" rel="noopener">Ross/Asia</a> is 35,000 RMB. Those fees cover room, board, and all instructional expenses.</p>
-<p><b>Scholarships.</b> The Ross Program endeavors to provide enough financial support to enable every accepted student to attend. If you have been accepted to the Ross Program and need financial assistance in order to join us, please ask your parent or guardian to contact us at <span style="line-height: 1.5em;"><a href="mailto:ross@rossprogram.org">ross@rossprogram.org</a></span><span style="line-height: 1.5em;">. We will reply with details on how to apply for scholarship support.</span></p>
+<p>The fee to attend the 2019 Ross Program in Ohio is $5000, while the fee for 
+[Ross/Asia](http://www.rossmathasia.org/index_english.jsp) is 35,000 RMB. 
+Those fees cover room, board, and all instructional expenses.
+
+<b>Scholarships.</b> The Ross Program endeavors to provide enough financial support 
+to enable every accepted student to attend. If you have been accepted 
+to the Ross Program and need financial assistance in order to join us, 
+please ask your parent or guardian to contact us at 
+ross@rossprogram.org. We will reply with details on how to apply for scholarship support.
+
 <h2>Commitment to Nondiscrimination</h2>
 <p>The Ross Program does not discriminate on the basis of gender, gender identity, gender expression, sexual orientation, race, creed, color, ethnic origin, disability, or marital status in its admissions, educational programming, financial aid, employment practices, or other activities.</p>
