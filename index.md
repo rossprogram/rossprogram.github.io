@@ -20,7 +20,7 @@ Our central goal has always been to instruct bright young students in the art of
 The value of a mathematics education lies not only in obtaining proficiency in computational tasks, but also in building a foundation for critical thinking. Students who have never asked why things work the way they do are not prepared to lead the way to future scientific innovation. It is precisely this independence of thought and questioning attitude that the Ross Program strives to nurture.
 
 **Ross Program in China.**  
-The 2019 _Ross/Asia_ program will be a five-week session held on a college campus in Changzhou, Jiangsu, China.  
+The 2019 _Ross/Asia_ program will be a five-week session held on a modern boarding school in Changzhou, Jiangsu, China.  
 
 Ross/Asia follows the same format and style as Ross/USA. All classes are held in English. Further information appears on the Ross Program's [Application](/students/to-apply/) page, and will also at the [Ross/Asia website](http://www.rossmathasia.org/).  (You may select "English" in the navigation bar). We are grateful to the private company _Renascentia Hall International_ for their continuing support of Ross/Asia.
 
