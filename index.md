@@ -20,7 +20,7 @@ Our central goal has always been to instruct bright young students in the art of
 The value of a mathematics education lies not only in obtaining proficiency in computational tasks, but also in building a foundation for critical thinking. Students who have never asked why things work the way they do are not prepared to lead the way to future scientific innovation. It is precisely this independence of thought and questioning attitude that the Ross Program strives to nurture.
 
 **Ross Program in China.**  
-The 2019 _Ross/Asia_ program will be a five-week session held on the campus of a modern boarding school in Changzhou, Jiangsu, China.  
+The 2020 _Ross/Asia_ program will be a five-week session held on the campus of a modern boarding school in Changzhou, Jiangsu, China.  
 
 Ross/Asia follows the same format and style as Ross/USA. All classes are held in English. Further information appears on the Ross Program's [Application](/students/to-apply/) page, and will also at the [Ross/Asia website](http://www.rossmathasia.org/).  (You may select "English" in the navigation bar). We are grateful to the private company _Renascentia Hall International_ for their continuing support of Ross/Asia.
 
@@ -35,7 +35,7 @@ NOTE. The Ross Program cannot accommodate students who must arrive more than two
 
 ## Costs and Financial Aid
 
-Fees for this program are determined by the cost of five or six weeks of room and board and by various instructional costs. The Ross/USA fee for 2019 will be $5000. The fee for Ross/Asia will probably be 35,000 RMB. 
+Fees for this program are determined by the cost of five or six weeks of room and board and by various instructional costs. The Ross/USA fee for 2020 will be $5000. The fee for Ross/Asia will probably be 35,000 RMB. 
 
 NOTE: [Financial aid](https://rossprogram.org/students/faq/#are-scholarships-available) is available. Accepted applicants are encouraged to apply if their families have financial need. We hope to be able to provide enough support to enable every accepted applicant to attend this great Program.   
 
