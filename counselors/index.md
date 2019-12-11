@@ -31,3 +31,8 @@ Counselors are role models for the younger students. Counselors supervise dormit
 In exchange for six weeks of work, Ross/USA provides each counselor with room and board, and a salary.  No travel expenses are provided.  
 
 Counselors at Ross/Asia work for five weeks with a smaller salary, but are reimbursed for travel expenses. 
+
+&nbsp;
+
+&nbsp;
+
