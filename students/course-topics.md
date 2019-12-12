@@ -84,7 +84,7 @@ Geometric proofs of the two square and four square theorems.</dd>
 <dt>Quadratic number fields</dt><dd>  
 Which quadratic number rings are Euclidean? For instance  
 <strong>Z</strong>[sqrt(d)] is Euclidean when d = -1, -2, 2, 3 but not when d = -3, -5 or 5.  
-Algebraic integers.</dd>
+</dd>
 </dl>
 
 &nbsp;
