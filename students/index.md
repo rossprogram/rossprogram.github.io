@@ -59,11 +59,11 @@ Ross Number Theory course also indicates the depth and scope of this fast-paced 
 
 ![students working together on problem solving]({{ site.baseurl }}/assets/Fcounselors-1xzk1m5-300x224.jpg "Ross Counselor Reunion"){:style="float: right; margin-left: 12pt;"}
 
-In order for such an intensely problem-based approach to succeed, students must 
-get careful and personal feedback on their work. This job is done by the Ross counselors, 
+For such an intensely problem-based approach to succeed, students need 
+careful and personal feedback on their work. This job is done by the Ross counselors, 
 who live in the dormitories along with the younger participants.
 
-Counselors are undergraduate math majors or graduate studnents who are studying mathematics 
+Counselors are undergraduate math majors or graduate students who are studying mathematics 
 and science at some of the best colleges and universities. Each counselor contributes a 
 tremendous amount of time and energy working directly with several first year students. 
 In addition to their jobs as student advisors, counselors add to the Program's atmosphere 
