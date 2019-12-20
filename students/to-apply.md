@@ -25,7 +25,7 @@ so it is best to complete your application well before the end of March for adeq
 ## Applying to Ross/Asia.
 Applications for Ross/USA and Ross/Asia are handled together: 
  the same application may be used for either or both programs.<br>  
-### Home-Stay Opportunity. <br>
+#### Home-Stay Opportunity. 
 We offer an optional cultural exchange program prior to the start of Ross/Asia.  
 Participants from outside China live with host families in China for a week, 
 to learn more about modern Chinese culture. (This involves no additional cost to the student.)
