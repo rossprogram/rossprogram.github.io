@@ -11,7 +11,8 @@ tags: []
 meta:
   _edit_last: '4951'
 ---
-<hr />
+
+
 # Application Instructions.
 _Application materials for the 2020 sessions will be posted in January._ 
 Instructions on how to initiate and complete the application process will be posted here.
