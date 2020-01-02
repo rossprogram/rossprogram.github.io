@@ -22,7 +22,7 @@ process should email <a
 href="mailto:ross@rossprogram.org">ross@rossprogram.org</a>.
 
 A key component of the application process involves submitting
-solutions to the <a href="application-problems.pdf">Application
+solutions to the <a href="/students/application-problems.pdf">Application
 Problems</a>.
 
 ## Application Deadline
