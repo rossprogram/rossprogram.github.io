@@ -14,15 +14,22 @@ meta:
 
 # Application Instructions.
 
-_Application materials for the 2020 sessions will be posted in
-January._ Instructions on how to initiate and complete the application
-process will be posted here.
+Students can initiate the application process by visiting <a
+href="https://apply.rossprogram.org/">https://apply.rossprogram.org/">
+and then completing the forms available there.  Applicants who have
+any technical troubles or other questions about the application
+process should email <a
+href="mailto:ross@rossprogram.org">ross@rossprogram.org</a>.
+
+A key component of the application process involves submitting
+solutions to the <a href="application-problems.pdf">Application
+Problems</a>.
 
 ## Application Deadline.
 
 Starting March 1, the Ross Admission Committee will begin accepting
-students until all spaces have been filled.    The final deadline for
-Ross applications is <b>April 1</b>. However, spaces might be filled
+students until all spaces have been filled.    The final deadline for
+Ross applications is <b>April 1</b>. However, spaces might be filled
 early, so it is best to complete your application well before the end
 of March for adequate consideration.
   
@@ -34,16 +41,16 @@ application may be used for either or both programs.
 #### Home-Stay Opportunity. 
 
 We offer an optional cultural exchange program prior to the start of
-Ross/Asia.   Participants from outside China live with host families
+Ross/Asia.   Participants from outside China live with host families
 in China for a week, to learn more about modern Chinese culture. (This
 involves no additional cost to the student.)  All arrangements are
 handled directly by the company _Renascentia Hall International_.
 
 ## Financial Information.
 
-The fee to attend the 2019 Ross Program in Ohio is $5000, while the
+The fee to attend the 2019 Ross Program in Ohio is $5000, while the
 fee for [Ross/Asia](http://www.rossmathasia.org/index_english.jsp) is
-35,000 RMB.  Those fees cover room, board, and all instructional
+35,000 RMB.  Those fees cover room, board, and all instructional
 expenses.
 
 ## Scholarships.
@@ -62,3 +69,9 @@ identity, gender expression, sexual orientation, race, creed, color,
 ethnic origin, disability, or marital status in its admissions,
 educational programming, financial aid, employment practices, or other
 activities.
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
