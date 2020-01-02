@@ -12,7 +12,7 @@ meta:
   _edit_last: '4951'
 ---
 
-# Application Instructions.
+# Application Instructions
 
 Students can initiate the application process by visiting <a
 href="https://apply.rossprogram.org/">https://apply.rossprogram.org/</a>
@@ -25,7 +25,7 @@ A key component of the application process involves submitting
 solutions to the <a href="application-problems.pdf">Application
 Problems</a>.
 
-## Application Deadline.
+## Application Deadline
 
 Starting March 1, the Ross Admission Committee will begin accepting
 students until all spaces have been filled.    The final deadline for
@@ -33,27 +33,30 @@ Ross applications is <b>April 1</b>. However, spaces might be filled
 early, so it is best to complete your application well before the end
 of March for adequate consideration.
   
-## Applying to Ross/Asia.
+## Applying to Ross/Asia
 
-Applications for Ross/USA and Ross/Asia are handled together: the same
-application may be used for either or both programs.
+Although Ross/Asia is run by _Renascentia Hall International_,
+applications for Ross/USA and Ross/Asia are handled together: the same
+application on <a
+href="https://apply.rossprogram.org/">https://apply.rossprogram.org/</a>
+may be used for either or both programs.
 
-#### Home-Stay Opportunity. 
+#### Home-Stay Opportunity
 
 We offer an optional cultural exchange program prior to the start of
 Ross/Asia.   Participants from outside China live with host families
 in China for a week, to learn more about modern Chinese culture. (This
 involves no additional cost to the student.)  All arrangements are
-handled directly by the company _Renascentia Hall International_.
+handled directly by the company 
 
-## Financial Information.
+## Financial Information
 
 The fee to attend the 2019 Ross Program in Ohio is $5000, while the
 fee for [Ross/Asia](http://www.rossmathasia.org/index_english.jsp) is
 35,000 RMB.  Those fees cover room, board, and all instructional
 expenses.
 
-## Scholarships.
+## Scholarships
 
 The Ross Program endeavors to provide enough financial support to
 enable every accepted student to attend. If you have been accepted to
