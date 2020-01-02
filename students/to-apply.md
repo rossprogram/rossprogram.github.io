@@ -15,7 +15,7 @@ meta:
 # Application Instructions.
 
 Students can initiate the application process by visiting <a
-href="https://apply.rossprogram.org/">https://apply.rossprogram.org/"</a>
+href="https://apply.rossprogram.org/">https://apply.rossprogram.org/</a>
 and then completing the forms available there.  Applicants who have
 any technical troubles or other questions about the application
 process should email <a
