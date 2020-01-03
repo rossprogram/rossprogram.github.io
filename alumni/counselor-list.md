@@ -1560,8 +1560,8 @@ author:
 <ul style="list-style-type: none; padding: 0; margin: 0;">
 <li style="margin-bottom: 0;">Raymond Chen</li>
 <li style="margin-bottom: 0;">Yizhen Johnson Chen</li>
-<li style="margin-bottom: 0;">Ziyang David Guo </li>
-<li style="margin-bottom: 0;">Letong Carina Hong </li>
+<li style="margin-bottom: 0;">Ziyang David Guo</li>
+<li style="margin-bottom: 0;">Letong Carina Hong</li>
 <li style="margin-bottom: 0;">Tsz Hang Ethan Kiang </li>
 <li style="margin-bottom: 0;">Junhee Lee</li>
 <li style="margin-bottom: 0;">Yiyang Tony Ou</li>
@@ -1594,7 +1594,7 @@ author:
 <li style="margin-bottom: 0;">Timothy Smits</li>
 <li style="margin-bottom: 0;">Jiazhen Jessie Tan </li>
 <li style="margin-bottom: 0;">Frederick Vu</li>
-<li style="margin-bottom: 0;">Bryan Wang </li>
+<li style="margin-bottom: 0;">Bryan Wang</li>
 <li style="margin-bottom: 0;">Joshua Yee</li>
 </ul>
 </div>
@@ -1614,9 +1614,9 @@ author:
 <li style="margin-bottom: 0;">Yuxiao Kevin Wen</li>
 <li style="margin-bottom: 0;">Zihan Steven Wu</li>
 <li style="margin-bottom: 0;">Jiachen Oliver Xue</li>
-<li style="margin-bottom: 0;">Zhengtao Eric Zeng </li>
+<li style="margin-bottom: 0;">Zhengtao Eric Zeng</li>
 <li style="margin-bottom: 0;">Pengcheng Benson Zhang</li>
-<li style="margin-bottom: 0;">Shangjie Richard Zhang </li>
+<li style="margin-bottom: 0;">Shangjie Richard Zhang</li>
 <li style="margin-bottom: 0;">Yuyang Bill Zhang</li>
 <li style="margin-bottom: 0;">Xiaohan Sally Zhu</li>
 </ul>
@@ -1639,6 +1639,90 @@ author:
 <li style="margin-bottom: 0;">Robin Zhang</li>
 </ul>
 </div>
+<div><img src="{{ site.baseurl }}/assets/redline-v72qr1.gif" alt="" width="580" height="2" /></div>
+<h3 style="color: #cc0000; clear: both;">2018:  Ross/USA</h3>
+<div style="float: right; width: 50%;">
+<h4 style="font-style: italic;">Junior Counselors</h4>
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+<li style="margin-bottom: 0;">Ritwick Bhargava</li>
+<li style="margin-bottom: 0;">Steve Haoxuan Chen</li>
+<li style="margin-bottom: 0;">Tongxiang Franklin Deng</li>
+<li style="margin-bottom: 0;">Vishruti Ganesh</li>
+<li style="margin-bottom: 0;">Xuanyi Arrietty Ji</li>
+<li style="margin-bottom: 0;">Sunay Joshi</li>
+<li style="margin-bottom: 0;">Joshua Ku</li>
+<li style="margin-bottom: 0;">Nicole Leffler</li>
+<li style="margin-bottom: 0;">Yuxin Benny Lin</li>
+<li style="margin-bottom: 0;">Zihong Schrieffer Lin</li>
+<li style="margin-bottom: 0;">Michelle Qian</li>
+<li style="margin-bottom: 0;">Akash Singha Roy</li>
+<li style="margin-bottom: 0;">Luchen Tom Shi</li>
+<li style="margin-bottom: 0;">Justin Sun</li>
+<li style="margin-bottom: 0;">Colin Wire</li>
+<li style="margin-bottom: 0;">Livia Zhang</li>
+<li style="margin-bottom: 0;">Wenminqi Sophia Zhang</li>
+</ul>
+</div>
+<div style="float: right; width: 50%; margin-bottom: 12pt;">
+<h4 style="font-style: italic;">Counselors</h4>
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+<li style="margin-bottom: 0;">Tawfiq Abbas</li>
+<li style="margin-bottom: 0;">Raymond Chen</li>
+<li style="margin-bottom: 0;">Steven Creech</li>
+<li style="margin-bottom: 0;">Joseph DiCapua</li>
+<li style="margin-bottom: 0;">Alex Fu</li>
+<li style="margin-bottom: 0;">Nicholas Hemleben</li>
+<li style="margin-bottom: 0;">Jack Hirsch</li>
+<li style="margin-bottom: 0;">Heesu Hwang</li>
+<li style="margin-bottom: 0;">Tristan Knight</li>
+<li style="margin-bottom: 0;">Christopher Moon</li>
+<li style="margin-bottom: 0;">Tristan Phillips</li>
+<li style="margin-bottom: 0;">Natasha Pillai</li>
+<li style="margin-bottom: 0;">Jad Salem</li>
+<li style="margin-bottom: 0;">Ian Seong</li>
+<li style="margin-bottom: 0;">Deepesh Singhal</li>
+<li style="margin-bottom: 0;">Haoyi Wang</li>
+<li style="margin-bottom: 0;">Savannah Williams</li>
+<li style="margin-bottom: 0;">Zhuowen Kevin Zou</li>
+<li style="margin-bottom: 0;">Shangjie Richard Zhang</li>
+</ul>
+</div>
+<div><img src="{{ site.baseurl }}/assets/redline-v72qr1.gif" alt="" width="580" height="2" /></div>
+<h3 style="color: #cc0000; clear: both;">2018:  Ross/Asia</h3>
+<div style="float: right; width: 50%;">
+<h4 style="font-style: italic;">Junior Counselors</h4>
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+<ul style="list-style-type: none; padding: 0; margin: 0;">
+<li style="margin-bottom: 0;">Tongtong Toto Chen</li>
+<li style="margin-bottom: 0;">Michael Ren</li>
+<li style="margin-bottom: 0;">Yiming Anita Tang</li>
+<li style="margin-bottom: 0;">Xuewei Saverio Yan</li>
+<li style="margin-bottom: 0;">Huan Kristin Zhang</li>
+<li style="margin-bottom: 0;">Zhian Ann Zhang</li>
+</ul>
+</div>
+<div style="float: right; width: 50%; margin-bottom: 12pt;">
+<h4 style="font-style: italic;">Counselors</h4>
+<li style="margin-bottom: 0;">Georg Anegg</li>
+<li style="margin-bottom: 0;">Matthew Bertucci</li>
+<li style="margin-bottom: 0;">Conrad Cardona</li>
+<li style="margin-bottom: 0;">Adrian Carpenter</li>
+<li style="margin-bottom: 0;">Siyan Vivian He</li>
+<li style="margin-bottom: 0;">Pol van Hoften</li>
+<li style="margin-bottom: 0;">Johnny Nicholsonn</li>
+<li style="margin-bottom: 0;">Shravan Patankar</li>
+<li style="margin-bottom: 0;">Tianren Qin</li>
+<li style="margin-bottom: 0;">Nick Rauen</li>
+<li style="margin-bottom: 0;">Pietro Sgobba</li>
+<li style="margin-bottom: 0;">Aalok Thakkar</li>
+<li style="margin-bottom: 0;">Federica Zanni</li>
+<li style="margin-bottom: 0;">Zhengtao Eric Zeng</li>
+<li style="margin-bottom: 0;">Cindy Zhang</li>
+<li style="margin-bottom: 0;">Pengcheng Benson Zhang</li>
+<li style="margin-bottom: 0;">Yuyang Bill Zhang</li> 
+</ul>
+</div>
+
 
 
 &nbsp;
