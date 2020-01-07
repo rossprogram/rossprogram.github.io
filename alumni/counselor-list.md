@@ -1703,6 +1703,7 @@ author:
 </div>
 <div style="float: right; width: 50%; margin-bottom: 12pt;">
 <h4 style="font-style: italic;">Counselors</h4>
+<ul style="list-style-type: none; padding: 0; margin: 0;">
 <li style="margin-bottom: 0;">Georg Anegg</li>
 <li style="margin-bottom: 0;">Matthew Bertucci</li>
 <li style="margin-bottom: 0;">Conrad Cardona</li>
