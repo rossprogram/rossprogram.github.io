@@ -9,4 +9,5 @@ categories: []
 tags: []
 ---
 
-If you are interested in becoming a Ross Counselor, please contact us at [ross@rossprogram.org](mailto:ross@rossprogram.org). The reply email will contain an application to complete and return.
+If you are interested in becoming a Ross Counselor, you may [find the application here](/counselors/application.pdf).
+
