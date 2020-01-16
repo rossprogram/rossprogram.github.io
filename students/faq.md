@@ -8,11 +8,14 @@ type: page
 
 ### What is the Ross Mathematics Program?
 
-ROss/USA is a six-week, residential, summer session for high school
+Ross/USA is a six-week, residential, summer session for high school
 students who are talented in mathematics, well prepared in standard
 high school math topics, and eager to explore more advanced
 ideas. The Ross Program is held at two sites: <br>
 &nbsp; Ross/USA will run for six weeks in Columbus, Ohio, USA.  <br>
+&nbsp; Ross/Asia will run for five weeks in Changzhou, Jiangsu Province, China.  <br>
+The responses below refer to the Ross/USA site.
+
   
 Ross participants spend most of each day working on challenging sets
 of problems dealing with abstract mathematical concepts. By working
@@ -39,10 +42,10 @@ support should be made after a student has been accepted to the
 Program.  Various academic institutions in the applicant's home city
 or state might also have available scholarships. In addition, some 
 scholarship support for participation in math programs is provided 
-by <a href="https://www.mualphatheta.org/summer-grants" target="_blank">Mu Alpha Theta</a>, 
+by [Mu Alpha Theta](https://www.mualphatheta.org/summer-grants)
 the national high school mathematical society. Other scholarship opportunities 
-are offered by the <a href="http://www.davidsongifted.org" target="_blank">Davidson Institute</a> 
-and the <a href="http://www.jkcf.org" target="_blank">Jack Kent Cooke Foundation</a>.
+are offered by the [Davidson Institute](http://www.davidsongifted.org) 
+and the [Jack Kent Cooke Foundation](http://www.jkcf.org).
 
 ## Living Arrangements
 
@@ -50,7 +53,7 @@ and the <a href="http://www.jkcf.org" target="_blank">Jack Kent Cooke Foundation
 ### Where do the students live?
 
 Students at Ross/USA will live in a dormitory on the campus of Ohio Dominican University in Columbus. Most students will live with three roommates in small suites consisting of two bedrooms, a bathroom, and a common area. <br>
-Students at Ross/Asia will live in a dormitory on the campus of Jiangsu Aviation Technical College.
+Students at Ross/Asia will live in a dormitory on the campus of an English International boarding high school located in Changzhou, Jiangsu Province, China.  
 
 ### What is the mailing address?
 
@@ -166,9 +169,9 @@ few blocks of the dormitory.
 ### Is there transportation to/from the airport if an attendee flies in or out unaccompanied?
 
 Students who fly to Columbus will arrive at the John Glenn Columbus International Airport (CMH). 
-Ross staff members will meet them in the terminal, and drive them to the dormitory in a 
-multi-passenger van. At the end of the session, on Friday afternoon,
-we provide transportation back to the airport.
+Ross staff members will meet them in the terminal, and make arrangements to transport them 
+to the dormitory in a taxi or van. At the end of the session, on Friday afternoon,
+the Program provides transportation back to the airport.
 
 ### Do some students bring cars? Are there restrictions on students riding with other students?
 
@@ -220,7 +223,7 @@ that weren't completed during the week.
 
 ### Do you conduct field trips to other locations?
 
-Yes.  We are planning several off-campus trips.  However, students 
+Yes.  We are planning some off-campus trips.  However, students 
 may be asked to pay a small fee in order to join the organized trips.
 
 ### Are parents allowed/ encouraged to make mid-session visits to campus?
@@ -257,8 +260,8 @@ so you may use a tourist visa (B-2).
 
 ### How many students are admitted to the Program?
 
-We plan to admit about 75 first-year students at Ross/USA, supported by 10 to 20 
-junior counselors, and about 20 counselors.
+We plan to admit about 70 first-year students at Ross/USA, supported by 10 to 20 
+junior counselors, and about 18 counselors.
 
 ### What is the ratio of boys to girls?
 
