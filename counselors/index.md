@@ -19,9 +19,9 @@ If interested, [please apply](to-apply/).
 
 ## Application Requirements
 
-A Ross Counselor will need a strong background in mathematics, and good social skills. 
-We prefer applicants who are either math graduate students or undergraduate math majors w
-ho have completed at least two years of college. Applicants are expected to have completed a 
+A Ross Counselor needs a strong background in mathematics, and good social skills. 
+We prefer applicants who are either math graduate students or undergraduate math majors 
+who have completed at least two years of college. Applicants are expected to have completed a 
 college course on Abstract Algebra, and to have some experience with elementary number theory.  
 Prior knowledge of all the [Course Topics](/first-years/course-topics/) is not required.
 
