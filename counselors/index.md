@@ -16,7 +16,8 @@ and oversee dormitory life. Counselors are expected to arrive a day or two
 earlier than the official starting date and to continue working for the duration of the summer session.  
 
 If interested, [please apply](to-apply/). <br>
-Many well-qualified students have applied for counselor positions. Only a few spot remain open.
+NOTE: Many well-qualified students have applied for counselor positions. <br>
+&nbsp; &nbsp; Only a few spot remain open.
 
 ## Application Requirements
 
