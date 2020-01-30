@@ -15,7 +15,8 @@ Counselors supervise and advise the first-year students and junior counselors,
 and oversee dormitory life. Counselors are expected to arrive a day or two 
 earlier than the official starting date and to continue working for the duration of the summer session.  
 
-If interested, [please apply](to-apply/).
+If interested, [please apply](to-apply/). <br>
+Many well-qualified students have applied for counselor positions. Only a few spot remain open.
 
 ## Application Requirements
 
