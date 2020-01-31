@@ -70,7 +70,8 @@ The Ross Program is supported in several ways. Partners in this mathematical ent
 [![American Mathematical Society]({{ site.baseurl }}/assets/AMS_logo-14vyxtl.jpg)]
 (http://www.ams.org/programs/edu-support/epsilon/emp-epsilon)
 
-[![Jane Street]({{ site.baseurl }}/assets/JaneStreetLogoS-204ezrg.gif)](https://www.janestreet.com/) 
+[![Jane Street]({{ site.baseurl }}/assets/JaneStreetLogoS-204ezrg.gif)]
+(https://www.janestreet.com/) 
 
 ## Related Programs
 
