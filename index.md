@@ -22,25 +22,37 @@ The value of a mathematics education lies not only in obtaining proficiency in c
 **Ross Program in China.**  
 The 2020 _Ross/Asia_ program will be a five-week session held on the campus of a modern boarding school in Changzhou, Jiangsu, China.  
 
-Ross/Asia follows the same format and style as Ross/USA. All classes are held in English. Further information appears on the Ross Program's [Application](/students/to-apply/) page, and will also at the [Ross/Asia website](http://www.rossmathasia.org/).  (You may select "English" in the navigation bar). We are grateful to the private company _Renascentia Hall International_ for their continuing support of Ross/Asia.
+Ross/Asia follows the same format and style as Ross/USA. All classes are held in English. 
+Further information appears on the Ross Program's [Application](/students/to-apply/) page, 
+and will also at the [Ross/Asia website](http://www.rossmathasia.org/).  
+(You may select "English" in the navigation bar.) We are grateful to the private company 
+_Renascentia Hall International_ for their continuing support of Ross/Asia.
 
 ## Eligibility
 
 ![Erskine Hall at Ohio Dominican](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ohio_Dominican_University_%28Columbus%2C_Ohio%29_-_Erskine_Hall.jpg/1920px-Ohio_Dominican_University_%28Columbus%2C_Ohio%29_-_Erskine_Hall.jpg){:style="float: right; margin-left: 12pt; width: 50%;"}
 
-Ambitious pre-college students with interests in mathematics and science are invited to [apply](/students/to-apply.md/). First-year students range in age from 15 to 18 years old. (In rare cases, younger or older students are accepted.)  Admission decisions are based on several criteria, including: school transcripts; teacher recommendations;  essays concerning the applicant’s interests and goals; and the applicant’s work on some challenging math problems. 
-Undergraduate math majors and math graduate students are invited to [apply to be a Ross Counselor](/counselors/).
+Ambitious pre-college students with interests in mathematics and science are invited 
+to [apply](/students/to-apply.md/). First-year students range in age from 15 to 18 years old. 
+(In rare cases, younger or older students are accepted.)  Admission decisions are based 
+on several criteria, including: school transcripts; teacher recommendations;  
+essays concerning the applicant’s interests and goals; and the applicant’s 
+work on some challenging math problems. 
+Undergraduate math majors and math graduate students are invited 
+to [apply to be a Ross Counselor](/counselors/).
 
 NOTE. The Ross Program cannot accommodate students who must arrive more than two days after the start of classes.
 
 ## Costs and Financial Aid
 
 Fees for this program are determined by the cost of five or six weeks of room and board 
-and by various instructional costs. The Ross/USA fee for 2020 will be $5000. The fee for Ross/Asia will probably be 35,000 RMB. 
+and by various instructional costs. The Ross/USA fee for 2020 will be $5000. 
+The fee for Ross/Asia will be 35,000 RMB. 
 
 NOTE: [Financial aid](https://rossprogram.org/students/faq/#are-scholarships-available) 
 is available. Accepted applicants are encouraged to apply if their families have 
-financial need. We hope to be able to provide enough support to enable every accepted applicant to attend this great Program.   
+financial need. We hope to be able to provide enough support to enable every 
+accepted applicant to attend this great Program.   
 
 ## To Apply
 
