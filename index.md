@@ -7,7 +7,7 @@ sidebar:
 ---
 Ross/USA:  Sunday June 21   to   Friday July 31, 2020
 
-Ross/Asia:  Sunday July 5   to   Friday August 7, 2020  (dates not yet confirmed)
+Ross/Asia:  Sunday July 5   to   Friday August 7, 2020  
 
 # Introduction
 
