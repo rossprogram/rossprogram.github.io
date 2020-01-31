@@ -67,11 +67,9 @@ The Ross Program admits students of any race, color, and national or ethnic orig
 
 The Ross Program is supported in several ways. Partners in this mathematical enterprise include:
 
-[![American Mathematical Society]({{ site.baseurl }}/assets/AMS_logo-14vyxtl.jpg)]
-(http://www.ams.org/programs/edu-support/epsilon/emp-epsilon)
+[![American Mathematical Society]({{ site.baseurl }}/assets/AMS_logo-14vyxtl.jpg)](http://www.ams.org/programs/edu-support/epsilon/emp-epsilon)
 
-[![Jane Street]({{ site.baseurl }}/assets/JaneStreetLogoS-204ezrg.gif)]
-(https://www.janestreet.com/) 
+[![Jane Street]({{ site.baseurl }}/assets/JaneStreetLogoS-204ezrg.gif)](https://www.janestreet.com/) 
 
 ## Related Programs
 
