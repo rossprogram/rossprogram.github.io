@@ -7,7 +7,17 @@ sidebar:
 ---
 Ross/USA:  Sunday June 21   to   Friday July 31, 2020
 
-Ross/Asia:  Sunday July 5   to   Friday August 7, 2020  
+### CANCELLATION
+Ross/Asia 2020 has been __canceled__ in China.  
+Travel restrictions resulting from the COVID-19 (coronavirus) outbreak 
+have forced this cancellation. That program was scheduled from  July 5  to  August 7, 2020.
+
+We hope to __RESCHEDULE__ the former Ross/Asia session to some location in the United States, 
+with approximately the same dates.  Unfortunately, many Chinese students will not be able 
+to join this new program 
+because of their delayed school schedules, or because of quarantines or travel restrictions.
+
+
 
 # Introduction
 
@@ -20,13 +30,12 @@ Our central goal has always been to instruct bright young students in the art of
 The value of a mathematics education lies not only in obtaining proficiency in computational tasks, but also in building a foundation for critical thinking. Students who have never asked why things work the way they do are not prepared to lead the way to future scientific innovation. It is precisely this independence of thought and questioning attitude that the Ross Program strives to nurture.
 
 **Ross Program in China.**  
-The 2020 _Ross/Asia_ program will be a five-week session held on the campus of a modern boarding school in Changzhou, Jiangsu, China.  
+We are disappointed that the 2020 _Ross/Asia_ program had to be cancelled.  That program will not exist in China in 2020.
 
-Ross/Asia follows the same format and style as Ross/USA. All classes are held in English. 
-Further information appears on the Ross Program's [Application](/students/to-apply/) page, 
-and will also at the [Ross/Asia website](http://www.rossmathasia.org/).  
-(You may select "English" in the navigation bar.) We are grateful to the private company 
-_Renascentia Hall International_ for their continuing support of Ross/Asia.
+We are working to find a location within the USA to replace Ross/Asia.  
+This new session will be similar to Ross/USA. The location and dates 
+depend on the availability of dormitory and classroom space.  
+
 
 ## Eligibility
 
@@ -47,7 +56,7 @@ NOTE. The Ross Program cannot accommodate students who must arrive more than two
 
 Fees for this program are determined by the cost of five or six weeks of room and board 
 and by various instructional costs. The Ross/USA fee for 2020 will be $5000. 
-The fee for Ross/Asia will be 35,000 RMB. 
+
 
 NOTE: [Financial aid](https://rossprogram.org/students/faq/#are-scholarships-available) 
 is available. Accepted applicants are encouraged to apply if their families have 
