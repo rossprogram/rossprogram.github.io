@@ -8,12 +8,12 @@ sidebar:
 Ross/USA:  Sunday June 21   to   Friday July 31, 2020
 
 ### CANCELLATION
-Ross/Asia 2020 has been __canceled__ in China.  
+We might need to __cancel__ the 2020 Ross/Asia program in China.  
 Travel restrictions resulting from the COVID-19 (coronavirus) outbreak 
-have forced this cancellation. That program was scheduled from  July 5  to  August 7, 2020.
+could require this cancellation. 
 
-We hope to __RESCHEDULE__ the former Ross/Asia session to some location in the United States, 
-with approximately the same dates.  Unfortunately, many Chinese students will not be able 
+If Ross/Asia is canceled, we plan to __RESCHEDULE__ that session to a location in the United States, 
+with approximately the same dates.  Unfortunately, some Chinese students might not be able 
 to join this new program 
 because of their delayed school schedules, or because of quarantines or travel restrictions.
 
