@@ -30,11 +30,9 @@ Our central goal has always been to instruct bright young students in the art of
 The value of a mathematics education lies not only in obtaining proficiency in computational tasks, but also in building a foundation for critical thinking. Students who have never asked why things work the way they do are not prepared to lead the way to future scientific innovation. It is precisely this independence of thought and questioning attitude that the Ross Program strives to nurture.
 
 **Ross Program in China.**  
-We are disappointed that the 2020 _Ross/Asia_ program had to be cancelled.  That program will not exist in China in 2020.
-
+We are disappointed that the 2020 _Ross/Asia_ program might be cancelled.  
 We are working to find a location within the USA to replace Ross/Asia.  
-This new session will be similar to Ross/USA. The location and dates 
-depend on the availability of dormitory and classroom space.  
+
 
 
 ## Eligibility
