@@ -13,7 +13,7 @@ Travel restrictions resulting from the COVID-19 (coronavirus) outbreak
 could require this cancellation. 
 
 If Ross/Asia is canceled, we plan to __RESCHEDULE__ that session to a location in the United States, 
-with approximately the same dates.  Unfortunately, some Chinese students might not be able 
+with approximately the same dates (July 5 - August 7).  Unfortunately, some Chinese students might not be able 
 to join this new program 
 because of their delayed school schedules, or because of quarantines or travel restrictions.
 
