@@ -5,25 +5,32 @@ type: page
 sidebar:
   nav: "menu"
 ---
-Ross/USA:  Sunday June 21   to   Friday July 31, 2020
+Ross at Ohio Dominican:  Sunday June 21   through   Friday July 31, 2020.  <br>
+Ross at Rose-Hulman: Sunday June 28  through  Friday August 7, 2020.
 
 ### CANCELLATION
-We might need to __cancel__ the 2020 Ross/Asia program in China.  
-Travel restrictions resulting from the COVID-19 (coronavirus) outbreak 
-could require this cancellation. 
+We have canceled the 2020 Ross/Asia program planned to be in China.  
+Difficulties surrounding the COVID-19 (coronavirus) outbreak 
+have forced us to make this cancellation. 
 
-If Ross/Asia is canceled, we plan to __RESCHEDULE__ that session to a location in the United States, 
-with approximately the same dates (July 5 - August 7).  Unfortunately, some Chinese students might not be able 
-to join this new program 
-because of their delayed school schedules, or because of quarantines or travel restrictions.
-
-
+Instead there will be two six-week sessions of the Ross Mathematics Program.  One at 
+Ohio Dominican University in Columbus Ohio, and the other at 
+Rose Hulman Institute of Technology in Terre Haute, Indiana.  The two sessions 
+will be very similar in style and content.  The major difference
+is in the dates of operation.
 
 # Introduction
 
-The Ross Program is an intensive summer experience designed to encourage motivated pre-college students to explore mathematics. During those weeks, students are immersed in a world of mathematical discovery.
+The Ross Program is an intensive summer experience designed to encourage 
+motivated pre-college students to explore mathematics. During those weeks, students are immersed in a world of mathematical discovery.
 
-[Dr. Arnold Ross](/alumni/biography/ "Ross Biography") founded this multi-level program at Notre Dame University in 1957\. Its growth was then spurred by the launch of the Sputnik satellite and the subsequent surge of interest in science education. Arnold Ross’s Program has run every summer since then, associated mostly with Ohio State University from 1964 through 2018. In 2019 the Program moved to <a href="http://www.ohiodominican.edu/"> Ohio Dominican University</a>.  
+[Dr. Arnold Ross](/alumni/biography/ "Ross Biography") founded this 
+multi-level program at Notre Dame University in 1957\. Its growth was 
+then spurred by the launch of the Sputnik satellite and the subsequent 
+surge of interest in science education. Arnold Ross’s Program has run 
+every summer since then, associated mostly with Ohio State University 
+from 1964 through 2018. In 2019 the Program moved to 
+<a href="http://www.ohiodominican.edu/"> Ohio Dominican University</a>.  
 
 Our central goal has always been to instruct bright young students in the art of mathematical thinking and to inspire them to discover for themselves that abstract ideas are valuable and important. First year participants take the basic course in number theory. For most students, this is the first time they are asked to consider entirely new questions, to develop methods that they have not seen before, and to justify every answer.
 
@@ -53,11 +60,11 @@ NOTE. The Ross Program cannot accommodate students who must arrive more than two
 ## Costs and Financial Aid
 
 Fees for this program are determined by the cost of five or six weeks of room and board 
-and by various instructional costs. The Ross/USA fee for 2020 will be $5000. 
+and by various instructional costs. The Program Fee for 2020 will be $5000. 
 
 
 NOTE: [Financial aid](https://rossprogram.org/students/faq/#are-scholarships-available) 
-is available. Accepted applicants are encouraged to apply if their families have 
+is available. Accepted applicants are encouraged to apply if their families have some 
 financial need. We hope to be able to provide enough support to enable every 
 accepted applicant to attend this great Program.   
 
