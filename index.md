@@ -18,6 +18,8 @@ Ohio Dominican University in Columbus Ohio, and the other at
 Rose Hulman Institute of Technology in Terre Haute, Indiana.  The two sessions 
 will be very similar in style and content.  The major difference
 is in the dates of operation.
+NOTE.  Applicants who chose "Ross/Asia" will automatically be considered for one of 
+the Ross sites in the USA.  
 
 # Introduction
 
