@@ -5,21 +5,24 @@ type: page
 sidebar:
   nav: "menu"
 ---
-Ross at Ohio Dominican:  Sunday June 21   through   Friday July 31, 2020.  <br>
-Ross at Rose-Hulman: Sunday June 28  through  Friday August 7, 2020.
+The COVID-19 pandemic has forced governments to impose extensive 
+travel restrictions and quarantines. As one consequence, the Ross/Asia session 
+in China was cancelled.  
 
-### CANCELLATION
-We have canceled the 2020 Ross/Asia program planned to be in China.  
-Difficulties surrounding the COVID-19 (coronavirus) outbreak 
-have forced us to make this cancellation. 
+If quarantine restrictions are removed by June, then the Ross Program 
+will run with two in-person, six-week sessions: <br>
+&nbsp; Ross/Ohio:  Sunday June 21   through   Friday July 31, 2020.  <br>
+&nbsp; Ross/Indiana: Sunday June 28  through  Friday August 7, 2020.
 
-Instead there will be two six-week sessions of the Ross Mathematics Program.  One at 
-Ohio Dominican University in Columbus Ohio, and the other at 
-Rose Hulman Institute of Technology in Terre Haute, Indiana.  The two sessions 
-will be very similar in style and content.  The major difference
-is in the dates of operation. <br>
-NOTE.  Applicants who chose "Ross/Asia" will automatically be considered for one of 
-the Ross sites in the USA.  
+If quarantines and travel restrictions continue into June, then we hope to create
+_Ross-Online,_ providing remote versions of Ross Program courses.  The Number
+Theory course will be available to students who have been accepted 
+by the Ross Admissions Committee.  That course cannot be 
+as deep and intensive as the in-person experience, but online participants 
+will at least get a taste of the Ross style of inquiry-based learning.
+
+Further details will be emailed to accepted participants.  We hope that the Admissions
+Committee will start making acceptance decisions in early April.
 
 # Introduction
 
@@ -61,8 +64,11 @@ NOTE. The Ross Program cannot accommodate students who must arrive more than two
 
 ## Costs and Financial Aid
 
-Fees for this program are determined by the cost of five or six weeks of room and board 
-and by various instructional costs. The Program Fee for 2020 will be $5000. 
+Fees for the residential program are determined by the cost of five or six weeks of room and board,
+as well as the cost of hiring instructors and counselors.  For the in-person, six-week session, 
+the 2020 Program Fee will be $5000. <br>
+Fees for the online program need to cover costs for developing the new courses, 
+and for hiring instructors and counselors.  That fee level has not yet been decided.
 
 
 NOTE: [Financial aid](https://rossprogram.org/students/faq/#are-scholarships-available) 
