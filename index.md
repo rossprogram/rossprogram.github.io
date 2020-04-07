@@ -5,24 +5,20 @@ type: page
 sidebar:
   nav: "menu"
 ---
-The COVID-19 pandemic has forced governments to impose extensive 
-travel restrictions and quarantines. As one consequence, the Ross/Asia session 
-in China was cancelled.  
+The COVID-19 pandemic has forced the Ross Program to cancel
+all in-person classes for the 2020 session.  Instead the Program
+will run online sessions from Sunday June 28  through  Friday August 7, 2020.
 
-If quarantine restrictions are removed by June, then the Ross Program 
-will run with two in-person, six-week sessions: <br>
-&nbsp; Ross/Ohio:  Sunday June 21   through   Friday July 31, 2020.  <br>
-&nbsp; Ross/Indiana: Sunday June 28  through  Friday August 7, 2020.
-
-If quarantines and travel restrictions continue into June, then we hope to create
-_Ross-Online,_ providing remote versions of Ross Program courses.  The Number
-Theory course will be available to students who have been accepted 
-by the Ross Admissions Committee.  That course cannot be 
+The Ross Number Theory course will be available to all students accepted 
+to the 2020 session.  That course cannot be 
 as deep and intensive as the in-person experience, but online participants 
-will at least get a taste of the Ross style of inquiry-based learning.
+will gain some experience with the Ross style of inquiry-based learning.
 
 Further details will be emailed to accepted participants.  We hope that the Admissions
-Committee will start making acceptance decisions in early April.
+Committee will start making acceptance decisions during April.
+
+NOTE: Information below refers to the in-person Ross Program, and is not
+valid for the 2020 plans.
 
 # Introduction
 
