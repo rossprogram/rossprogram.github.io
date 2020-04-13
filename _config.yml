@@ -263,3 +263,5 @@ defaults:
     values:
       sidebar:
         nav: "menu"
+
+theme: jekyll-theme-minimal
