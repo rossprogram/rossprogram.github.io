@@ -102,7 +102,3 @@ at Texas State University, are very close in spirit to the Ross Program since th
 Please see our [Frequently Asked Questions](/students/faq/) page for more information. 
 You are also welcome to email us at [ross@rossprogram.org](mailto:ross@rossprogram.org).
 
-&nbsp;
-
-
-&nbsp;

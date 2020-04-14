@@ -89,6 +89,3 @@ race, color, national origin, and ethnic origin in administration of
 its educational policies, admission policies, scholarship and loan
 programs, and athletic and other Ross-administered programs.
 
-&nbsp;
-&nbsp;
-

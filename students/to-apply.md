@@ -57,8 +57,4 @@ ethnic origin, disability, or marital status in its admissions,
 educational programming, financial aid, employment practices, or other
 activities.
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
+

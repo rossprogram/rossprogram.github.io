@@ -5,7 +5,7 @@
 // css bellow has priority over default theme styling
 .page__footer{
     bottom: unset;
-    margin-top: 40px;
+    margin-top: 20px;
 }
 .header-link{
     visibility: hidden;
@@ -16,4 +16,8 @@ h1,h2,h3{
             visibility: visible;
         }
     }
+}
+
+p{
+    word-spacing: -1px;
 }
