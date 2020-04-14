@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+// css bellow has priority over default theme styling
+.page__footer{
+    bottom: unset;
+    margin-top: 40px;
+}
+.header-link{
+    visibility: hidden;
+}
+h1,h2,h3{
+    &:hover{
+        .header-link{
+            visibility: visible;
+        }
+    }
+}
