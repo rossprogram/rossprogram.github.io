@@ -5,6 +5,8 @@ type: page
 sidebar:
   nav: "menu"
 ---
+The 2020 Ross Mathematics Program has closed the application process.
+
 The COVID-19 pandemic has forced the Ross Program to cancel
 all in-person classes for the 2020 session.  Instead the Program
 will run online sessions from Sunday June 28  through  Friday August 7, 2020.
