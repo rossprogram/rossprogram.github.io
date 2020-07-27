@@ -29,6 +29,9 @@ but since 2019 all other Ross funds have been processed through the _Ross Mathem
 a tax-exempt, 501(c)(3) corporation, with federal Tax ID (EIN) 83-1928343.  <br>
 &nbsp; Your contribution is important, and will be greatly appreciated. 
 
+For any method of contributing, please [send us a short email](mailto:ross@rossprogram.org) 
+to make sure that we know about your donation. We will reply with a tax receipt. 
+
 ## How to Contribute
 
 ### By check
@@ -41,10 +44,7 @@ Please make out the check to the _Ross Mathematics Foundation_ with “Ross Endo
 
 ### Online
 
-Credit card contributions to the OSU fund may be made via [Ohio State Giving](https://www.giveto.osu.edu/makeagift). Search for the “Ross Mathematics Program Endowment Fund” (fund number 646206) and follow the directions on how to make a gift.  
-
-For either method of contributing, please [send us a short email](mailto:ross@rossprogram.org) 
-to make sure that we know about your donation. We will reply with a tax receipt. 
+Credit card contributions can be made online.  We will post details here soon.  
 
 ### Corporate matching gifts
 
