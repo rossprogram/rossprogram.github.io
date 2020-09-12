@@ -23,8 +23,7 @@ technical troubles or other questions about the application
 process should email 
 <a href="mailto:ross@rossprogram.org">ross@rossprogram.org</a>.
 
-Each applicant will create a Ross account, enter demographic information,  
-respond to several essay prompts, and upload solutions to several mathematical problems.  
+Each applicant will create a Ross account, enter demographic information, respond to several essay prompts, and upload solutions to several mathematical problems.  
 
 ## Application Deadline
 
