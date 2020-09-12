@@ -14,7 +14,9 @@ meta:
 
 # Application Instructions
 
-Students can initiate the application process by visiting <a
+##The APPLICATION WINDOW will open in January.##
+
+When the application window is open, students may initiate the application process by visiting <a
 href="https://apply.rossprogram.org/">https://apply.rossprogram.org/</a>
 and then completing the forms available there.  Applicants who have 
 technical troubles or other questions about the application
