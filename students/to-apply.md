@@ -39,8 +39,11 @@ of March for adequate consideration.
 
 ## Financial Information
 
-The fee to attend the 2020 Ross Program  is $5000. That fee covers 
+The fee to attend the in-person Ross Program  is $5000. That fee covers 
 room, board, and all instructional expenses. 
+
+If the 2021 Ross Program is entirely on-line, the expected 
+program fee will be $1000.
 
 ## Scholarships
 
