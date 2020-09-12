@@ -23,14 +23,13 @@ technical troubles or other questions about the application
 process should email 
 <a href="mailto:ross@rossprogram.org">ross@rossprogram.org</a>.
 
-A key component of the application process involves submitting
-solutions to the <a href="/students/application-problems.pdf">Application
-Problems</a>.
+Each applicant will create a Ross account, enter demographic information,  
+respond to several essay prompts, and upload solutions to several mathematical problems.  
 
 ## Application Deadline
 
 Starting March 1, the Ross Admission Committee will begin accepting
-students until all spaces have been filled.    The final deadline for
+students until all spaces have been filled.  The final deadline for
 Ross applications is <b>April 1</b>. However, spaces might be filled
 early, so it is best to complete your application well before the end
 of March for adequate consideration.
