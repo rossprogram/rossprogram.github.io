@@ -31,6 +31,6 @@ Having run the Ross Mathematics Program online in Summer 2020, we will continue 
 <hr/>
 <h3 style="margin-bottom: 0;">Games, Graphs, Groups, and Geometric Series<span style="float:right; color:#888">Prof. Rachel Skipper</span></h3>
 <h4 style="margin:0; margin-bottom:12pt;">Tuesday, October 27, 2020 at 6pm Eastern</h4>
-<p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; Margin-bottom: 15px;">In this talk, we will discuss the game”The Towers of Hanoi” which comes from a legend about monks who have divine orders to move 64 golden disks among three pegs. The legend says that when the monks have moved the last disk, the world will end and asks the question: why? We’ll answer this question and see how the”Hanoi Tower group” connects the game to the Sierpinski triangle.</p>
+<p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; Margin-bottom: 15px;">In this talk, we will discuss the game “The Towers of Hanoi” which comes from a legend about monks who have divine orders to move 64 golden disks among three pegs. The legend says that when the monks have moved the last disk, the world will end and asks the question: when?  We’ll answer this question and see how the “Hanoi Tower group” connects the game to the Sierpinski triangle.</p>
 
 <hr/>
