@@ -49,7 +49,5 @@ and a salary.  Ross/USA does not reimburse any travel expenses.
 
 Counselors at Ross/Asia work for five weeks with a smaller salary, but are reimbursed for travel expenses. 
 
-&nbsp;
 
-&nbsp;
 

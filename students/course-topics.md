@@ -87,8 +87,3 @@ Which quadratic number rings are Euclidean? For instance
 </dd>
 </dl>
 
-&nbsp;
-
-&nbsp;
-
-
