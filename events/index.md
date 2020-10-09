@@ -16,6 +16,8 @@ Having run the Ross Mathematics Program online in Summer 2020, we will continue 
 
 <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; Margin-bottom: 15px;">In this lecture we will discuss Hamilton’s ideas.</p>
 
+<p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; Margin-bottom: 15px;"><a href="quaternions.pdf">View slides</a></p>
+
 <hr/>
 <h3 style="margin-bottom: 0;">Office hours, or Ask Me Anything<span style="float:right; color:#888">Prof. Tim All</span></h3>
 <h4 style="margin:0; margin-bottom:12pt;">Wednesday, October 14, 2020 at 6pm Eastern</h4>
