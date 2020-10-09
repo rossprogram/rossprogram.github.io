@@ -8,7 +8,7 @@ sidebar:
 
 Having run the Ross Mathematics Program online in Summer 2020, we will continue to build the online Ross community with some outreach events during the academic year.  All these events will take place [in our Zoom room](https://zoom.us/my/rossmath?pwd=R2dSMG1ETDltRVNGT2tvT1hDcEg5dz09), and are open to the broader mathematical community, so please feel free to invite your friends.
 <hr/>
-<h3 style="margin-bottom: 0;">Quaternions<span style="float:right; color:#888">Prof. Daniel Shapiro</span></h3>
+<h3 style="margin-bottom: 0;"><a href="quaternions.pdf">Quaternions</a><span style="float:right; color:#888">Prof. Daniel Shapiro</span></h3>
 <h4 style="margin:0; margin-bottom:12pt;">Thursday, October 08, 2020 at 7pm Eastern</h4>
 <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; Margin-bottom: 15px;">The plane is represented as ordered pairs (a, b) of real numbers.  By defining a multiplication operation on those pairs, we create the field 𝗖 of complex numbers.  That multiplication can be viewed geometrically, yielding rotations and dilations of the plane.  Many geometric problems can be recast as simpler statements within 𝗖.  In the 19th century, the complex numbers bacame a useful tool in studying problems of plane geometry.</p>
 
