@@ -13,10 +13,10 @@ courses during the academic year.
 You can review the [notes on equidistribution](./Equidistribution_Notes.pdf)
 from the summer course.
 
-Our first academic year meeting is Tuesday, October 13 at 6pm Eastern
+Our first academic year meeting was Tuesday, October 13 at 6pm Eastern
 [in our Zoom
 room](https://zoom.us/my/rossmath?pwd=R2dSMG1ETDltRVNGT2tvT1hDcEg5dz09).
 We will continue to meet every two weeks, i.e., alternating Tuesdays,
-at 6pm Eastern.
+at *6:30 PM* Eastern.
 
 
