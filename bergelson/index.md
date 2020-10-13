@@ -19,4 +19,4 @@ room](https://zoom.us/my/rossmath?pwd=R2dSMG1ETDltRVNGT2tvT1hDcEg5dz09).
 We will continue to meet every two weeks, i.e., alternating Tuesdays,
 at **6:30 PM** Eastern.
 
-NOTE THE TIME CHANGE (formerly 6 PM)
+    NOTE THE TIME CHANGE.
