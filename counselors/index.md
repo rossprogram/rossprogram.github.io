@@ -15,7 +15,7 @@ Counselors supervise and advise the first-year students and junior counselors,
 and oversee dormitory life. Counselors are expected to arrive a day or two 
 earlier than the official starting date and to continue working for the duration of the summer session.  
 
-If interested, [please apply](to-apply/). <br>
+If interested, [please apply](/to-apply/). <br>
 NOTE: Many well-qualified students have applied for counselor positions. <br>
 &nbsp; &nbsp; Only a few spot remain open.
 
@@ -24,8 +24,7 @@ NOTE: Many well-qualified students have applied for counselor positions. <br>
 A Ross Counselor needs a strong background in mathematics, and good social skills. 
 We prefer applicants who are either math graduate students or undergraduate math majors 
 who have completed at least two years of college. Applicants are expected to have completed a 
-college course on Abstract Algebra, and to have some experience with elementary number theory.  
-Prior knowledge of all the [Course Topics](/first-years/course-topics/) is not required.
+college course on Abstract Algebra, and to have some experience with elementary number theory.  Prior knowledge of all the [Course Topics](/first-years/course-topics/) is not required.
 
 Each counselor needs to pass a standard background check. Depending on your citizenship status, 
 you might need to obtain an appropriate visa (US or Chinese) to join the Ross Program.
