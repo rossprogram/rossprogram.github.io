@@ -45,6 +45,6 @@ Having run the Ross Mathematics Program online in Summer 2020, we will continue 
 
 <p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; Margin-bottom: 15px;">In this lecture we will discuss Hamilton’s ideas.</p>
 
-<p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; Margin-bottom: 15px;">Visit https://rossprogram.org/events/quaternions.pdf to download the slides.</p>
+<p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; Margin-bottom: 15px;">Click <a href="https://rossprogram.org/events/quaternions.pdf">here</a> to download the slides.</p>
 
 <hr/>
