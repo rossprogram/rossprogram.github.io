@@ -6,7 +6,7 @@ sidebar:
   nav: "menu"
 ---
 The 2021 Ross Mathematics Program will be online, running from <br>
-&nbsp; Sunday **June 27** through Friday **August 6,** 2021
+&nbsp; &nbsp; Sunday **June 27** &nbsp; through &nbsp; Friday **August 6,** 2021
 
 During those six weeks, all students attend synchronous lectures 
 on Number Theory. To solve time zone challenges, those lectures will be offered 
