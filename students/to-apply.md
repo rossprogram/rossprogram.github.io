@@ -16,14 +16,16 @@ meta:
 
 ## The APPLICATION WINDOW will open in January.
 
-When the application window is open, students may initiate the application process by visiting <a
-href="https://apply.rossprogram.org/">https://apply.rossprogram.org/</a>
+When the application window is open, students may initiate the 
+application process by visiting 
+<a href="https://apply.rossprogram.org/">https://apply.rossprogram.org/</a> ,
 and then completing the forms available there.  Applicants who have 
 technical troubles or other questions about the application
 process should email 
 <a href="mailto:ross@rossprogram.org">ross@rossprogram.org</a>.
 
-Each applicant will create a Ross account, enter demographic information, respond to several essay prompts, and upload solutions to several mathematical problems.  
+Each applicant will create a Ross account, enter demographic information, 
+respond to several essay prompts, and upload solutions to several mathematical problems.  
 
 ## Application Deadline
 
@@ -34,14 +36,10 @@ early, so it is best to complete your application well before the end
 of March for adequate consideration.
   
 
-
 ## Financial Information
 
-The fee to attend the in-person Ross Program  is $5000. That fee covers 
-room, board, and all instructional expenses. 
-
-If the 2021 Ross Program is entirely on-line, the expected 
-program fee will be $1000.
+The fee to attend the online Ross Program in 2021 is $1500. That fee covers 
+all instructional expenses. 
 
 ## Scholarships
 
