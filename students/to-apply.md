@@ -17,16 +17,16 @@ meta:
 ## The APPLICATION WINDOW will open in January.
 
 When the application window is open, students may initiate the 
-application process by visiting 
+Ross application process by visiting 
 <a href="https://apply.rossprogram.org/">https://apply.rossprogram.org/</a>,
-creating a Ross account, and completing the forms posted there.  Applicants who have 
-technical troubles or other questions about the application
-process should email 
-<a href="mailto:ross@rossprogram.org">ross@rossprogram.org</a>.
-
-The Ross application asks for demographic information, 
+creating a Ross account, and completing the forms posted there.  
+The application asks for demographic information, 
 responses to several essay prompts, and uploaded solutions 
 to several mathematical problems.  
+
+Applicants who have technical troubles or other questions about the 
+application process are welcome to email 
+<a href="mailto:ross@rossprogram.org">ross@rossprogram.org</a>.
 
 ## Application Deadline
 
