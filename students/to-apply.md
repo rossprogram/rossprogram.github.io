@@ -19,8 +19,8 @@ meta:
 When the application window is open, students may initiate the 
 Ross application process by visiting 
 <a href="https://apply.rossprogram.org/">https://apply.rossprogram.org/</a>,
-creating a Ross account, and completing the forms posted there.  
-The application asks for demographic information, 
+creating a Ross account, and completing the forms posted there. The application 
+asks for demographic information, 
 responses to several essay prompts, and uploaded solutions 
 to several mathematical problems.  
 
