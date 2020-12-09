@@ -12,26 +12,27 @@ meta:
   _edit_last: '4951'
 ---
 
-# Application Instructions
+# Instructions
 
 ## The APPLICATION WINDOW will open in January.
 
 When the application window is open, students may initiate the 
 application process by visiting 
-<a href="https://apply.rossprogram.org/">https://apply.rossprogram.org/</a> ,
-and then completing the forms available there.  Applicants who have 
+<a href="https://apply.rossprogram.org/">https://apply.rossprogram.org/</a>,
+creating a Ross account, and completing the forms posted there.  Applicants who have 
 technical troubles or other questions about the application
 process should email 
 <a href="mailto:ross@rossprogram.org">ross@rossprogram.org</a>.
 
-Each applicant will create a Ross account, enter demographic information, 
-respond to several essay prompts, and upload solutions to several mathematical problems.  
+The Ross application asks for demographic information, 
+responses to several essay prompts, and uploaded solutions 
+to several mathematical problems.  
 
 ## Application Deadline
 
-Starting March 1, the Ross Admission Committee will begin accepting
+Starting March 1, the Ross Admissions Committee will begin accepting
 students until all spaces have been filled.  The final deadline for
-Ross applications is <b>April 1</b>. However, spaces might be filled
+Ross applications is **April 1**. However, spaces might be filled
 early, so it is best to complete your application well before the end
 of March for adequate consideration.
   
