@@ -8,19 +8,17 @@ sidebar:
 The 2021 Ross Mathematics Program will be online, running from <br>
 &nbsp; Sunday **June 27** through Friday **August 6,** 2021
 
-During those six weeks, students will attend daily synchronous lectures 
-on Number Theory, as well as sessions where campers meet in small groups
-to work on problem sets together, guided by a Ross counselor.
-
-The online Ross Number Theory course cannot be as deep and intensive as 
-the in-person experience, but online participants will learn many mathematical 
-ideas and through the Ross style of inquiry-based learning.
+During those six weeks, all students attend synchronous lectures 
+on Number Theory. To solve time zone challenges, those lectures will be offered 
+every weekday at 11 AM and again at 8 PM, Eastern Time.  In addition, 
+participants attend small-group meetings every day to discuss the problem sets. 
+Each group is guided by a Ross counselor.
 
 The application window will open on Monday January 4, 2021.  The Ross Admissions
 Committee will start making acceptance decisions in March.
 
-NOTE: Some of the information below refers to the in-person Ross Program.  More detailed plans
-for the online program in 2021 will be decided later 
+NOTE: Some of the information below refers to the in-person Ross Program.  
+More detailed plans for the online program will be sent to accepted participants. 
 
 # Introduction
 
