@@ -22,7 +22,7 @@ Ross application process by visiting
 creating a Ross account, and completing the forms posted there. The application 
 asks for demographic information, school transcripts, letter of recommendation, 
 responses to several essay prompts, and uploaded solutions 
-to several mathematical problems.  
+to some mathematical problems.  
 
 Applicants who have technical troubles or other questions about the 
 application process are welcome to email 
