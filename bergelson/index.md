@@ -16,8 +16,8 @@ Those have been updated to include the sessions during Autumn 2020.
 Notes for the lectures in the summer (a subset of those posted on Overleaf) are available at
 [course notes on equidistribution](./Equidistribution_Notes.pdf).
 
-Our first Autumn 2020 meeting was Tuesday, October 13 
+Meetings during the 2020-2021 meeting academic year will be held 
 [in our Zoom room](https://zoom.us/my/rossmath?pwd=R2dSMG1ETDltRVNGT2tvT1hDcEg5dz09).
-We will continue to meet every other Tuesday at **6:30 PM** Eastern Time.  
-The next meeting will be January 5, 2021.
+Meetings will continue every other Tuesday (approximately) at **6:30 PM** Eastern Time.  
+Next meeting = January 5, 2021.
 
