@@ -17,6 +17,6 @@ are available at [NOTES](https://www.overleaf.com/read/gwnwmsrzqjkm).
 
 Our first Autumn 2020 meeting was Tuesday, October 13 
 [in our Zoom room](https://zoom.us/my/rossmath?pwd=R2dSMG1ETDltRVNGT2tvT1hDcEg5dz09).
-We will continue to meet every two weeks, on alternating Tuesdays,
-at **6:30 PM** Eastern Time.  The next meeting will be November 24.
+We will continue to meet every other Tuesday at **6:30 PM** Eastern Time.  
+The next meeting will be January 5, 2021.
 
