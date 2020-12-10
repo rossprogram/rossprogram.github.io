@@ -10,10 +10,10 @@ Prof. Vitaly Bergelson led a course on Equidistribution
 during the 2020 Ross Program last summer.  He will continue that course
 during this academic year.
 
-NOTES from this course are posted at [NOTES](https://www.overleaf.com/read/gwnwmsrzqjkm). 
-Those have been updated to include the sessions during Autumn 2020.  
+NOTES from this course are posted on Overleaf at [NOTES](https://www.overleaf.com/read/gwnwmsrzqjkm). 
+Those notes have been updated to include most of the material discussed during Autumn 2020.  
 
-Notes for the lectures in the summer (a subset of those posted on Overleaf) are available at
+Lecture notes for the summer course (a subset of those posted on Overleaf) are available at
 [course notes on equidistribution](./Equidistribution_Notes.pdf).
 
 Meetings during the 2020-2021 meeting academic year will be held 
