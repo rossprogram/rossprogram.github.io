@@ -10,13 +10,13 @@ tags: []
 ---
 ## Working as a Ross Counselor
 
-The Ross Program will hire several counselors to work at the online program planed for 2021. 
+The Ross Program will hire several counselors to work at the online program planned for 2021. 
 Each counselor is expected to be available during the entire six weeks of the Program: 
 
 &nbsp; &nbsp; June 27 through August 6, 2021.   
 
 Application materials for the 2021 session will be posted **in January.** 
-Look for updates at [please apply](to-apply/). <br>
+Look for updates at [Apply](to-apply/). <br>
 
 ## Application Requirements
 
