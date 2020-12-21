@@ -10,9 +10,8 @@ tags: []
 ---
 ## Working as a Ross Counselor
 
-The Ross Program will hire counselors to work at the online program planed for 2021. 
-Counselors supervise and advise the first-year students and junior counselors. 
-Ross Counselors are expected to be available during the entire six weeks of the Program: 
+The Ross Program will hire several counselors to work at the online program planed for 2021. 
+Each counselor is expected to be available during the entire six weeks of the Program: 
 
 &nbsp; &nbsp; June 27 through August 6, 2021.   
 
@@ -36,11 +35,11 @@ disability status, or protected veteran status.
 
 ## Counselor Responsibilities
 
-Counselors are role models for the younger students. Counselors lead daily Zoom meetings 
-with a group of 5 students, and evaluate (grade) the mathematical work they submit. 
-Counselors provide gentle hints and advice to help inspire students to stay focused on their math problems. 
-In addition, counselors participate in one or two math courses at more advanced levels (topics vary from year to year) 
-and are encouraged to organize and present their own Zoom lectures on some topics of interest.
+Counselors are role models for the younger students. Each counselor leads daily Zoom meetings 
+with a group of 5 students, and evaluates (grades) the mathematical work they submit, 
+providing gentle hints and advice to help inspire students to focus on their math problems. 
+Counselors also participate in one or two math courses at more advanced levels, and are 
+also encouraged to organize and present their own Zoom lectures on mathematical topics of interest.
 
 ## Compensation
 
