@@ -10,14 +10,14 @@ tags: []
 ---
 ## Working as a Ross Counselor
 
-The Ross Program will hire counselors to work at Ross/USA and at Ross/Asia. 
-Counselors supervise and advise the first-year students and junior counselors, 
-and oversee dormitory life. Counselors are expected to arrive a day or two 
-earlier than the official starting date and to continue working for the duration of the summer session.  
+The Ross Program will hire counselors to work at the online program planed for 2021. 
+Counselors supervise and advise the first-year students and junior counselors. 
+Ross Counselors are expected to be available during the entire six weeks of the Program: 
 
-If interested, [please apply](to-apply/). <br>
-NOTE: Many well-qualified students have applied for counselor positions. <br>
-&nbsp; &nbsp; Only a few spot remain open.
+&nbsp; &nbsp; June 27 through August 6, 2021.   
+
+Application materials for the 2021 session will be posted **in January.** 
+Look for updates at [please apply](to-apply/). <br>
 
 ## Application Requirements
 
@@ -28,7 +28,7 @@ college course on Abstract Algebra, and to have some experience with elementary 
 Prior knowledge of all the [Course Topics](/first-years/course-topics/) is not required.
 
 Each counselor needs to pass a standard background check. Depending on your citizenship status, 
-you might need to obtain an appropriate visa (US or Chinese) to join the Ross Program.
+you might need to obtain an appropriate US visa to earn a salary at the Ross Program.
 
 All qualified applicants will receive consideration for employment without regard to 
 race, color, religion, sex, sexual orientation, gender identity, ethnic origin, 
@@ -36,18 +36,17 @@ disability status, or protected veteran status.
 
 ## Counselor Responsibilities
 
-Counselors are role models for the younger students. Counselors supervise dormitory life, 
-evaluate (grade) the mathematical work submitted by their family of students, and provide 
-gentle hints and advice to help inspire students to stay focused on their math problems. 
-In addition, counselors participate in one or two math courses (topics vary from year to year) 
-and are encouraged to organize their own lectures or short courses in the dorm.
+Counselors are role models for the younger students. Counselors lead daily Zoom meetings 
+with a group of 5 students, and evaluate (grade) the mathematical work they submit. 
+Counselors provide gentle hints and advice to help inspire students to stay focused on their math problems. 
+In addition, counselors participate in one or two math courses at more advanced levels (topics vary from year to year) 
+and are encouraged to organize and present their own Zoom lectures on some topics of interest.
 
 ## Compensation
 
-In exchange for six weeks of work, Ross/USA provides each counselor with room and board, 
-and a salary.  Ross/USA does not reimburse any travel expenses.  
-
-Counselors at Ross/Asia work for five weeks with a smaller salary, but are reimbursed for travel expenses. 
+In exchange for six weeks of work, the Ross Foundation provides each counselor with 
+a salary. We expect to offer a base salary of $3000 for six weeks of work, with 
+opportunities to earn extra pay for additional duties as needed.
 
 
 
