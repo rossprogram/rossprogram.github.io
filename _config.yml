@@ -120,6 +120,7 @@ include:
   - first-years
   - counselors
   - alumni
+  - donations  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
