@@ -14,7 +14,7 @@ meta:
 
 # Instructions
 
-Application materials were posted on Monday Jan 4, 2021.   
+Application materials were posted on January 4, 2021.   
 Students may initiate the Ross application process by visiting 
 <a href="https://apply.rossprogram.org/">https://apply.rossprogram.org/</a>,
 creating a Ross account, and completing the forms posted there. The application 
