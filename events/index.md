@@ -9,6 +9,19 @@ sidebar:
 Having run the Ross Mathematics Program online in Summer 2020, we will continue to build the online Ross community with some outreach events during the academic year.  All these events will take place [in our Zoom room](https://zoom.us/my/rossmath?pwd=R2dSMG1ETDltRVNGT2tvT1hDcEg5dz09), and are open to the broader mathematical community, so please feel free to invite your friends.
 <hr/>
 
+<h2>Upcoming Events</h2>
+<h3 style="margin-bottom: 0;">Introduction to Algebraic Topology<span style="float:right; color:#888">John Nicholson</span></h3>
+<h4 style="margin:0; margin-bottom:12pt;">Weekdays January 25 - 28, 2021 at 6pm Eastern daily</h4>
+<p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; Margin-bottom: 15px;">Algebraic topology begins with the realisation that fundamental questions about spaces like manifolds and cell complexes are best understood using methods from abstract algebra such as groups and rings. This course will be a fast-paced and intuitive introduction to the basic techniques of algebraic topology with a particular focus on the Euler characteristic and the fundamental group. The final goal will be to apply these techniques to the classification of 2-dimensional cell complexes, which are spaces made up of vertices, edges and faces.<br /><br />We will not assume any previous knowledge of abstract algebra and topology but some familiarity with groups, metric spaces and continuous functions would be helpful.</p>
+
+<hr/>
+<h3 style="margin-bottom: 0;">Conway's Topograph to Construct Solutions to Fermat's Christmas Problem.<span style="float:right; color:#888">Steven Gubkin</span></h3>
+<h4 style="margin:0; margin-bottom:12pt;">Friday, February 12, 2021 at 6pm Eastern</h4>
+<p style="font-family: sans-serif; font-size: 14px; font-weight: normal; margin: 0; Margin-bottom: 15px;">A binary quadratic form is a function of the form f: ℤ² → ℤ of the form f(x,y) = ax²+bxy+cy².  Such a form is determined by its values on a “lax superbasis” of ℤ² (a trio of vectors v⃗, w⃗, v⃗+w⃗ any two of which span ℤ², mod a sign).  We can visualize all of the lax superbases using a “Conway Topograph”.  Walking around on this topograph for the quadratic form x²+y² gives us an algorithm to decompose any odd prime congruent to 1 mod 4 into a sum of two squares.</p>
+
+<hr/>
+<hr/>
+
 <h2>Previous Events</h2>
 <h3 style="margin-bottom: 0;">Residual finiteness and decision problems<span style="float:right; color:#888">Prof. Mark Pengitore</span></h3>
 <h4 style="margin:0; margin-bottom:12pt;">Tuesday, November 17, 2020 at 6pm Eastern</h4>
