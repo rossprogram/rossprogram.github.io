@@ -18,5 +18,5 @@ Lecture notes for the summer course (a subset of the notes posted on Overleaf) a
 Meetings during the 2020-2021 meeting academic year will be 
 [in our Zoom room](https://zoom.us/my/rossmath?pwd=R2dSMG1ETDltRVNGT2tvT1hDcEg5dz09).
 We plan to meet every other Tuesday (pausing for holidays) at **6:30 PM** Eastern Time.  
-Next meeting = January 5, 2021.
+Next meeting = February 2, 2021.
 
