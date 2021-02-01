@@ -15,7 +15,7 @@ Those notes have been updated to include most of the material discussed during A
 Lecture notes for the summer course (a subset of the notes posted on Overleaf) are available at
 [course notes on equidistribution](./Equidistribution_Notes.pdf). 
 
-Meetings during the 2020-2021 meeting academic year will be 
+Meetings during the 2020-2021 academic year will be 
 [in our Zoom room](https://zoom.us/my/rossmath?pwd=R2dSMG1ETDltRVNGT2tvT1hDcEg5dz09).
 We plan to meet every other Tuesday (pausing for holidays) at **6:30 PM** Eastern Time.  
 Next meeting = February 2, 2021.
