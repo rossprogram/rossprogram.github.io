@@ -22,6 +22,10 @@ asks for demographic information, school transcripts, letter of recommendation,
 responses to several essay prompts, and uploaded solutions 
 to some mathematical problems.  
 
+Common technical problem:  The system says: &nbsp; **User not found.**  <br>
+That usually means that the session cookie has expired.  
+The solution: Logout from the Ross system (click on your own email address at the upper-right), then login again.
+
 Applicants who have technical troubles or other questions about the 
 application process are welcome to email 
 <a href="mailto:ross@rossprogram.org">ross@rossprogram.org</a>.
