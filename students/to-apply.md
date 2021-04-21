@@ -35,9 +35,8 @@ application process are welcome to email
 The Ross Admissions Committee will begin reading the applications in 
 March and will start making acceptance decisions in April.  
 The final deadline for Ross applications is **April 1**. 
-Applications will be read and decisions made mostly in chronological order, 
-so it is best to complete your application well before the end
-of March for adequate consideration.
+It is best to complete your application well before the end
+of March.
   
 
 ## Financial Information
