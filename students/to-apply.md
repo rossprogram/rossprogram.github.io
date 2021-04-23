@@ -31,12 +31,10 @@ application process are welcome to email
 <a href="mailto:ross@rossprogram.org">ross@rossprogram.org</a>.
 
 ## Application Deadline
-
-The Ross Admissions Committee will begin reading the applications in 
-March and will start making acceptance decisions in April.  
-The final deadline for Ross applications is **April 1**. 
-It is best to complete your application well before the end
-of March.
+  
+The final deadline for Ross applications was **April 1**. 
+All spots in the 2021 Ross Program have been filled.  
+No new applications will be considered.
   
 
 ## Financial Information
