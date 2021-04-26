@@ -14,25 +14,15 @@ meta:
 
 # Instructions
 
-Application materials were posted on January 4, 2021.   
-Students may initiate the Ross application process by visiting 
-<a href="https://apply.rossprogram.org/">https://apply.rossprogram.org/</a>,
-creating a Ross account, and completing the forms posted there. The application 
-asks for demographic information, school transcripts, letter of recommendation, 
-responses to several essay prompts, and uploaded solutions 
-to some mathematical problems.  
+Each year, application materials are posted in January.
 
-Common technical problem:  The system says: &nbsp; **User not found.**  <br>
-That usually means that the session cookie has expired.  
-The solution: Logout from the Ross system (click on your own email address at the upper-right), then login again.
-
-Applicants who have technical troubles or other questions about the 
+Applicants who have technical troubles or other questions about the Ross 
 application process are welcome to email 
 <a href="mailto:ross@rossprogram.org">ross@rossprogram.org</a>.
 
 ## Application Deadline
   
-The final deadline for Ross applications was **April 1**. 
+The final deadline for Ross applications was **March 31**. 
 All spots in the 2021 Ross Program have been filled.  
 No new applications will be considered.
   
