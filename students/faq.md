@@ -11,10 +11,10 @@ type: page
 Ross/USA is a six-week, residential, summer session for high school
 students who are talented in mathematics, well prepared in standard
 high school math topics, and eager to explore more advanced
-ideas. The Ross Program is held at two sites: <br>
-&nbsp; Ross/USA will run for six weeks in Columbus, Ohio, USA.  <br>
-&nbsp; Ross/Asia will run for five weeks in Changzhou, Jiangsu Province, China.  <br>
-The responses below refer to the Ross/USA site.
+ideas. In 2020 the Ross Program was entirely online, and
+a similar online session is planned for 2021.  In 2022 we hope to return
+to in-person courses, with all participants living in a dormitory.  <br>
+The responses below refer to the in-person sessions at the Ross/USA site.
 
   
 Ross participants spend most of each day working on challenging sets
@@ -29,8 +29,8 @@ competition between students is discouraged.
 
 ### Is admission automatic?
 
-The admission process is competitive. Typically, fewer than one-third
-of the applicants are accepted. Each successful applicant has a strong
+The admission process is competitive. In 2021 about 20% 
+of the applicants were accepted. Each successful applicant has a strong
 high school record and exhibits excellent work on the mathematical
 problems that form part of the application.
 
@@ -52,8 +52,9 @@ and the [Jack Kent Cooke Foundation](http://www.jkcf.org).
 
 ### Where do the students live?
 
-Students at Ross/USA will live in a dormitory on the campus of Ohio Dominican University in Columbus. Most students will live with three roommates in small suites consisting of two bedrooms, a bathroom, and a common area. <br>
-Students at Ross/Asia will live in a dormitory on the campus of an English International boarding high school located in Changzhou, Jiangsu Province, China.  
+Students at Ross/USA will live in a dormitory on the campus of 
+Ohio Dominican University in Columbus. Most students will live with three roommates 
+in small suites consisting of two bedrooms, a bathroom, and a common area. <br>.  
 
 ### What is the mailing address?
 
@@ -83,7 +84,7 @@ not leave the campus at any time unless accompanied by a counselor.
 
 ### Are the students segregated from college students, and from other summer camps?
 
-The Ross Mathematics Program usually fills up two floors
+The Ross Mathematics Program usually fills up several floors
 of the dormitory. Other camps are held on campus. 
 Their participants arrive and leave throughout the summer 
 and some of them might occupy the same dormitory building.
@@ -98,7 +99,7 @@ to not bring valuable items or large amounts of cash.
 ### Will the Ross counselors check that students eat good food, do laundry, clean their room, etc.?
 
 Ross counselors and students live in the same dormitory. Counselors certainly 
-provide supervision, but we expect students to be mature enough to
+provide supervision, but students must be mature enough to
 choose what and when they eat, do their own laundry, keep themselves
 and their rooms clean, and get enough sleep. If someone is not mature
 enough to do these things, or distracts other students from their
