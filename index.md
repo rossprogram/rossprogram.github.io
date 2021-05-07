@@ -39,9 +39,9 @@ Our central goal has always been to instruct bright young students in the art of
 
 The value of a mathematics education lies not only in obtaining proficiency in computational tasks, but also in building a foundation for critical thinking. Students who have never asked why things work the way they do are not prepared to lead the way to future scientific innovation. It is precisely this independence of thought and questioning attitude that the Ross Program strives to nurture.
 
-**Ross Program in China.**  
+**Ross Program in Asia.**  
 The _Ross/Asia_ program has been cancelled for 2021.  
-We hope to be able to offer that session at some location in China in 2022.
+In 2022 we hope to be able to offer a Ross session at a location in China or in a country nearby.
 
 
 
@@ -73,7 +73,8 @@ accepted applicant to attend this great Program.
 Each January, the Ross Program application is posted on the [to apply](/students/to-apply.md/) page. 
 In March, The Ross Admissions Committee starts the admissions process.  
 The final application deadline is April 1. <br>
-HOWEVER: Spaces fill up quickly so it’s best to apply well before that deadline.
+The Admissions Committee will start making acceptance offers in mid-April, and the process should
+be completed by May. 
 
 The Ross Program admits students of any race, color, gender, and national or ethnic origin.
 
@@ -87,11 +88,11 @@ The Ross Program is supported in several ways. Partners in this mathematical ent
 
 ## Related Programs
 
-Several other excellent summer mathematics programs are listed on the AMS 
-<a href="http://www.ams.org/programs/students/high-school/emp-mathcamps" target="_blank">mathcamps</a> 
-webpage. Two of them, [PROMYS](http://www.promys.org) at Boston University, and the 
+Some other excellent summer mathematics programs are listed on the AMS 
+<a href="http://www.ams.org/opportunities" target="_blank">mathcamps</a> 
+webpage. The two programs closely related to Ross are [PROMYS](http://www.promys.org) at Boston University, and the 
 [Honors Summer Math Camp](https://www.txstate.edu/mathworks/camps/Summer-Math-Camps-Information/hsmc.html) 
-at Texas State University, are very close in spirit to the Ross Program since they are run by Ross alumni.
+at Texas State University.
 
 ## Questions?
 
