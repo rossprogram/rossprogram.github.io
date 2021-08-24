@@ -6,7 +6,7 @@ sidebar:
   nav: "menu"
 ---
 
-This file will be edited by GARY
+This file will be edited by GARY <p> </p>
 The 2021 Ross Mathematics Program will be online, running from <br>
 &nbsp; &nbsp; Sunday **June 27** &nbsp; through &nbsp; Friday **August 6,** 2021
 
