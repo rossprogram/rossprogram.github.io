@@ -6,17 +6,18 @@ sidebar:
   nav: "menu"
 ---
 
-This file will be edited by GARY <p> </p>
-The 2021 Ross Mathematics Program will be online, running from <br>
+This file will be edited by GARY
+
+The 2021 Ross Mathematics Program was online, running from <br>
 &nbsp; &nbsp; Sunday **June 27** &nbsp; through &nbsp; Friday **August 6,** 2021
 
-During those six weeks, all students attend synchronous lectures 
-on Number Theory. To solve time zone challenges, those lectures will be offered 
+During those six weeks, all students attended synchronous lectures 
+on Number Theory. To solve time zone challenges, those lectures were offered 
 every weekday at 11 AM and again at 8 PM, Eastern Time.  In addition, 
-participants attend small-group meetings every day to discuss the problem sets. 
-Each group is guided by a Ross counselor.
+participants attended small-group meetings every day to discuss the problem sets. 
+Each group was guided by a Ross counselor.
 
-The application window will open on Monday January 4, 2021.  The Ross Admissions
+For the 2022 Ross Mathematics Program, the application window will open in January 2022.  The Ross Admissions
 Committee will start making acceptance decisions in March.
 
 NOTE: Some of the information below refers to the in-person Ross Program.  
