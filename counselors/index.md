@@ -10,12 +10,12 @@ tags: []
 ---
 ## Working as a Ross Counselor
 
-The Ross Program will hire several counselors to work at the online program planned for 2021. 
+The Ross Program will hire several counselors to work at the online program planned for 2022. 
 Each counselor is expected to be available during the entire six weeks of the Program: 
 
-&nbsp; &nbsp; June 27 through August 6, 2021.   
+&nbsp; &nbsp; June through August 2022.   
 
-Application materials for the 2021 session will be posted **in January.** 
+Application materials for the 2022 session will be posted **in January.** 
 Look for updates at [Apply](to-apply/). <br>
 
 ## Application Requirements
@@ -24,7 +24,7 @@ A Ross Counselor needs a strong background in mathematics, and good social skill
 We prefer applicants who are either math graduate students or undergraduate math majors 
 who have completed at least two years of college. Applicants are expected to have completed a 
 college course on Abstract Algebra, and to have some experience with elementary number theory.  
-Prior knowledge of all the [Course Topics](/first-years/course-topics/) is not required.
+Prior knowledge of all the [Course Topics](/students/course-topics/) is not required.
 
 Each counselor needs to pass a standard background check. Depending on your citizenship status, 
 you might need to obtain an appropriate US visa to earn a salary at the Ross Program.
