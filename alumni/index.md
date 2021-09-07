@@ -21,7 +21,7 @@ From 2000 to 2018 the Ross Program was led by Daniel Shapiro.  Now Jim Fowler ha
 
 * * *
 
-**Our [Sixtieth Anniversary Celebration](/alumni/reunions/60th-anniversary-2017/) was held in June 2017**.
+**Our [Sixtieth Anniversary Celebration](/alumni/reunions/2017/) was held in June 2017**.
 
 A [Reunion-Conference](/alumni/reunions/2017/ "2017 – 60th Year") was held in Columbus on June 16 - 18, 2017\.  
 Alumni and friends joined together to renew ties, reminisce, and meet current Ross participants.  
