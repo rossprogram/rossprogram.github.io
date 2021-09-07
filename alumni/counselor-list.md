@@ -1692,7 +1692,6 @@ author:
 <div style="float: right; width: 50%;">
 <h4 style="font-style: italic;">Junior Counselors</h4>
 <ul style="list-style-type: none; padding: 0; margin: 0;">
-<ul style="list-style-type: none; padding: 0; margin: 0;">
 <li style="margin-bottom: 0;">Tongtong Toto Chen</li>
 <li style="margin-bottom: 0;">Michael Ren</li>
 <li style="margin-bottom: 0;">Yiming Anita Tang</li>
