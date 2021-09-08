@@ -49,5 +49,5 @@ Of course our Program needs [financial support](/alumni/contribute/) to pay for 
 *  Group photos of the [1996](https://people.math.osu.edu/ross/Reunions/reunion96/Reunion96.jpg), [2001](https://people.math.osu.edu/ross/Reunions/reunion01/pix2001.html), and [2007](https://people.math.osu.edu/ross/Reunions/reunion07/pix2007.html) Reunion Conferences.
 *  [News and Comments](/alumni/news/) contributed by program alumni.
 *  [List of counselors](https://rossprogram.org/alumni/counselor-list/) from past years.
-*  [Courses and instructors](/previous-summers/ "Previous Summers") since 2000.
+*  [Courses and instructors](/alumni/previous-summers/ "Previous Summers") since 2000.
 
