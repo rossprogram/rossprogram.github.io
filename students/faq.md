@@ -54,7 +54,7 @@ and the [Jack Kent Cooke Foundation](http://www.jkcf.org).
 
 Students at Ross/USA will live in a dormitory on the campus of 
 Ohio Dominican University in Columbus. Most students will live with three roommates 
-in small suites consisting of two bedrooms, a bathroom, and a common area. <br>.  
+in small suites consisting of two bedrooms, a bathroom, and a common area.  
 
 ### What is the mailing address?
 
