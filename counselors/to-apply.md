@@ -9,7 +9,7 @@ categories: []
 tags: []
 ---
 
-If you are interested in becoming a Ross Counselor, you may [find the application for 2021 here](https://www.mathprograms.org/db/programs/1064).
+If you are interested in becoming a Ross Counselor, you may [find the application for 2022 here](https://www.mathprograms.org/db/programs/1221) which will become available on January 1, 2022.
 
 NOTES:
 (1) Those applicants who were counselors in the 2021 program are not required to submit another letter of recommendation.
