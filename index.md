@@ -6,9 +6,7 @@ sidebar:
   nav: "menu"
 ---
 
-The application window for the 2022 *Ross Mathematics Program* opened on January 3, 2022.  
-For full consideration, completed applications must be submitted before the end of March.  
-The Ross Admissions Committee will begin reading applications on April 1, and
+The application window for the 2022 *Ross Mathematics Program* opened on January 3, 2022.  For full consideration, completed applications must be submitted before the end of March.  The Ross Admissions Committee will begin reading applications on April 1, and
 admission decisions will be made later that month.
 
 The 2022 Ross Program will have in-person, six-week, residential sessions 
