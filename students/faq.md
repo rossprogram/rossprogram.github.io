@@ -8,14 +8,11 @@ type: page
 
 ### What is the Ross Mathematics Program?
 
-Ross/USA is a six-week, residential, summer session for high school
+Ross is a six-week, residential, summer session for high school
 students who are talented in mathematics, well prepared in standard
 high school math topics, and eager to explore more advanced
-ideas. In 2020 the Ross Program was entirely online, and
-a similar online session is planned for 2021.  In 2022 we hope to return
-to in-person courses, with all participants living in a dormitory.  <br>
-The responses below refer to the in-person sessions at the Ross/USA site.
-
+ideas. In 2020 and 2021 the Ross Program was entirely online. In 2022 we plan to return
+to in-person sessions, with participants living in a dormitory.  <br>
   
 Ross participants spend most of each day working on challenging sets
 of problems dealing with abstract mathematical concepts. By working
@@ -38,8 +35,9 @@ problems that form part of the application.
 
 The Ross Program is able to provide scholarship support to
 qualified students who cannot otherwise afford to attend. Requests for
-support should be made after a student has been accepted to the
-Program.  Various academic institutions in the applicant's home city
+support are made after a student has been accepted to the
+Program.  
+Various academic institutions in the applicant's home city
 or state might also have available scholarships. In addition, some 
 scholarship support for participation in math programs is provided 
 by [Mu Alpha Theta](https://www.mualphatheta.org/summer-grants)
@@ -52,13 +50,18 @@ and the [Jack Kent Cooke Foundation](http://www.jkcf.org).
 
 ### Where do the students live?
 
-Students at Ross/USA will live in a dormitory on the campus of 
-Ohio Dominican University in Columbus. Most students will live with three roommates 
-in small suites consisting of two bedrooms, a bathroom, and a common area.  
+There will be two sites for the Ross Program:
+&nbsp;&nbsp; at Ohio Dominican University in Columbus OH:<br>
+&nbsp;&nbsp;&nbsp; June 15 (Wed)  through  July 27, 2022. <br><br>
+&nbsp;&nbsp;at Rose-Hulman Institute of Technology in Terre Haute, Indiana:<br>
+&nbsp;&nbsp;&nbsp; June 19 (Sun)  through  July 29, 2022.  <br>
+
+All participants will live in a dormitory on campus.  Typically, students live with three roommates 
+in a small suite of rooms.  
 
 ### What is the mailing address?
 
-The mailing address for Ross/USA Program participants is:
+The mailing address for Ross Program participants in Columbus is:
 
   (participant's name)  
   Ross Math Program  
@@ -69,7 +72,7 @@ The mailing address for Ross/USA Program participants is:
 
 ### How are the dorm rooms at Ross/USA furnished?
 
-The dormitory and classroom buildings are air-conditioned. Each participant uses a single bed,
+The dormitories and classroom buildings are air-conditioned. Each participant uses a single bed,
 a desk, a chair, and some closet space, and is provided two sheets,
 a pillowcase, and a blanket. Students provide
 their own towels and washcloths, pillows, clothes hangers, shampoo, soap and 
@@ -85,16 +88,16 @@ not leave the campus at any time unless accompanied by a counselor.
 ### Are the students segregated from college students, and from other summer camps?
 
 The Ross Mathematics Program usually fills up several floors
-of the dormitory. Other camps are held on campus. 
+of the dormitory. Other summer camps may be held on campus. 
 Their participants arrive and leave throughout the summer 
 and some of them might occupy the same dormitory building.
 
 ### What are the security arrangements in the dorm?
 
-The dormitory is locked, accessible only by key card, and each suite
+The dormitory is locked, accessible only by key card. Each suite
 has its own lock and key. In spite of these arrangements there is
 always some potential for theft or other crime, so we advise students
-to not bring valuable items or large amounts of cash.
+not to bring valuable items or large amounts of cash.
 
 ### Will the Ross counselors check that students eat good food, do laundry, clean their room, etc.?
 
@@ -135,7 +138,7 @@ help them get a cash advance, cash personal checks, etc.
 
 Off-campus trips will be organized by Ross staff members.  Students
 participating in those excursions may be asked to pay a small fee.
-Washers and dryers in the dorm are provied without additional charge
+Washers and dryers in the dorm are provided without additional charge
 but detergent is purchased separately. There is not much more that
 students are expected to buy. Some students purchase books, 
 extra food, souvenirs, etc.
@@ -151,10 +154,9 @@ a counselor will arrange to transport students to a store.
 Mathematical ideas presented in the Ross Program are
 investigated with pencil and paper. Students are **NOT** allowed to
 bring computers, electronic tablets, TV sets, video game systems, DVD
-players, etc. We ask students to refrain from using smart phones, and
+players, etc. We ask students to refrain from using their smart phones, and
 to avoid borrowing computers for internet searches, surfing websites, checking social media,
-computing, or playing games. Some computers are available on campus
-for checking email.
+computing, or playing games. 
 
 ## Transportation
 
@@ -164,15 +166,15 @@ All travel on campus is by walking.
 
 ### Where are the math lectures and seminars held?
 
-The lectures and seminars will be held in campus buildings within a
+Lectures and seminars will be held in campus buildings within a
 few blocks of the dormitory.
 
 ### Is there transportation to/from the airport if an attendee flies in or out unaccompanied?
 
-Students who fly to Columbus will arrive at the John Glenn Columbus International Airport (CMH). 
-Ross staff members will meet them in the terminal, and make arrangements to transport them 
-to the dormitory in a taxi or van. At the end of the session, on Friday afternoon,
-the Program provides transportation back to the airport.
+Students who fly to attend the program at Ohio Dominican will arrive at the John Glenn Columbus International Airport (CMH). 
+Students who fly to attend the program at Rose-Hulman will arrive at the Indianopolis International Airport (IND).
+Ross staff members will meet arriving students in the terminal, and make arrangements to transport them 
+to the dormitory. At the end of the summer session, Program staff will arrange for transportation back to the airport.
 
 ### Do some students bring cars? Are there restrictions on students riding with other students?
 
@@ -191,14 +193,14 @@ and current medications, so a health history is required.
 
 ### Do we need health insurance?
 
-Yes.  Each student must have medical insurance with coverage in
-Columbus, Ohio. Proof of insurance is required. If you do not have
+Yes.  Each student must have medical insurance with coverage in 
+Ohio or Indiana. Proof of insurance is required. If you do not have
 adequate coverage, we can suggest places to purchase short-term health
 insurance.
 
 ### Is there a nurse on duty/doctors on call? Is there a campus clinic that they can attend for minor problems?
 
-The ODU campus does not offer a medical clinic, but University staff members with training 
+The campus does not offer a medical clinic, but University staff members with training 
 in first-aid are available 24 hours per day.
 
 If a student is sick or injured, a counselor or staff member
@@ -217,15 +219,15 @@ students who need to purchase items at a pharmacy.
 ### Are there events planned for nights and weekends? Is social interaction encouraged?
 
 Counselors organize some informal activities like Ultimate Frisbee
-games each Friday, and a Talent Show. However, students are expected
+games on Fridays, and a Talent Show. However, students are expected
 to spend most of their waking hours working on the mathematical
 problem sets. Weekends are spent mostly catching up on problem sets
 that weren't completed during the week. 
 
 ### Do you conduct field trips to other locations?
 
-Yes.  We are planning some off-campus trips.  However, students 
-may be asked to pay a small fee in order to join the organized trips.
+Yes.  We are planning some off-campus trips.  Students 
+might be asked to pay a small fee in order to join the organized trips.
 
 ### Are parents allowed/ encouraged to make mid-session visits to campus?
 
@@ -257,12 +259,16 @@ students, and do not receive official credit from the University.
 Therefore this Program is classified as a 'mathematical vacation' 
 so you may use a tourist visa (B-2).
 
+However, there are serious concerns about travel restrictions and quarantines
+imposed to combat the pandemic. Those rules might prevent some students from attending the Program.  
+We hope that many of those restrictions will be lifted by June.  
+
 ## Just Curious
 
 ### How many students are admitted to the Program?
 
-We plan to admit about 70 first-year students at Ross/USA, supported by 10 to 20 
-junior counselors, and about 18 counselors.
+We expect about 60 first-year students at each site, supported by 15 
+junior counselors and 15 counselors.
 
 ### What is the ratio of boys to girls?
 
@@ -283,12 +289,10 @@ students from other countries, including Botswana, Canada, Chile, France,
 Germany, Greece, Guatemala, Israel, Italy, Japan, Kyrgyzstan, Mexico, Russia,
 Serbia, Singapore, Spain, Taiwan, and Turkey. 
 
-### How does the Ross Program compare to other summer math programs like PROMYS, Canada/USA Mathcamp, HCSSiM, SUMaC, etc?
+### How does the Ross Program compare to other summer math programs like PROMYS, Canada/USA Mathcamp, HCSSiM, SUMaC, HSMC, etc?
 
-Prominent summer math programs for high school students are listed on the
-[mathcamps](http://www.ams.org/programs/students/high-school/emp-mathcamps)
-page run by the American Mathematical Society.  A key feature of the
-Ross Program is that the students concentrate deeply on just one
+Prominent summer math programs for high school students are listed on various sites
+A key feature of the Ross Program is that the students concentrate deeply on just one
 subject for the entire session. We are convinced that this level of
 focus and depth is far more valuable than short overviews of many
 different topics.
