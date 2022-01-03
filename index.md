@@ -14,9 +14,9 @@ admission decisions will be made later that month.
 The 2022 Ross Program will have in-person, six-week, residential sessions 
 at two locations in the USA: <br><br>
 &nbsp; &nbsp; at Ohio Dominican University in Columbus; Ohio: <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **June 15** &nbsp;through&nbsp; **July 27**, 2022. <br><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **June 15** (Wed) &nbsp;through&nbsp; **July 27**, 2022. <br><br>
 &nbsp; &nbsp; at Rose-Hulman Institute of Technology in Terre Haute, Indiana: <br>
-&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; **June 19** &nbsp;through&nbsp; **July 29**, 2022. <br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; **June 19** (Sun) &nbsp;through&nbsp; **July 29**, 2022. <br>
 
 The hope is to accommodate about 60 first-year students at each site, all living together in a dormitory.  The current pandemic has caused major disruptions in travel.  It is difficult to predict what sorts of travel
 restrictions and quarantine rules will be in place in June.  Possibly, those restrictions will prevent students 
