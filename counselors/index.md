@@ -35,11 +35,11 @@ disability status, or protected veteran status.
 
 ## Counselor Responsibilities
 
-Counselors are role models for the younger students. Each counselor leads daily Zoom meetings 
-with a group of 5 students, and evaluates (grades) the mathematical work they submit, 
-providing gentle hints and advice to help inspire students to focus on their math problems. 
-Counselors also participate in one or two math courses at more advanced levels, and are 
-also encouraged to organize and present their own Zoom lectures on mathematical topics of interest.
+Ross Counselors are role models for the younger students. Each counselor leads meetings 
+with a group of 5 students and evaluates (grades) the mathematical work they submit. 
+Counselors provide gentle hints and advice to help inspire students to focus on their math problems. 
+Counselors participate in one or two math courses at more advanced levels, and are 
+encouraged to organize and present their own lectures on mathematical topics of interest.
 
 ## Compensation
 
