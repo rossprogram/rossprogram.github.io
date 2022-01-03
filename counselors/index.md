@@ -43,9 +43,8 @@ also encouraged to organize and present their own Zoom lectures on mathematical 
 
 ## Compensation
 
-In exchange for six weeks of work, the Ross Foundation provides each counselor with 
-a salary. We expect to offer a base salary of $4000 for six weeks of work, with 
-opportunities to earn extra pay for additional duties as needed.
+In exchange for six weeks of work, Ross counselors receive a base salary of $4000.  
+There will be opportunities for additional pay as extra tasks arise.
 
 
 
