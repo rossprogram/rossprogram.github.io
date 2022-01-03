@@ -12,9 +12,11 @@ The Ross Admissions Committee will begin reading applications on April 1, and
 admission decisions will be made later that month.
 
 The 2022 Ross Program will have in-person, six-week, residential sessions 
-at two locations in the USA: <br>
-&nbsp; &nbsp; at Ohio Dominican University in Columbus; Ohio: &nbsp; **June 15** &nbsp;through&nbsp; **July 27**, 2022. <br>
-&nbsp; &nbsp; at Rose-Hulman Institute of Technology in Terre Haute, Indiana: &nbsp; **June 19** &nbsp;through&nbsp; **July 29**, 2022. <br>
+at two locations in the USA: <br><br>
+&nbsp; &nbsp; at Ohio Dominican University in Columbus; Ohio: <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **June 15** &nbsp;through&nbsp; **July 27**, 2022. <br><br>
+&nbsp; &nbsp; at Rose-Hulman Institute of Technology in Terre Haute, Indiana: <br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; **June 19** &nbsp;through&nbsp; **July 29**, 2022. <br>
 
 The hope is to accommodate about 60 first-year students at each site, all living together in a dormitory.  The current pandemic has caused major disruptions in travel.  It is difficult to predict what sorts of travel
 restrictions and quarantine rules will be in place in June.  Possibly, those restrictions will prevent students 
@@ -23,7 +25,8 @@ living outside the USA from joining the 2022 Ross Program.
 There are no plans to offer an on-line version of this math camp.  
 
 **Ross Program in Asia.**  
-The _Ross/Asia_ program had in-person sessions in China from 2016 through 2019.  That math camp has been cancelled for 2022. 
+The _Ross/Asia_ program had in-person sessions in China from 2016 through 2019.  <br>
+&nbsp; &nbsp; That math camp has been cancelled for 2022. 
 
 # Introduction
 
