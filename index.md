@@ -16,9 +16,7 @@ at two locations in the USA: <br><br>
 &nbsp; &nbsp; at Rose-Hulman Institute of Technology in Terre Haute, Indiana: <br>
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; **June 19** (Sun) &nbsp;through&nbsp; **July 29**, 2022. <br>
 
-The hope is to accommodate about 60 first-year students at each site, all living together in a dormitory.  The current pandemic has caused major disruptions in travel.  It is difficult to predict what sorts of travel
-restrictions and quarantine rules will be in place in June.  Possibly, those restrictions will prevent students 
-living outside the USA from joining the 2022 Ross Program.
+The hope is to accommodate about 60 first-year students at each site, all living together in a dormitory.  The current pandemic has caused major disruptions in travel, and it is difficult to predict what sorts of travel restrictions and quarantine rules will be in place in June.  Possibly, those restrictions will prevent students living outside the USA from joining the 2022 Ross Program.
 
 There are no plans to offer an on-line version of this math camp.  
 
