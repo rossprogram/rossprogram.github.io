@@ -14,7 +14,7 @@ meta:
 
 # Instructions
 
-Each year, application materials are posted in January.
+Go to <a href="https://apply.rossprogram.org/">https://apply.rossprogram.org/</a> to begin the application process.
 
 Applicants who have technical troubles or other questions about the Ross 
 application process are welcome to email 
