@@ -10,7 +10,7 @@ tags: []
 ---
 ## Working as a Ross Counselor
 
-The Ross Program will hire several counselors to work at the online program planned for 2022. 
+The Ross Program will hire several counselors to work at the in-person program planned for 2022. 
 Each counselor is expected to be available during the entire six weeks of the Program: <br>
 &nbsp; &nbsp; mid-June &nbsp;through&nbsp; July 2022.   
 
