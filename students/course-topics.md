@@ -9,7 +9,7 @@ status: publish
 categories: []
 tags: []
 ---
-Participants in this five or six week summer course attend class 
+Participants in this six-week summer course attend class 
 for 8 hours per week (5 in lecture and 3 in problem seminar). 
 Apart from those classes, students structure their own time, 
 with the understanding that they will spend many hours concentrating 
@@ -82,8 +82,8 @@ Lattice points. Pick's Theorem. Minkowski's Theorem.
 Geometric interpretation of the Farey sequence and continued fractions.  
 Geometric proofs of the two square and four square theorems.</dd>
 <dt>Quadratic number fields</dt><dd>  
-Which quadratic number rings are Euclidean? For instance  
-<strong>Z</strong>[sqrt(d)] is Euclidean when d = -1, -2, 2, 3 but not when d = -3, -5 or 5.  
+Which quadratic number rings are Euclidean? For which d does  
+<strong>Z</strong>[sqrt(d)] have a division algorithm using the norm?  
 </dd>
 </dl>
 

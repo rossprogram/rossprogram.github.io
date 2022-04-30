@@ -6,20 +6,23 @@ sidebar:
   nav: "menu"
 ---
 
-For the 2022 Ross Mathematics Program, the application window will be open in January 2022.  The Ross Admissions
-Committee will start making acceptance decisions in March.
+The application window for the 2022 *Ross Mathematics Program* opened on January 3, 2022.  For full consideration, completed applications must be submitted before the end of March.  The Ross Admissions Committee will begin reading applications on April 1, and
+admission decisions will be made later that month.
 
-The 2021 Ross Mathematics Program was online, running from <br>
-&nbsp; &nbsp; Sunday **June 27** &nbsp; through &nbsp; Friday **August 6,** 2021
+The 2022 Ross Program will have in-person, six-week, residential sessions 
+at two locations in the USA: <br><br>
+&nbsp; &nbsp; at Ohio Dominican University in Columbus; Ohio: <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **June 15** (Wed) &nbsp;through&nbsp; **July 27**, 2022. <br><br>
+&nbsp; &nbsp; at Rose-Hulman Institute of Technology in Terre Haute, Indiana: <br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; **June 19** (Sun) &nbsp;through&nbsp; **July 29**, 2022. <br>
 
-During those six weeks, all students attended synchronous lectures 
-on Number Theory. To solve time zone challenges, those lectures were offered 
-every weekday at 11 AM and again at 8 PM, Eastern Time.  In addition, 
-participants attended small-group meetings every day to discuss the problem sets. 
-Each group was guided by a Ross counselor.
+The hope is to accommodate about 60 first-year students at each site, all living together in a dormitory.  The current pandemic has caused major disruptions in travel, and it is difficult to predict what sorts of travel restrictions and quarantine rules will be in place in June.  Possibly, those restrictions will prevent students living outside the USA from joining the 2022 Ross Program.
 
-NOTE: Some of the information below refers to the in-person Ross Program.  
-More detailed plans for the online program will be sent to accepted participants. 
+There are no plans to offer an on-line version of this math camp.  
+
+**Ross Program in Asia.**  
+The _Ross/Asia_ program had in-person sessions in China from 2016 through 2019.  <br>
+&nbsp; &nbsp; That math camp has been cancelled for 2022. 
 
 # Introduction
 
@@ -33,17 +36,12 @@ then spurred by the launch of the Sputnik satellite and the subsequent
 surge of interest in science education. Arnold Ross’s Program has run 
 every summer since then, associated mostly with Ohio State University 
 from 1964 through 2018. In 2019 the Program moved to 
-<a href="http://www.ohiodominican.edu/"> Ohio Dominican University</a>,
-and in 2020 the program was entirely online.  
+<a href="http://www.ohiodominican.edu/"> Ohio Dominican University</a>.
+In 2020 and 2021 the Ross Program was entirely online, but in-person sessions will resume in 2022.  
 
 Our central goal has always been to instruct bright young students in the art of mathematical thinking and to inspire them to discover for themselves that abstract ideas are valuable and important. First year participants take the basic course in number theory. For most students, this is the first time they are asked to consider entirely new questions, to develop methods that they have not seen before, and to justify every answer.
 
 The value of a mathematics education lies not only in obtaining proficiency in computational tasks, but also in building a foundation for critical thinking. Students who have never asked why things work the way they do are not prepared to lead the way to future scientific innovation. It is precisely this independence of thought and questioning attitude that the Ross Program strives to nurture.
-
-**Ross Program in Asia.**  
-The _Ross/Asia_ program has been cancelled for 2021.  
-In 2022 we hope to be able to offer a Ross session at a location in China or in a country nearby.
-
 
 
 ## Eligibility
@@ -51,9 +49,7 @@ In 2022 we hope to be able to offer a Ross session at a location in China or in 
 Ambitious pre-college students with interests in mathematics and science are invited 
 to [apply](/students/to-apply.md/). First-year students range in age from 15 to 18 years old. 
 (In rare cases, younger or older students are accepted.)  Admission decisions are based 
-on several criteria, including: school transcripts; teacher recommendations;  
-essays concerning the applicant’s interests and goals; and the applicant’s 
-work on some challenging math problems. 
+on several criteria, including: school transcripts; teacher recommendations;  essays concerning the applicant’s interests and goals; and the applicant’s work on some challenging math problems. 
 
 Undergraduate math majors and math graduate students are invited 
 to [apply to be a Ross Counselor](/counselors/).
@@ -62,19 +58,19 @@ NOTE. The Ross Program cannot accommodate students who must arrive more than two
 
 ## Costs and Financial Aid
 
-Each Ross student is asked to pay a program fee of $1500.  Those funds are used to hire instructors and counselors, and also cover costs for developing new courses.
+Each Ross student is asked to pay a program fee of $6000.  Those funds are used to pay for six weeks of room and board, to hire instructors and counselors, and to cover incidental costs of developing and running math courses. 
 
 NOTE: [Financial aid](https://rossprogram.org/students/faq/#are-scholarships-available) 
-is available. Accepted applicants are encouraged to apply if their families have some 
+is certainly available. Accepted applicants are encouraged to apply for aid if their families have some 
 financial need. We hope to provide enough support to enable every 
 accepted applicant to attend this great Program.   
 
 ## To Apply
 
-Each January, the Ross Program application is posted on the [to apply](/students/to-apply.md/) page. 
-In March, The Ross Admissions Committee starts the admissions process.  
-The final application deadline is April 1. <br>
-The Admissions Committee will start making acceptance offers in mid-April, and the process should
+The Ross Program application is posted on the [to apply](/students/to-apply.md/) page. 
+For full consideration, completed applications must be submitted by March 31. 
+The Ross Admissions Committee begins reading the application on April 1. <br>
+Acceptance decisions will be made later in April, and the process will
 be completed by May. 
 
 The Ross Program admits students of any race, color, gender, and national or ethnic origin.
@@ -97,7 +93,6 @@ at Texas State University.
 
 ## Questions?
 
-Please see our [Frequently Asked Questions](/students/faq/) page for more information 
-(although some of those points are valid only for the in-person version of the Ross Program). 
+Please see our [Frequently Asked Questions](/students/faq/) page for more information. 
 You are also welcome to email us at [ross@rossprogram.org](mailto:ross@rossprogram.org).
 

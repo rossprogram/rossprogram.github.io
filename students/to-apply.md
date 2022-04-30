@@ -14,7 +14,7 @@ meta:
 
 # Instructions
 
-Each year, application materials are posted in January.
+Go to <a href="https://apply.rossprogram.org/">https://apply.rossprogram.org/</a> to begin the application process.
 
 Applicants who have technical troubles or other questions about the Ross 
 application process are welcome to email 
@@ -22,15 +22,17 @@ application process are welcome to email
 
 ## Application Deadline
   
-The final deadline for Ross applications was **March 31**. 
-All spots in the 2021 Ross Program have been filled.  
-No new applications will be considered.
+The deadline for Ross applications is **March 31**. Applications submitted 
+after that date might not receive full consideration.
+
+The Ross Admissions Committee will start reading applications on April 1.  Acceptance
+decisions will be emailed later that month.
   
 
 ## Financial Information
 
-The fee to attend the online Ross Program in 2021 is $1500. That fee covers 
-all instructional expenses. 
+The fee to attend the 2022 Ross Program is $6000. That fee covers 
+all room and board costs and all instructional expenses. 
 
 ## Scholarships
 
