@@ -1,46 +1,34 @@
 ---
 layout: single
-title: Arrival Information for Ross/USA
+title: Arrival Information for Ross/Ohio
 type: page
 sidebar:
   nav: "menu"
 ---
 
 <span style="color: red"><b>Welcome</b></span> to all 
-participants who will join the 2019 <b>Ross/USA Mathematics Program</b>. <br>
+participants who will join the 2022 <b>Ross/Ohio Mathematics Program</b>. <br>
 To help things run smoothly, please complete the following steps.  <br>
-( They do not need to be done in the order given here! )
 
 ________________________________________
 ### TRAVEL to Columbus Ohio.  <br>
-Everyone must arrive before 5 PM on Sunday June 23 
+Everyone should arrive before 7 PM on Tuesday June 14 
 (unless you made other arrangements with Ross administrators).  
-If you are traveling from the USA's West Coast or from overseas, 
-please plan to arrive on Saturday June 22.
-
-Visit the Ross [Itinerary Page](https://rossprogram.org/arrival/usa/itinerary/)  for
-arrival details and a link to the online form where you report
-your itinerary and provide emergency contact information.
 
 ________________________________________
 - PARTICIPATION AGREEMENT. <br>
-Please read the documents [Program Rules](/materials/program-rules.pdf) 
-and [Standards of Behavior](/materials/standards-of-behavior.pdf).   <br>
-Download the [Participation Agreement](/materials/participation-agreement.pdf) 
-and type in the requested information. 
-Print the document on paper, sign that paper copy, 
-and have your parent sign it. Then scan the signed document, 
-and email the resulting PDF to  <agreement@rossprogram.org>. <br>
-Please bring the signed paper copy of that Participation Agreement 
-and give it to a Ross staff member when you arrive.
+
+You will receive Program Rules, Standards of Behavior, and
+Participation Agreement documents to be signed via HelloSign.
 
 ________________________________________
 - FEE PAYMENT OPTIONS.
-The [Program Fees](/materials/program-fees.pdf) document outlines payment methods.<br>
-  &nbsp;    &nbsp;    <b> Be sure to pay those fees before June 10, 2019. </b>
+
+  <b> Be sure to pay the Program Fees before May 31, 2022. </b>
      
 ________________________________________
 - WHAT TO BRING to the Ross Program? <br>
+
 Suggestions on what things to pack (and what to leave at home) 
 appear in [Bring](/materials/bring.pdf).
 
@@ -56,19 +44,16 @@ those six weeks, use the following address: <br>
 
 ________________________________________
 ### MEDICAL INFORMATION.  
-There are two items to complete and return in two separate email messages:
 
-   -  Download the [Medical Authorization](/materials/medical-authorization.pdf) 
-   form, fill in the requested information, print the form on paper, have it 
-   signed by your parent or guardian, and email it to us at  <medical@rossprogram.org> .<br>
-That form asks for some of your health history, current 
-medications, emergency contact information (parents phone numbers), 
-and provides permission for doctors to treat you in case of injuries 
+First, complete the Medical Authirization form sent to you via
+HelloSign.  That form asks for some of your health history, current
+medications, emergency contact information (parents phone numbers),
+and provides permission for doctors to treat you in case of injuries
 or illnesses during your time here.
 
-   - Scan the front and back of your medical insurance card, 
-   and email the resulting PDF file to  <medical@rossprogram.org> ,
-   with the subject line "insurance card"  followed by the name of the student.
+Then, scan the front and back of your medical insurance card, and
+email the resulting PDF file to <medical@rossprogram.org> , with the
+subject line "insurance card" followed by the name of the student.
    
 Ross participants must have health insurance that protects 
 them from major expenses due to medical emergencies.  
@@ -80,7 +65,6 @@ The Ross Program's insurance requirement is fulfilled if
 your current insurance policy covers "emergency medical care" 
 in Ohio, even if it does not cover routine care. Of course you 
 are welcome to purchase additional insurance if desired.
-
 
 <b>Do not already have insurance? </b> <br>
 Many companies offer short term insurance policies that cover 
