@@ -6,23 +6,19 @@ sidebar:
   nav: "menu"
 ---
 
-The application window for the 2022 *Ross Mathematics Program* opened on January 3, 2022.  For full consideration, completed applications must be submitted before the end of March.  The Ross Admissions Committee will begin reading applications on April 1, and
+The application window for the 2023 *Ross Mathematics Program* will open on January 2, 2023.  For full consideration, completed applications must be submitted before the end of March.  The Ross Admissions Committee will begin reading applications on April 1, and
 admission decisions will be made later that month.
 
-The 2022 Ross Program will have in-person, six-week, residential sessions 
-at two locations in the USA: <br><br>
-&nbsp; &nbsp; at Ohio Dominican University in Columbus; Ohio: <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **June 15** (Wed) &nbsp;through&nbsp; **July 27**, 2022. <br><br>
+The 2023 Ross/USA Program will have in-person, six-week, residential sessions 
+at two locations: <br><br>
+&nbsp; &nbsp; at Otterbein University in Columbus; Ohio: <br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **June 11** (Sun) &nbsp;through&nbsp; **July 21**, 2023. <br><br>
 &nbsp; &nbsp; at Rose-Hulman Institute of Technology in Terre Haute, Indiana: <br>
-&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; **June 19** (Sun) &nbsp;through&nbsp; **July 29**, 2022. <br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; **June 18** (Sun) &nbsp;through&nbsp; **July 28**, 2023. <br>
 
-The hope is to accommodate about 60 first-year students at each site, all living together in a dormitory.  The current pandemic has caused major disruptions in travel, and it is difficult to predict what sorts of travel restrictions and quarantine rules will be in place in June.  Possibly, those restrictions will prevent students living outside the USA from joining the 2022 Ross Program.
+In addition, Renascentia Hall International is expected to run Ross/Asia for a five-week in-person residential program at the University of the Philippines Diliman in Manila.  **Both Ross/USA and Ross/Asia have a common application that will be posted here on January 2, 2023.**
 
-There are no plans to offer an on-line version of this math camp.  
-
-**Ross Program in Asia.**  
-The _Ross/Asia_ program had in-person sessions in China from 2016 through 2019.  <br>
-&nbsp; &nbsp; That math camp has been cancelled for 2022. 
+The hope is to accommodate 50 first-year students at each site.
 
 # Introduction
 
@@ -35,14 +31,13 @@ multi-level program at Notre Dame University in 1957\. Its growth was
 then spurred by the launch of the Sputnik satellite and the subsequent 
 surge of interest in science education. Arnold Ross’s Program has run 
 every summer since then, associated mostly with Ohio State University 
-from 1964 through 2018. In 2019 the Program moved to 
+from 1964 through 2018.  In 2019, the Program moved to 
 <a href="http://www.ohiodominican.edu/"> Ohio Dominican University</a>.
-In 2020 and 2021 the Ross Program was entirely online, but in-person sessions will resume in 2022.  
+In 2020 and 2021 the Ross Program was entirely online, but in-person sessions  resumed in 2022 at Ohio Dominican University and <a href="https://www.rose-hulman.edu/">Rose-Hulman Institute of Technology</a>.
 
 Our central goal has always been to instruct bright young students in the art of mathematical thinking and to inspire them to discover for themselves that abstract ideas are valuable and important. First year participants take the basic course in number theory. For most students, this is the first time they are asked to consider entirely new questions, to develop methods that they have not seen before, and to justify every answer.
 
 The value of a mathematics education lies not only in obtaining proficiency in computational tasks, but also in building a foundation for critical thinking. Students who have never asked why things work the way they do are not prepared to lead the way to future scientific innovation. It is precisely this independence of thought and questioning attitude that the Ross Program strives to nurture.
-
 
 ## Eligibility
 
