@@ -10,11 +10,10 @@ tags: []
 ---
 ## Working as a Ross Counselor
 
-The Ross Program will hire several counselors to work at the in-person program planned for 2022. 
-Each counselor is expected to be available during the entire six weeks of the Program: <br>
-&nbsp; &nbsp; mid-June &nbsp;through&nbsp; July 2022.   
+The Ross/USA Program will hire several counselors to work at the in-person program planned for 2023. Each counselor is expected to be available during the entire six weeks of the Program: <br>
+&nbsp; &nbsp; mid-June &nbsp;through&nbsp; July 2023.   
 
-Application materials for the 2022 session were posted **in January.** 
+Application materials for the 2023 session were posted **in January.** 
 Look for updates at [Apply](to-apply/). <br>
 
 ## Application Requirements
@@ -43,7 +42,7 @@ encouraged to organize and present their own lectures on mathematical topics of 
 
 ## Compensation
 
-In exchange for six weeks of work, Ross counselors receive a base salary of $4000.  
+In exchange for six weeks of work at Ross/USA, Ross counselors receive a base salary of $4500.  
 There will be opportunities for additional pay as extra tasks arise.
 
 
