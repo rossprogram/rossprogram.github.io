@@ -11,7 +11,7 @@ type: page
 Ross is a six-week, residential, summer session for high school
 students who are talented in mathematics, well prepared in standard
 high school math topics, and eager to explore more advanced
-ideas. In 2020 and 2021 the Ross Program was entirely online. In 2022 we plan to return
+ideas. In 2020 and 2021 the Ross Program was entirely online. In 2022, we returned
 to in-person sessions, with participants living in a dormitory.  <br>
   
 Ross participants spend most of each day working on challenging sets
@@ -50,25 +50,14 @@ and the [Jack Kent Cooke Foundation](http://www.jkcf.org).
 
 ### Where do the students live?
 
-There will be two sites for the Ross Program:
-&nbsp;&nbsp; at Ohio Dominican University in Columbus OH:<br>
-&nbsp;&nbsp;&nbsp; June 15 (Wed)  through  July 27, 2022. <br><br>
+There will be two sites for the Ross/USA Program:
+&nbsp;&nbsp; at Otterbein University in Columbus OH:<br>
+&nbsp;&nbsp;&nbsp; June 11 (Sun)  through  July 21, 2023. <br><br>
 &nbsp;&nbsp;at Rose-Hulman Institute of Technology in Terre Haute, Indiana:<br>
-&nbsp;&nbsp;&nbsp; June 19 (Sun)  through  July 29, 2022.  <br>
+&nbsp;&nbsp;&nbsp; June 18 (Sun)  through  July 28, 2023.  <br>
 
 All participants will live in a dormitory on campus.  Typically, students live with three roommates 
-in a small suite of rooms.  
-
-### What is the mailing address?
-
-The mailing address for Ross Program participants in Columbus is:
-
-  (participant's name)  
-  Ross Math Program  
-  Ohio Dominican University  
-  1216 Sunbury Road  
-  Columbus, OH 43219
-
+in a small suite of rooms. 
 
 ### How are the dorm rooms at Ross/USA furnished?
 
