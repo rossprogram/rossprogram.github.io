@@ -14,6 +14,8 @@ meta:
 
 # Instructions
 
+The application portal is available in early January.
+
 Go to <a href="https://apply.rossprogram.org/">https://apply.rossprogram.org/</a> to begin the application process.
 
 Applicants who have technical troubles or other questions about the Ross 
@@ -31,7 +33,7 @@ decisions will be emailed later that month.
 
 ## Financial Information
 
-The fee to attend the 2022 Ross Program is $6000. That fee covers 
+The fee to attend the 2023 Ross/USA Program is $6000. That fee covers 
 all room and board costs and all instructional expenses. 
 
 ## Scholarships
