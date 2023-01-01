@@ -30,8 +30,7 @@ often appearing on the same set. By investigating a sequence of related problems
 students observe patterns, make conjectures, explore further examples to test the conjectures, 
 formulate theorems, write up proofs, polish the arguments, and investigate generalizations.
 
-Students proceed at various paces through the problem sets. In fact, few students are able t
-o master all the ideas and techniques the first time they see them. The Ross counselors 
+Students proceed at various paces through the problem sets. In fact, few students are able to master all the ideas and techniques the first time they see them. The Ross counselors 
 strive to build a "community of scholars" in the dormitory, encouraging everyone to work 
 on these challenging mathematical ideas, to share their ideas and insights, and to experience 
 the joy of solving a difficult problem.
