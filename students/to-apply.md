@@ -14,13 +14,7 @@ meta:
 
 # Instructions
 
-The application portal is available in early January.
-
-Go to <a href="https://apply.rossprogram.org/">https://apply.rossprogram.org/</a> to begin the application process.
-
-Applicants who have technical troubles or other questions about the Ross 
-application process are welcome to email 
-<a href="mailto:ross@rossprogram.org">ross@rossprogram.org</a>.
+The application portal will be available **in a few days.**
 
 ## Application Deadline
   
