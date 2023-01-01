@@ -10,7 +10,7 @@ categories: []
 tags: []
 ---
 Participants in this six-week summer course attend class 
-for 8 hours per week (5 in lecture and 3 in problem seminar). 
+for ten hours per week (five in lecture and five in small-group meetings). 
 Apart from those classes, students structure their own time, 
 with the understanding that they will spend many hours concentrating 
 on the challenging mathematical ideas presented in class and on the problem sets.
