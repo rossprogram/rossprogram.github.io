@@ -14,7 +14,7 @@ meta:
 
 # Instructions
 
-The application portal will be available **in a few days.**
+The application portal will be available **on January 5, 2023.**
 
 ## Application Deadline
   
