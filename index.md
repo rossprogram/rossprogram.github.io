@@ -6,7 +6,7 @@ sidebar:
   nav: "menu"
 ---
 
-The application window for the 2023 *Ross Mathematics Program* will open **in a few days.**  For full consideration, completed applications must be submitted before the end of March.  The Ross Admissions Committee will begin reading applications on April 1, and
+The application window for the 2023 *Ross Mathematics Program* will open on **January 5, 2023.** For full consideration, completed applications must be submitted before the end of March.  The Ross Admissions Committee will begin reading applications on April 1, and
 admission decisions will be made later that month.
 
 The 2023 Ross/USA Program will have in-person, six-week, residential sessions 
