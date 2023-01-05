@@ -14,7 +14,9 @@ meta:
 
 # Instructions
 
-The application portal will be available **on January 5, 2023.**
+The application portal is now available.
+
+Begin your application by visiting https://apply.rossprogram.org/
 
 ## Application Deadline
   
