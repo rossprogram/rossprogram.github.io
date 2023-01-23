@@ -16,7 +16,7 @@ meta:
 
 The application portal is now available.
 
-Begin your application by visiting [the application portal at https://apply.rossprogram.org/](https://apply.rossprogram.org/)
+Begin your application by visiting [the application portal at https://apply.rossprogram.org/](https://apply.rossprogram.org/).
 
 ## Application Deadline
   
