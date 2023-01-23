@@ -6,8 +6,8 @@ sidebar:
   nav: "menu"
 ---
 
-The application window for the 2023 *Ross Mathematics Program* will open **in a few days.**  For full consideration, completed applications must be submitted before the end of March.  The Ross Admissions Committee will begin reading applications on April 1, and
-admission decisions will be made later that month.
+The application window for the 2023 *Ross Mathematics Program* is now open.  For full consideration, completed applications must be submitted before the end of March.  The Ross Admissions Committee will begin reading applications on April 1, and
+admission decisions will be made later in April.
 
 The 2023 Ross/USA Program will have in-person, six-week, residential sessions 
 at two locations: <br><br>
@@ -16,7 +16,12 @@ at two locations: <br><br>
 &nbsp; &nbsp; at Rose-Hulman Institute of Technology in Terre Haute, Indiana: <br>
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; **June 18** (Sun) &nbsp;through&nbsp; **July 28**, 2023. <br>
 
-In addition, Renascentia Hall International is expected to run Ross/Asia for a five-week in-person residential program at the University of the Philippines Diliman in Manila.  **Both Ross/USA and Ross/Asia have a common application that will be posted here on January 2, 2023.**
+In addition, Renascentia Hall International is expected to run Ross/Asia, a five-week in-person residential program at the University of the Philippines Diliman in Manila similar to the Ross/USA experience.  This will be in 
+Quezon City, Philippines:<br><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **July 9** (Sun) &nbsp;through&nbsp; **August 11**, 2023. <br><br>
+Participants from outside the Philippines should plan to arrive in 
+Manila on Saturday July 8 (after noon), with departing flights on Friday 
+evening August 11, or on Saturday August 12.
 
 The hope is to accommodate 50 first-year students at each site.
 
