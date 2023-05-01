@@ -20,14 +20,7 @@ at two locations: <br><br>
 &nbsp; &nbsp; at Rose-Hulman Institute of Technology in Terre Haute, Indiana: <br>
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; **June 18** (Sun) &nbsp;through&nbsp; **July 28**, 2023. <br>
 
-In addition, Renascentia Hall International is expected to run Ross/Asia, a five-week in-person residential program at the University of the Philippines Diliman in Manila similar to the Ross/USA experience.  This will be in 
-Quezon City, Philippines:<br><br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **July 9** (Sun) &nbsp;through&nbsp; **August 11**, 2023. <br><br>
-Participants from outside the Philippines should plan to arrive in 
-Manila on Saturday July 8 (after noon), with departing flights on Friday 
-evening August 11, or on Saturday August 12.
-
-The hope is to accommodate 50 first-year students at each site.
+Plans for **Ross/Asia have been cancelled**, but it is hoped that Ross/Asia will run in 2024.
 
 # Introduction
 
