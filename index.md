@@ -80,6 +80,8 @@ The Ross Program is supported in several ways. Partners in this mathematical ent
 
 [![Jane Street]({{ site.baseurl }}/assets/JaneStreetLogoS-204ezrg.gif)](https://www.janestreet.com/) 
 
+[![Cake Shop Capital]({{ site.baseurl }}/assets/cake-shop-capital-300.png)](https://www.linkedin.com/company/thecakeshopcapital/)
+
 ## Related Programs
 
 Some other excellent summer mathematics programs are listed on the AMS 
