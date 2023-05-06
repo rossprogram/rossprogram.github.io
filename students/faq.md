@@ -108,10 +108,8 @@ Some foods (e.g. pizza) can be ordered from nearby restaurants and delivered to 
 
 ### What do students need to bring?
 
-Sheets, pillowcase, and blanket are provided. Students need to bring or purchase 
+Sheets and a pillowcase are provided. Students need to bring or purchase 
 their own towels and pillows, as well as shampoo, soap, etc. 
-(On the first day, staff members will organize a trip to a mall 
-where students can buy needed items.)
 Students should also bring clothes appropriate for a warm Columbus summer,
 in air-conditioned buildings.  It's a good idea to bring a jacket and rain gear. 
 A certain amount of cash is needed for items like snacks and souvenirs.
