@@ -78,6 +78,12 @@ Credit card contributions can be made online.
               data-price-id="sku_If7ahu3GxrQTrv"
             >
               Donate $1000.00 once
+            </button><br/>
+            <button
+              data-checkout-mode="payment"
+              data-price-id="sku_NuZ52lS7ioMoUy"
+            >
+              Donate $10,000.00 once
             </button><br/>  
           </section>
 <div id="error-message"></div>		  
