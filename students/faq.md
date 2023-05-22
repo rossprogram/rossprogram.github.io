@@ -158,8 +158,8 @@ few blocks of the dormitory.
 
 ### Is there transportation to/from the airport if an attendee flies in or out unaccompanied?
 
-Students who fly to attend the program at Ohio Dominican will arrive at the John Glenn Columbus International Airport (CMH). 
-Students who fly to attend the program at Rose-Hulman will arrive at the Indianopolis International Airport (IND).
+Students who fly to attend the program at Ross/Ohio will arrive at the John Glenn Columbus International Airport (CMH). 
+Students who fly to attend the program at Ross/Indiana will arrive at the Indianopolis International Airport (IND).
 Ross staff members will meet arriving students in the terminal, and make arrangements to transport them 
 to the dormitory. At the end of the summer session, Program staff will arrange for transportation back to the airport.
 
