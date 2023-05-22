@@ -26,10 +26,10 @@ competition between students is discouraged.
 
 ### Is admission automatic?
 
-The admission process is competitive. In 2021 about 20% 
-of the applicants were accepted. Each successful applicant has a strong
-high school record and exhibits excellent work on the mathematical
-problems that form part of the application.
+The admission process is competitive. In 2023, about 15% of the
+applicants with complete applications were accepted. Each successful
+applicant has a strong high school record and exhibits excellent work
+on the mathematical problems that form part of the application.
 
 ### Are scholarships available?
 
