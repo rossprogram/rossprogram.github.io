@@ -153,12 +153,13 @@ a counselor will arrange to transport students to a store.
 
 ### Are laptop computers allowed? What about other electronic devices?
 
-Mathematical ideas presented in the Ross Program are
-investigated with pencil and paper. Students are **NOT** allowed to
-bring computers, electronic tablets, TV sets, video game systems, DVD
-players, etc. We ask students to refrain from using their smart phones, and
-to avoid borrowing computers for internet searches, surfing websites, checking social media,
-computing, or playing games. 
+Mathematical ideas presented in the Ross Program are investigated with
+pencil and paper. We ask students to refrain from using their phones.
+Students are **NOT** allowed to bring electronic tablets, TV sets,
+video game systems, DVD players, etc.
+
+With the potential for quarantines due to COVID-19, we encourage
+participants to bring a laptop computer.
 
 ## Transportation
 
