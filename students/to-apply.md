@@ -14,9 +14,17 @@ meta:
 
 # Instructions
 
-The application portal is now available.
+The application portal will open in early 2024.
 
-Begin your application by visiting [the application portal at https://apply.rossprogram.org/](https://apply.rossprogram.org/).
+## Commitment to Nondiscrimination
+
+The Ross Program does not discriminate on the basis of gender, gender
+identity, gender expression, sexual orientation, race, creed, color,
+ethnic origin, disability, or marital status in its admissions,
+educational programming, financial aid, employment practices, or other
+activities.
+
+We recognize the existing gender and racial disparities within the mathematics community. In our commitment to fostering a diverse and inclusive environment, we highly encourage applications from individuals of underrepresented backgrounds.
 
 ## Application Deadline
   
@@ -29,7 +37,7 @@ decisions will be emailed later that month.
 
 ## Financial Information
 
-The fee to attend the 2023 Ross/USA Program is $6000. That fee covers 
+The fee to attend the 2024 Ross/USA Program is $7000. That fee covers 
 all room and board costs and all instructional expenses. 
 
 ## Scholarships
@@ -41,12 +49,6 @@ please ask your parent or guardian to contact us at
 [ross@rossprogram.org](mailto: ross@rossprogram.org). We will reply
 with details on how to apply for scholarship support.
 
-## Commitment to Nondiscrimination
 
-The Ross Program does not discriminate on the basis of gender, gender
-identity, gender expression, sexual orientation, race, creed, color,
-ethnic origin, disability, or marital status in its admissions,
-educational programming, financial aid, employment practices, or other
-activities.
 
 
