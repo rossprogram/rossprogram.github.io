@@ -275,7 +275,7 @@ junior counselors and 15 counselors.
 
 ### What is the ratio of boys to girls?
 
-In past years, about one-fourth of the participants have been female.
+In 2023, of the 114 first-year participants, 49 identified as women or non-binary.
 
 ### What is the average age? What is the age spread? Is my child too young/old?
 
