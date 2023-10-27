@@ -10,10 +10,10 @@ tags: []
 ---
 ## Working as a Ross Counselor
 
-The Ross Program will hire several counselors to work at the in-person program planned for 2023. Each counselor is expected to be available during the entire six weeks of the Program: <br>
-&nbsp; &nbsp; mid-June &nbsp;through&nbsp; July 2023.   
+The Ross Program will hire several counselors to work at the in-person program planned for 20234. Each counselor is expected to be available during the entire six weeks of the Program: <br>
+&nbsp; &nbsp; mid-June &nbsp;through&nbsp; July 2024.   
 
-Application materials for the 2023 session are posted in January.
+Application materials for the 2024 session are posted in late 2023.
 Look for updates at [Apply](to-apply/). <br>
 
 ## Application Requirements
