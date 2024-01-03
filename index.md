@@ -8,7 +8,7 @@ sidebar:
 
 The application window for the 2023 *Ross Mathematics Program* is **now closed.**
 
-The application for 2024 will open **January 3, 2024.**
+The application for 2024 will open **January 4, 2024.**
 
 For full consideration, completed applications must be submitted before the end of March.  The Ross Admissions Committee will begin reading applications on March 16, and
 admission decisions will be made later that month.
