@@ -14,7 +14,7 @@ meta:
 
 # Instructions
 
-The application portal will open in early 2024.
+The application portal for 2024 is open; you can start your application by visiting [https://apply.rossprogram.org](https://apply.rossprogram.org).
 
 ## Commitment to Nondiscrimination
 
@@ -28,12 +28,11 @@ We recognize the existing gender and racial disparities within the mathematics c
 
 ## Application Deadline
   
-The deadline for Ross applications is **March 31**. Applications submitted 
+The deadline for Ross applications is **March 15**. Applications submitted 
 after that date might not receive full consideration.
 
-The Ross Admissions Committee will start reading applications on April 1.  Acceptance
-decisions will be emailed later that month.
-  
+The Ross Admissions Committee will start reading applications on March 16.  Acceptance
+decisions will be emailed in April.
 
 ## Financial Information
 
