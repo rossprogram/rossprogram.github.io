@@ -6,21 +6,18 @@ sidebar:
   nav: "menu"
 ---
 
-The application window for the 2023 *Ross Mathematics Program* is **now closed.**
+The application portal for 2024 is open; you can start your application by visiting [https://apply.rossprogram.org](https://apply.rossprogram.org).
 
-The application for 2024 will open **January 4, 2024.**
-
-For full consideration, completed applications must be submitted before the end of March.  The Ross Admissions Committee will begin reading applications on March 16, and
+For full consideration, completed applications must be submitted before March 15.  The Ross Admissions Committee will begin reading applications on March 16, and
 admission decisions will be made later that month.
 
-The 2023 Ross/USA Program will have in-person, six-week, residential sessions 
-at two locations: <br><br>
+The 2024 Ross/USA Program will have in-person, six-week, residential sessions at two locations: <br><br>
 &nbsp; &nbsp; at Otterbein University in Columbus; Ohio: <br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **June 11** (Sun) &nbsp;through&nbsp; **July 21**, 2023. <br><br>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **June 9** (Sun) &nbsp;through&nbsp; **July 19**, 2024. <br><br>
 &nbsp; &nbsp; at Rose-Hulman Institute of Technology in Terre Haute, Indiana: <br>
-&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; **June 18** (Sun) &nbsp;through&nbsp; **July 28**, 2023. <br>
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; **June 16** (Sun) &nbsp;through&nbsp; **July 26**, 2024. <br>
 
-Plans for **Ross/Asia have been cancelled**, but it is hoped that Ross/Asia will run in 2024.
+It is possible that Ross/Asia will return in 2025.
 
 # Introduction
 
