@@ -62,10 +62,9 @@ accepted applicant to attend this great Program.
 ## To Apply
 
 The Ross Program application is posted on the [to apply](/students/to-apply.md/) page. 
-For full consideration, completed applications must be submitted by March 31. 
-The Ross Admissions Committee begins reading the application on April 1. <br>
-Acceptance decisions will be made later in April, and the process will
-be completed by May. 
+For full consideration, completed applications must be submitted by March 15. 
+The Ross Admissions Committee begins reading the application on March 16.<br>
+Acceptance decisions will be made in April, and the process will be completed by May. 
 
 The Ross Program admits students of any race, color, gender, and national or ethnic origin.
 
